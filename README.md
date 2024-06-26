@@ -13,8 +13,11 @@ I'm **Ayesha Saleem**, a Computer Science undergraduate student from Pakistan wi
 - To contribute significantly to open-source communities, collaborating on impactful projects.
 - To work at leading tech companies where I can continue to learn and innovate.
 
+## 📚 Education
+- Bachelor of Science in Computer Science (BSCS) - First Year
+
 ## 💬 Let's Connect!
-- LinkedIn:  <a href="ayeshasaleem853@gmail.com" target="_blank">Ayesha Saleem</a>
+- LinkedIn:  <a href="www.linkedin.com/in/ayshsaleem-156b5a292" target="_blank">Ayesha Saleem</a>
 - Email: ayeshasaleem853@gmail.com
 
 <!--

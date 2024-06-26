@@ -17,7 +17,7 @@ I'm **Ayesha Saleem**, a Computer Science undergraduate student from Pakistan wi
 - Bachelor of Science in Computer Science (BSCS) - First Year
 
 ## 💬 Let's Connect!
-- LinkedIn:  <a href="www.linkedin.com/in/ayshsaleem-156b5a292" target="_blank">Ayesha Saleem</a>
+- LinkedIn:  <a href="https://www.linkedin.com/in/ayshsaleem-156b5a292" target="_blank">Ayesha Saleem</a>
 - Email: ayeshasaleem853@gmail.com
 
 <!--

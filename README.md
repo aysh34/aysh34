@@ -20,6 +20,12 @@ I'm **Ayesha Saleem**, a Computer Science undergraduate student from Pakistan wi
 ## 💬 Let's Connect!
 - LinkedIn:  <a href="https://www.linkedin.com/in/ayshsaleem-156b5a292" target="_blank">Ayesha Saleem</a>
 - Email: ayeshasaleem853@gmail.com
+  
+## 📈 GitHub Analytics
+<p align="center">
+    <a href="https://github.com/aysh34">
+     <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true"/>
+</p>
 
 <!--
 **aysh34/aysh34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

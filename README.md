@@ -1,4 +1,5 @@
-## Hey folks! 👋
+## Hey folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
 
 I'm **Ayesha Saleem**, a Computer Science undergraduate student from Pakistan with a strong passion for tech, innovation, programming, and coding. I'm currently diving deep into the DSA. I thrive on challenges and am passionate about contributing to open-source projects while crafting innovative products that have a meaningful impact.
 

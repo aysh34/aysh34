@@ -1,43 +1,30 @@
-## Hey folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+I'm **Ayesha Saleem**, a Computer Science undergraduate student from Pakistan, passionate about technology, innovation, and coding. Currently exploring the depths of Data Structures and Algorithms while actively contributing to open-source projects and honing my skills in web development.
 
-I'm **Ayesha Saleem**, a Computer Science undergraduate student from Pakistan with a strong passion for tech, innovation, programming, and coding. I'm currently diving deep into the DSA. I thrive on challenges and am passionate about contributing to open-source projects while crafting innovative products that have a meaningful impact.
+### 🌟 Skills & Interests
+- **Programming Languages**: Python, C, C++
+- **Technologies**: Web Development (HTML, CSS), exploring frameworks like React and tools like Docker
+- **Passions**: Tech innovation, Open-source contributions, Problem-solving
+- **Current Focus**: Strengthening skills in Data Structures and Algorithms
 
-## 🌟 Skills & Interests
-- Programming Languages: Python, C, C++
-- Technologies: Web Development (HTML, CSS), exploring new frameworks and tools
-- Passions: Tech innovation, Open-source contributions, Problem-solving
-- Current Focus: Data Structures and Algorithm
+### 🚀 Goals
+- **Professional Growth**: To become a versatile tech professional proficient in cutting-edge technologies.
+- **Contribution**: To make meaningful contributions to open-source communities through impactful projects.
+- **Career**: To join a leading tech company where I can innovate and grow alongside industry experts.
 
-## 🚀 Goals
-- To become a versatile tech professional, adept at leveraging cutting-edge technologies.
-- To contribute significantly to open-source communities, collaborating on impactful projects.
-- To work at leading tech companies where I can continue to learn and innovate.
+### 📚 Education
+- **Bachelor of Science in Computer Science (BSCS)** - First Year, Pakistan
 
-## 📚 Education
-- Bachelor of Science in Computer Science (BSCS) - First Year
-
-## 💬 Let's Connect!
-- LinkedIn:  <a href="https://www.linkedin.com/in/ayshsaleem-156b5a292" target="_blank">Ayesha Saleem</a>
+### 💬 Let's Connect!
+- LinkedIn: [Ayesha Saleem](https://www.linkedin.com/in/ayshsaleem-156b5a292)
 - Email: ayeshasaleem853@gmail.com
-  
-## 📈 GitHub Analytics
+
+### 📈 GitHub Analytics
 <p align="center">
-    <a href="https://github.com/aysh34">
-     <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true"/>
+    <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true"/>
 </p>
 
 <!--
 **aysh34/aysh34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

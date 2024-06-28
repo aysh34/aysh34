@@ -1,20 +1,20 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm **Ayesha Saleem**, a Computer Science undergraduate student from Pakistan, passionate about technology, innovation, and coding. Currently exploring the depths of Data Structures and Algorithms while actively contributing to open-source projects and honing my skills in web development.
+I'm **Ayesha Saleem**, an undergraduate student from Pakistan, passionate about technology, innovation, and coding. I'm currently diving into Data Structures and Algorithms while honing my web development skills.
 
 ### 🌟 Skills & Interests
-- **Programming Languages**: Python, C, C++
-- **Technologies**: Web Development (HTML, CSS), exploring frameworks like React and tools like Docker
+- **Programming Languages**: Python, C, C++, 
+- **Technologies**: Web Development (HTML, CSS), exploring frameworks
 - **Passions**: Tech innovation, Open-source contributions, Problem-solving
 - **Current Focus**: Strengthening skills in Data Structures and Algorithms
 
 ### 🚀 Goals
-- **Professional Growth**: To become a versatile tech professional proficient in cutting-edge technologies.
-- **Contribution**: To make meaningful contributions to open-source communities through impactful projects.
-- **Career**: To join a leading tech company where I can innovate and grow alongside industry experts.
+- **Professional Growth**: Become proficient in cutting-edge technologies.
+- **Contribution**: Make impactful open-source contributions.
+- **Career**: Join a leading tech company to innovate and grow.
 
 ### 📚 Education
-- **Bachelor of Science in Computer Science (BSCS)** - First Year, Pakistan
+- BS in Computer Science (First Year) - Pakistan
 
 ### 💬 Let's Connect!
 <p align="center">

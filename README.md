@@ -25,7 +25,7 @@ I'm **Ayesha Saleem**, an undergraduate student from Pakistan, passionate about 
 
 ### 📈 GitHub Analytics
 <p align="center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true"/>  
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true"/>  
 <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&layout=compact&langs_count=8&theme=algolia&hide_border=true"/> -->
 </p>
 

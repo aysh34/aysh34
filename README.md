@@ -2,7 +2,7 @@
 
 I'm **Ayesha Saleem**, an undergraduate student from Pakistan, passionate about technology, innovation, and coding. I'm currently diving into Data Structures and Algorithms while honing my web development skills.
 
-### 🌟 Skills & Interests
+### 🌟 Skills & Interests 
 - **Programming Languages**: Python, C, C++, 
 - **Technologies**: Web Development (HTML, CSS), exploring frameworks
 - **Passions**: Tech innovation, Open-source contributions, Problem-solving

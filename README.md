@@ -5,7 +5,7 @@ I'm a passionate tech enthusiast who loves diving into problem-solving through d
 # 🚀 Goals
 - **Professional Growth**: Become proficient in cutting-edge technologies and frameworks.
 - **Contribution**: Make impactful contributions to open-source projects.
-- **Career Aspiration**: Join a leading tech company (like Google, Microsoft, or Amazon) to innovate and grow.
+- **Career Aspiration**: Join a leading tech company to innovate and grow.
 
 # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Languages and Tools
 <table>

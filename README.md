@@ -77,3 +77,14 @@ I'm a passionate tech enthusiast who loves diving into problem-solving through d
     <img height="25em" src="https://img.shields.io/badge/-ayeshasaleem853@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </p>
+<h1> 📈GitHub Stats </h1>
+
+
+<p align="center">
+    <a href="https://github.com/aysh34">
+          <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
+          <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+     </a> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true"/>
+</p>
+</p>

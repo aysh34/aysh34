@@ -77,7 +77,7 @@ I'm a passionate tech enthusiast who loves diving into problem-solving through d
     <img height="25em" src="https://img.shields.io/badge/-ayeshasaleem853@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-<h1> 📈GitHub Stats </h1>
+<h1> 📈 GitHub Stats </h1>
 
 
 <p align="center">

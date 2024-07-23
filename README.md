@@ -1,7 +1,7 @@
 ## Hey there 👋 Welcome!
 
-I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan. I am focused on mastering Data Structures and Algorithms, contributing to open-source projects, and pursuing a career in a leading tech company.
-
+I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan.<br> I am focused on mastering Data Structures and Algorithms.<br>
+I aspire to a career in a leading tech company.
 <!--<p align="center">
   <a href="https://github.com/peterthehan">
     <picture>
@@ -10,7 +10,27 @@ I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan. 
   <a href="https://www.linkedin.com/in/peterthehan">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a></p>-->
 
-## 🛠 Languages and Tools
+## 💻 My Tech Stack
+<!--
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code) -->
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap,git,github"/>
+
+
+ ## 👩‍💻 Where to find me
+<div align="center">
+    <a href="https://www.linkedin.com/in/ayshsaleem-156b5a292/" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:ayeshasaleem853@gmail.com"><img src="https://img.shields.io/badge/-ayeshasaleem853@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/ayesha_saleem9" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+</div>
+
+<!-- ## 🛠 Languages and Tools
 <table>
   <tr>
     <td align="center" width="96">
@@ -62,9 +82,9 @@ I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan. 
       <br>VS Code
     </td>
   </tr>
-</table>
+</table> -->
 
-## 💬 Let's Connect!
+<!-- ## 💬 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/ayshsaleem-156b5a292" target="_blank">
     <img height="25em" src="https://img.shields.io/badge/-Ayesha%20Saleem-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
@@ -72,16 +92,16 @@ I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan. 
   <a target="_blank" href="mailto:ayeshasaleem853@gmail.com">
     <img height="25em" src="https://img.shields.io/badge/-ayeshasaleem853@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-</p>
+</p>-->
 
-## ⚡ LeetCode Info ⚡
+## ⚡ LeetCode Info 
 <p align="center">
-<img width="82%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?theme=dark&border=0&radius=10"></p>
+<img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?theme=dark&border=0&radius=10"></p>
 
 ## 📊 GitHub Stats
 <p align="center">
     <a href="https://github.com/aysh34">
-      <img width="82%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/> 
+      <img width="70%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/> 
     </a> 
-    <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true&border_radius=10"/>
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true&border_radius=10"/>
 </p>

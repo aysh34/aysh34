@@ -1,12 +1,6 @@
 ## Hey there 👋 Welcome!
-I am <strong>Ayesha Saleem</strong>, from Emerson University Multan, currently pursuing a BS in Computer Science.<br><br>
-I'm a passionate tech enthusiast who loves diving into problem-solving through data structures and algorithms (DSA).
+I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan. Focused on mastering Data Structures and Algorithms, I aim to contribute to open-source projects and pursue a career in a leading tech company.
 
-## 🚀 Goals
-- 🎯 **Current Focus**: Mastering Data structures and Algorithms.
-- 📈 **Professional Growth**: Become proficient in cutting-edge technologies and frameworks.
-- 👩‍💻 **Contribution**: Make impactful contributions to open-source projects.
-- 💡 **Career Aspiration**: Join a leading tech company to innovate and grow.
 
 ## 🛠 Languages and Tools
 <table>

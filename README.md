@@ -82,8 +82,8 @@ I'm a passionate tech enthusiast who loves diving into problem-solving through d
 
 <p align="center">
     <a href="https://github.com/aysh34">
-          <img width="82%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
+          <img width="82%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/> 
   </a> 
-     <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true"/>
+     <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true&border_radius=10"/>
 </p>
 </p>

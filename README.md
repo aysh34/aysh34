@@ -24,7 +24,7 @@ I aspire to a career in a leading tech company.
 
 
  ## 👩‍💻 Where to find me
-<div align="center">
+<div>
     <a href="https://www.linkedin.com/in/ayshsaleem-156b5a292/" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:ayeshasaleem853@gmail.com"><img src="https://img.shields.io/badge/-ayeshasaleem853@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/ayesha_saleem9" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>

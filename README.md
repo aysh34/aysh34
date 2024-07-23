@@ -1,17 +1,17 @@
 ## Hey there 👋 Welcome!
-I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan. Focused on mastering Data Structures and Algorithms, I aim to contribute to open-source projects and pursue a career in a leading tech company.
 
+I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan. I am focused on mastering Data Structures and Algorithms, contributing to open-source projects, and pursuing a career in a leading tech company.
 
 ## 🛠 Languages and Tools
 <table>
   <tr>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#python">
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="48" height="48" />
       </a>
       <br>Python
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#cplusplus">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="70" height="50" />
       </a>
@@ -53,12 +53,6 @@ I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan. 
       </a>
       <br>VS Code
     </td>
-    <td align="center" width="96">
-      <a href="#canva">
-        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
-      </a>
-      <br>Canva
-    </td>
   </tr>
 </table>
 
@@ -72,14 +66,14 @@ I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan. 
   </a>
 </p>
 
-<!--<br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>-->
+## ⚡ LeetCode Info ⚡
+<p align="center">
+<img width="82%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?theme=dark&border=0&radius=10"></p>
+
 ## 📊 GitHub Stats
 <p align="center">
     <a href="https://github.com/aysh34">
-          <img width="82%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/> 
-  </a> 
-     <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true&border_radius=10"/>
-</p>
+      <img width="82%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/> 
+    </a> 
+    <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true&border_radius=10"/>
 </p>

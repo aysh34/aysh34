@@ -1,14 +1,14 @@
-<h1>Hey there 👋 Welcome!</h1>
+## Hey there 👋 Welcome!
 I am <strong>Ayesha Saleem</strong>, from Emerson University Multan, currently pursuing a BS in Computer Science.<br><br>
 I'm a passionate tech enthusiast who loves diving into problem-solving through data structures and algorithms (DSA).
 
-# 🚀 Goals
+## 🚀 Goals
 - 🎯 **Current Focus**: Mastering Data structures and Algorithms.
 - 📈 **Professional Growth**: Become proficient in cutting-edge technologies and frameworks.
 - 👩‍💻 **Contribution**: Make impactful contributions to open-source projects.
 - 💡 **Career Aspiration**: Join a leading tech company to innovate and grow.
 
-# 🛠 Languages and Tools
+## 🛠 Languages and Tools
 <table>
   <tr>
      <td align="center" width="96">
@@ -68,7 +68,7 @@ I'm a passionate tech enthusiast who loves diving into problem-solving through d
   </tr>
 </table>
 
-# 💬 Let's Connect!
+## 💬 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/ayshsaleem-156b5a292" target="_blank">
     <img height="25em" src="https://img.shields.io/badge/-Ayesha%20Saleem-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
@@ -77,9 +77,11 @@ I'm a passionate tech enthusiast who loves diving into problem-solving through d
     <img height="25em" src="https://img.shields.io/badge/-ayeshasaleem853@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-<h1> 📊 GitHub Stats </h1>
 
-
+<!--<br/>
+  <h2 align="center">⚡ Current Stats ⚡</h2>
+<br>-->
+## 📊 GitHub Stats
 <p align="center">
     <a href="https://github.com/aysh34">
           <img width="82%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/> 

@@ -1,9 +1,9 @@
 ## Hey there 👋 Welcome! 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />-->
 
-- 👩‍🎓 About Me: I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan.<br>
-- 🎯 Current Focus: Data Structures and Algorithms.<br>
-- 👩‍💻 Career: I aspire to a career in a leading tech company.
+- I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan.<br>
+- I'm currently dedicating my time to enhancing my problem-solving skills by diving into data structures and algorithms.
+
 <!--<p align="center">
   <a href="https://github.com/peterthehan">
     <picture>

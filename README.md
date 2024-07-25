@@ -96,7 +96,7 @@
   </a>
 </p>-->
 
-## LeetCode Info 
+## LeetCode Stats
 <p align="center">
 <img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?theme=dark&border=0&radius=10"></p>
 

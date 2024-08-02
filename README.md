@@ -3,7 +3,7 @@
 I'm **Ayesha Saleem**, a Computer Science student at Emerson University Multan.<br><br>
 I'm currently dedicating my time to enhancing my problem-solving skills by diving into data structures and algorithms.
 
-<!--<p align="center">
+<!--<p align="center"> 
   <a href="https://github.com/peterthehan">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">

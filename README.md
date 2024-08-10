@@ -97,12 +97,12 @@ I'm currently dedicating my time to enhancing my problem-solving skills by divin
 
 ## LeetCode Stats
 <p align="center">
-<img width="80%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?ext=heatmap&border=0&radius=10"></p>
+<img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?ext=heatmap&border=0&radius=10"></p>
 
 ## GitHub Stats
 <p align="center">
     <a href="https://github.com/aysh34">
-      <img width="80%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/> 
+      <img width="70%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/> 
     </a> 
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true&border_radius=10"/>
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true&border_radius=10"/>
 </p>

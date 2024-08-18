@@ -97,7 +97,7 @@ I'm currently dedicating my time to enhancing my problem-solving skills by divin
 
 ## LeetCode Stats
 <p align="center">
-<img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&radius=20"></p> 
+<img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&radius=20&theme=dark"></p> 
 
 ## GitHub Stats
 <p align="center">

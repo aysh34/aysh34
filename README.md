@@ -25,7 +25,7 @@
 <!--<img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap,git,github"/>-->
 
 ## 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆
-[![Linkedin Badge](https://img.shields.io/badge/-AyeshaSaleem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshasaleem6/)](https://www.linkedin.com/in/ayeshasaleem6/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-AyeshaSaleem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshasaleem6/)](https://www.linkedin.com/in/ayeshasaleem6/) -->
 
 <div>
     <a href="https://www.linkedin.com/in/ayshsaleem-156b5a292/" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>

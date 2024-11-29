@@ -34,10 +34,12 @@
     <a href="https://leetcode.com/ayesha_saleem9" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 </div>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=ayesha_saleem9&theme=nightowl" alt="LeetCode Badges"/>
-<!-- ## 𝑳𝒆𝒆𝒕𝒞𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔
+## 𝑳𝒆𝒆𝒕𝒞𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔
 <p align="center">
-<img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&radius=20&theme=dark"></p> -->
+ <img src="https://leetcode-badge-showcase.vercel.app/api?username=ayesha_saleem9&theme=nightowl" alt="LeetCode Badges"/>
+
+<!-- <img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&radius=20&theme=dark">-->
+</p> -->
 
 ## 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
 <p align="center">

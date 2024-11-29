@@ -36,7 +36,7 @@
 
 ## 𝑳𝒆𝒆𝒕𝒞𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔
 <p align="center">
- <img  width="70%" src="https://leetcode-badge-showcase.vercel.app/api?username=ayesha_saleem9&theme=nightowl&hide_border=true" alt="LeetCode Badges"/>
+ <img  width="70%" src="https://leetcode-badge-showcase.vercel.app/api?username=ayesha_saleem9&theme=nightowl&hide_border=true&border_radius=false" alt="LeetCode Badges"/>
 
 <!-- <img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&radius=20&theme=dark">-->
 </p>

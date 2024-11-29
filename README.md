@@ -45,5 +45,9 @@
 <p align="center">
     <a href="https://github.com/aysh34">
       <img width="70%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true&border_radius=20"/></a>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true&border_radius=20"/></a>
+</p>
+<p align="center">
+ <a> <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>
+</a>
 </p>

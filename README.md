@@ -4,7 +4,7 @@
 
 🧠 **𝑭𝒐𝒄𝒖𝒔𝒆𝒅** on mastering data structures and algorithms.
  
-🚀 **𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆** about AI/ML and currently exploring Generative AI.
+🚀 **𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆** about AI/ML and currently exploring Generative AI. 
  
 💡 **𝑨𝒗𝒊𝒅 𝑳𝒆𝒂𝒓𝒏𝒆𝒓** always eager to dive into new tech and coding challenges.
 

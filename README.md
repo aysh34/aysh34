@@ -11,6 +11,8 @@
 
 - Avid Learner always eager to dive into new tech and coding challenges.
 
+- Fun fact about me: I love coding+learning+repeating
+
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -51,9 +53,6 @@
 
 <!-- <img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&radius=20&theme=dark">-->
 </p>
-
-<div align="center">
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Fun fact about me: ✨ I love coding+learning+repeating ✨</h3></div>
 
 ## 📊 GitHub Stats
 <p align="center">

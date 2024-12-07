@@ -11,7 +11,9 @@
 
 - Avid Learner always eager to dive into new tech and coding challenges.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -34,7 +36,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 <!--<img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap,git,github"/>-->
 
-## 🤝 Connect with me
+## 🤝 Connect With Me
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-AyeshaSaleem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshasaleem6/)](https://www.linkedin.com/in/ayeshasaleem6/) -->
 
 <div>
@@ -63,4 +65,6 @@
 <img width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>
 </a>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <!-- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> -->

@@ -35,7 +35,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 <!--<img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap,git,github"/>-->
 
-## 🤝🏻 Connect with me
+## 🤝 Connect with me
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-AyeshaSaleem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshasaleem6/)](https://www.linkedin.com/in/ayeshasaleem6/) -->
 
 <div>

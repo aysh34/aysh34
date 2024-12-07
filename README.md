@@ -1,16 +1,19 @@
-## 𝑯𝒊 👋, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=39C566&width=435&lines=It%E2%80%99s+said+that+half+of+coding+is;+knowing+how+to+Google+effectively.;But+coders+take+pride+in+turning;borrowed+snippets+into+magic!%F0%9F%98%8E)](https://git.io/typing-svg)
 
-🎓 **𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝑺𝒕𝒖𝒅𝒆𝒏𝒕** at Emerson University Multan.
+## 𝑯𝒊 👋, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎!
 
-🧠 **𝑭𝒐𝒄𝒖𝒔𝒆𝒅** on mastering data structures and algorithms.
+## 👩‍💻 About Me
 
-🚀 **𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆** about AI/ML and currently exploring Generative AI. 
+- Computer Science student at Emerson University Multan.
 
-💡 **𝑨𝒗𝒊𝒅 𝑳𝒆𝒂𝒓𝒏𝒆𝒓** always eager to dive into new tech and coding challenges.
+- Focused on mastering data structures and algorithms.
+
+- Passionate about AI/ML and currently exploring Generative AI. 
+
+- Avid Learner always eager to dive into new tech and coding challenges.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-## 𝑴𝒚 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -32,7 +35,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 <!--<img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap,git,github"/>-->
 
-## 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆
+## 🤝🏻 Connect with me
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-AyeshaSaleem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshasaleem6/)](https://www.linkedin.com/in/ayeshasaleem6/) -->
 
 <div>
@@ -41,14 +44,17 @@
     <a href="https://leetcode.com/ayesha_saleem9" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 </div>
 
-## 𝑳𝒆𝒆𝒕𝒞𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔
+## 🎖 LeetCode Stats
 <p align="center">
  <img  width="70%" src="https://leetcode-badge-showcase.vercel.app/api?username=ayesha_saleem9&theme=nightowl" alt="LeetCode Badges"/>
 
 <!-- <img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&radius=20&theme=dark">-->
 </p>
 
-## 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
+<div align="center">
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Fun fact about me: ✨ I love coding+learning+repeating ✨</h3></div>
+
+## ⚙️ GitHub Stats
 <p align="center">
     <a href="https://github.com/aysh34">
       <img width="70%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>

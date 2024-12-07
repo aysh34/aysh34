@@ -1,14 +1,15 @@
-## 𝑯𝒊, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎!
+## 𝑯𝒊 👋, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=39C566&width=435&lines=It%E2%80%99s+said+that+half+of+coding+is;+knowing+how+to+Google+effectively.;But+coders+take+pride+in+turning;borrowed+snippets+into+magic!%F0%9F%98%8E)](https://git.io/typing-svg)
 
 🎓 **𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝑺𝒕𝒖𝒅𝒆𝒏𝒕** at Emerson University Multan.
 
 🧠 **𝑭𝒐𝒄𝒖𝒔𝒆𝒅** on mastering data structures and algorithms.
- 
+
 🚀 **𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆** about AI/ML and currently exploring Generative AI. 
- 
+
 💡 **𝑨𝒗𝒊𝒅 𝑳𝒆𝒂𝒓𝒏𝒆𝒓** always eager to dive into new tech and coding challenges.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## 𝑴𝒚 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -28,7 +29,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Anaconda](![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 <!--<img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap,git,github"/>-->
 
 ## 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝑴𝒆
@@ -57,3 +58,4 @@
 <img width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>
 </a>
 </p>
+<!-- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> -->

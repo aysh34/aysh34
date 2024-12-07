@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=39C566&width=435&lines=It%E2%80%99s+said+that+half+of+coding+is;+knowing+how+to+Google+effectively.;But+coders+take+pride+in+turning;borrowed+snippets+into+magic!%F0%9F%98%8E)](https://git.io/typing-svg)
-
 ## 𝑯𝒊 👋, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎!
 
 ## 👩‍💻 About Me

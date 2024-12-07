@@ -1,6 +1,6 @@
 ## 𝑯𝒊, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there!+I'm+Ayesha+Saleem)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=39C566&width=435&lines=It%E2%80%99s+said+that+half+of+coding+is;+knowing+how+to+Google+effectively.;But+coders+take+pride+in+turning;borrowed+snippets+into+magic!%F0%9F%98%8E)](https://git.io/typing-svg)
+
 🎓 **𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝑺𝒕𝒖𝒅𝒆𝒏𝒕** at Emerson University Multan.
 
 🧠 **𝑭𝒐𝒄𝒖𝒔𝒆𝒅** on mastering data structures and algorithms.

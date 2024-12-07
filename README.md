@@ -54,7 +54,7 @@
 <div align="center">
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Fun fact about me: ✨ I love coding+learning+repeating ✨</h3></div>
 
-## ⚙️ GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
     <a href="https://github.com/aysh34">
       <img width="70%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>

@@ -4,19 +4,44 @@
 ## 𝑯𝒊 👋, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎!
 
 ## 👩‍💻 About Me
+- 💼 I’m pursuing a <strong>BS in Computer Science</strong>.
+- 🌱 I’m sharpening my skills in <strong>DSA</strong> with a focus on mastering problem-solving and algorithms.
+- 💻 I’m currently learning <strong>Numpy, Pandas, Machine Learning</strong> and solving challenges of <strong>Advent of Code 2024</strong>.
+- 🚀 <strong>Avid Learner</strong> always eager to dive into new tech and coding challenges.
+- 😉 Fun Fact: I can talk about big tech trends, programming, and innovation for hours without getting bored!
 
-- Computer Science student at Emerson University Multan.
 
-- Focused on mastering data structures and algorithms.
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
-- Passionate about AI/ML and currently exploring Generative AI. 
-
-- Avid Learner always eager to dive into new tech and coding challenges.
-
-- Fun fact about me: I love coding+learning+repeating
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--<h2>🛠️ Languages, Frameworks, and Tools </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,python"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Machine Learning</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=oracle,mysql,firebase"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,git,postman"/></td>
+    </tr>
+</table>-->
+
 
 ## 🛠 Tech Stack
 
@@ -51,7 +76,7 @@
 <p align="center">
  <!-- <img  width="70%" src="https://leetcode-badge-showcase.vercel.app/api?username=ayesha_saleem9&theme=nightowl" alt="LeetCode Badges"/>-->
 
-<img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&radius=20&theme=radical&hide_border=false&border_radius=10">
+<img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&theme=dark&hide_border=false">
 </p>
 
 ## 📊 GitHub Stats

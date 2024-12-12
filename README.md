@@ -62,6 +62,9 @@
 
 <img width="70%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=True&border_radius=10"/>
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> -->

@@ -39,8 +39,6 @@
 <!--<img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap,git,github"/>-->
 
 ## 🤝 Connect With Me
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-AyeshaSaleem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshasaleem6/)](https://www.linkedin.com/in/ayeshasaleem6/) -->
-
 <div>
     <a href="https://www.linkedin.com/in/ayshsaleem-156b5a292/" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:ayeshasaleem853@gmail.com"><img src="https://img.shields.io/badge/-ayeshasaleem853@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -49,20 +47,18 @@
 
 ## 🎖 LeetCode Stats
 <p align="center">
- <img  width="70%" src="https://leetcode-badge-showcase.vercel.app/api?username=ayesha_saleem9&theme=nightowl" alt="LeetCode Badges"/>
+ <!-- <img  width="70%" src="https://leetcode-badge-showcase.vercel.app/api?username=ayesha_saleem9&theme=nightowl" alt="LeetCode Badges"/>-->
 
-<!-- <img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&radius=20&theme=dark">-->
+<img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&radius=20&theme=radical&hide_border=false&border_radius=10">
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
-    <a href="https://github.com/aysh34">
-      <img width="70%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>
+<img width="70%" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=false&border_radius=10"/>
+<img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=false&border_radius=10"/>
 
-<img width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>
-</a>
+<img width="70%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=false&border_radius=10"/>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 

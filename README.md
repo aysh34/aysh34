@@ -83,10 +83,12 @@
 <p align="center">
 <img width="70%" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
 
-<img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true&border_radius=10"/>
+<!--<img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true&border_radius=10"/>-->
 
 <img width="70%" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=True&border_radius=10"/>
 </p>
+
+[![Ayesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aysh34&theme=rogue)](https://github.com/aysh34/github-readme-activity-graph)
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />

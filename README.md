@@ -79,7 +79,7 @@
 <img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&theme=dark&hide_border=false">
 </p>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> GitHub Stats
 <p align="center">
 <img width="70%" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
 
@@ -94,4 +94,3 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> -->

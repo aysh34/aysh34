@@ -1,6 +1,6 @@
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=39C566&width=435&lines=It%E2%80%99s+said+that+half+of+coding+is;+knowing+how+to+Google+effectively.;But+coders+take+pride+in+turning;borrowed+snippets+into+magic!%F0%9F%98%8E)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot&size=30&pause=1000&color=39C566&width=800&lines="First,+solve+the+problem.+Then,+write+the+code";++"Great+Developers+never+stop+learning")](https://git.io/typing-svg)
+<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot&size=30&pause=1000&color=39C566&width=800&lines="First,+solve+the+problem.+Then,+write+the+code";++"Great+Developers+never+stop+learning")](https://git.io/typing-svg)
 ## 𝑯𝒊 👋, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎! 
 
 ## 👩‍💻 About Me 
@@ -14,34 +14,6 @@
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--<h2>🛠️ Languages, Frameworks, and Tools </h2>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,python"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Machine Learning</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=oracle,mysql,firebase"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,git,postman"/></td>
-    </tr>
-</table>-->
-
 
 ## 🛠 Tech Stack
 
@@ -93,4 +65,5 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
     <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

@@ -1,7 +1,7 @@
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot&size=30&pause=1000&color=39C566&width=800&lines="First,+solve+the+problem.+Then,+write+the+code";++"Great+Developers+never+stop+learning")](https://git.io/typing-svg)
-## 𝑯𝒊 👋, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎! 
+## 𝑯𝒊 👋, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎!  
 
 ## 👩‍💻 About Me 
 - 💼 I’m pursuing a <strong>BS in Computer Science</strong>.

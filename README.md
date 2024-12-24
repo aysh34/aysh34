@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot&size=30&pause=1000&color=39C566&width=800&lines="First,+solve+the+problem.+Then,+write+the+code";++"Great+Developers+never+stop+learning")](https://git.io/typing-svg)
 ## 𝑯𝒊 👋, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎!  
 
-## 👩‍💻 About Me 
+## 👩‍💻 About Me  
 - 💼 I’m pursuing a <strong>BS in Computer Science</strong>.
 - 🌱 I’m sharpening my skills in <strong>DSA</strong> with a focus on mastering problem-solving and algorithms.
 - 💻 I’m currently learning <strong>Numpy, Pandas, Machine Learning</strong> and solving challenges of <strong>Advent of Code 2024</strong>.

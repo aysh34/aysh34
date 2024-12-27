@@ -60,6 +60,4 @@
 </p>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
-
-<img height="200" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

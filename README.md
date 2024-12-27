@@ -1,17 +1,18 @@
-<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<h1 align="center"> <b>Hi, I'm Ayesha Saleem</b> </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot&size=30&pause=1000&color=39C566&width=800&lines=First,+solve+the+problem.+Then,+write+the+code.;Great+Developers+never+stop+learning)](https://git.io/typing-svg)
-
-# 𝑯𝒊 👋, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎!  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Aspiring+Data+Scientist.;Passionate+Learner+and+Coder.;Turning+Data+into+Insights+and+Innovation.">
+  </a>
+</p>
 
 ## 👩‍💻 About Me  
 - 💼 Pursuing **BS in Computer Science** with a keen focus on innovation and problem-solving.  
 - 🌱 Mastering **Data Structures & Algorithms (DSA)** and diving into **Machine Learning** and **Data Science**.  
 - 📊 Building projects with **NumPy**, **Pandas**, and more.  
 - 🚀 Always excited to learn new technologies and tackle challenging problems.  
-- 💡 **Fun Fact**: I can discuss tech trends, programming, and innovation for hours!
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+- 👨‍💻 Open to opportunities: Collaboration, internships, or projects in AI.
+- 💡 Fun Fact: I can discuss tech trends, programming, and innovation for hours!
 
 ## 🛠 Language & Tools  
 
@@ -40,6 +41,11 @@
     <a href="https://leetcode.com/ayesha_saleem9" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 </div>
 
+## 🎖 Certifications & Awards:
+- Completed training in Generative AI by PakAngels.
+- GitHub Global Campus Student.
+- C++ internship at CodeAlpha.
+  
 ## 🎖 LeetCode Stats  
 
 <p align="center">
@@ -51,6 +57,7 @@
 <p align="center">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&langs_count=12&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+    <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true&border_radius=10"/>
 </p>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />

@@ -4,14 +4,11 @@
 ## 𝑯𝒊 👋, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑺𝒂𝒍𝒆𝒆𝒎!  
 
 ## 👩‍💻 About Me  
-- 💼 I’m pursuing a <strong>BS in Computer Science</strong>.
-- 🌱 I’m sharpening my skills in <strong>DSA</strong> with a focus on mastering problem-solving and algorithms.
-- 💻 I’m currently learning <strong>Numpy, Pandas, Machine Learning</strong> and solving challenges of <strong>Advent of Code 2024</strong>.
-- 🚀 <strong>Avid Learner</strong> always eager to dive into new tech and coding challenges.
-- 😉 Fun Fact: I can talk about big tech trends, programming, and innovation for hours without getting bored!
-
-
-<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+- 💼 Pursuing BS in **Computer Science** with a keen focus on innovation and problem-solving.  
+- 🌱 Currently mastering **Data Structures & Algorithms (DSA)** and exploring **Machine Learning** and **Data Science**.  
+- 📊 Building projects with **NumPy** and **Pandas**.  
+- 🚀 Always excited to learn new technologies and tackle challenging problems.  
+- 💡 **Fun Fact**: I can discuss tech trends, programming, and innovation for hours!
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -58,8 +55,6 @@
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
-
-[![Ayesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aysh34&theme=merko)](https://github.com/aysh34/github-readme-activity-graph)
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

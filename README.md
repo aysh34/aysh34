@@ -46,7 +46,7 @@
 - GitHub Global Campus Student.
 - C++ internship at CodeAlpha.
   
-## 🎖 LeetCode Stats  
+## 📈 LeetCode Stats  
 
 <p align="center">
 <img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&theme=dark&hide_border=false">

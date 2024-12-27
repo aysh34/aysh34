@@ -32,8 +32,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
----
-
 ## 🤝 Connect With Me  
 
 <div>
@@ -42,15 +40,11 @@
     <a href="https://leetcode.com/ayesha_saleem9" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 </div>
 
----
-
 ## 🎖 LeetCode Stats  
 
 <p align="center">
 <img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&theme=dark&hide_border=false">
 </p>
-
----
 
 ## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> GitHub Stats  
 

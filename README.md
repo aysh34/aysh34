@@ -16,6 +16,16 @@
 
 ---
 
+## 🧠 "Quotes That Inspire Me"
+
+> "Data is the new oil." – **Clive Humby**  
+> _I believe in the power of data to change industries and solve the most pressing global challenges._
+
+> "It always seems impossible until it’s done." – **Nelson Mandela**  
+> _This quote motivates me to keep pushing through challenges, particularly in coding and problem-solving._
+
+---
+
 ## 🛠 Skills & Tools
 
 ### **Languages & Frameworks:**

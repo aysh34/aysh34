@@ -1,19 +1,20 @@
-<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<!--<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />-->
 <h1 align="center"> <b>Hi, I'm Ayesha Saleem</b> </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Aspiring+Data+Scientist;Passionate+Learner+and+Coder;Turning+Data+into+Insights+and+Innovation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Aspiring+Data+Scientist;Passionate+Learner+and+Coder;Turning+Data+into+Insights">
   </a>
 </p>
 
 ## 👩‍💻 About Me  
-- 💼 Pursuing **BS in Computer Science** with a keen focus on innovation and problem-solving.  
-- 🌱 Mastering **Data Structures & Algorithms (DSA)** and diving into **Machine Learning** and **Data Science**.  
-- 📊 Building projects with **NumPy**, **Pandas**, and more.  
-- 🚀 Always excited to learn new technologies and tackle challenging problems.  
-- 👨‍💻 Open to opportunities: Collaboration, internships, or projects in AI.
-- 💡 Fun Fact: I can discuss tech trends, programming, and innovation for hours!
+- 💼 Currently pursuing a **BS in Computer Science**, with a passion for innovation and problem-solving.  
+- 🌱 Focused on mastering **Data Structures & Algorithms (DSA)** while exploring **Machine Learning** and **Data Science**.  
+- 📊 Hands-on experience with **NumPy**, **Pandas**, and other tools to build impactful projects.  
+- 🚀 Always eager to learn new technologies and tackle complex challenges.  
+- 👨‍💻 Open to collaboration, internships, or projects in **AI**.  
+- 💡 Fun Fact: I'm working on a diet to achieve my fitness goals!
+
 
 ## 🛠 Language & Tools  
 

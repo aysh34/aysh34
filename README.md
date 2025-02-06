@@ -43,10 +43,6 @@
     <a href="https://leetcode.com/ayesha_saleem9" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 </div>
 
-## 🎖 Certifications & Awards:
-- Completed training in Generative AI by PakAngels.
-- GitHub Global Campus Student.
-- C++ internship at CodeAlpha.
   
 ## 📈 LeetCode Stats  
 
@@ -61,6 +57,4 @@
     <img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&langs_count=12&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     <img width="80%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true"/>
 </p>
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

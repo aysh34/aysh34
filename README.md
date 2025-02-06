@@ -1,8 +1,12 @@
-<h1 align="center">Hi, I'm Ayesha Saleem 👩‍💻</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D0C9&width=650&height=60&lines=Turning+Data+Into+Intelligence...;Solving+Real-World+Problems+With+AI;Passionate+About+Machine+Learning;Always+Learning%2C+Always+Building...">
-</p>
+  <h1>Hi, I'm Ayesha Saleem 👩‍💻</h1>
+
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D0C9&width=650&height=60&lines=Turning+Data+Into+Intelligence...;Solving+Real-World+Problems+With+AI;Passionate+About+Machine+Learning;Always+Learning%2C+Always+Building...">
+  </p>
+
+</div>
 
 ---
 

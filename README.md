@@ -3,44 +3,64 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Aspiring+Data+Scientist;Passionate+Learner+and+Coder;Turning+Data+into+Insights">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Aspiring+Software+Engineer;Data+Science+Enthusiast;Building+AI+Solutions">
   </a>
 </p>
 
 ## 👩‍💻 About Me  
-- 💼 Currently pursuing a **BS in Computer Science**, with a passion for innovation and problem-solving.  
-- 🌱 Focused on mastering **Data Structures & Algorithms (DSA)** while exploring **Machine Learning** and **Data Science**.  
-- 📊 Hands-on experience with **NumPy**, **Pandas**, and other tools to build impactful projects.  
-- 🚀 Always eager to learn new technologies and tackle complex challenges.  
-- 👨‍💻 Open to collaboration, internships, or projects in **AI**.  
+- 🎓 **BS in Computer Science** student with a passion for **Data Science**, **Machine Learning**, and **Software Development**.
+- 🌱 Focused on mastering **Data Structures & Algorithms** while exploring **AI**, **ML**, and **Data Analysis**.
+- 💼 Interested in collaborating on projects and internships that make a meaningful impact in the tech world.
+- 💡 Currently working on developing my skills in **Python**, **C++**, **Data Science tools**, and **AI technologies**.
 - 💡 Fun Fact: I'm working on a diet to achieve my fitness goals!
 
 
-## 🛠 Language & Tools  
+## 🛠 Skills & Tools  
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+### **Languages & Frameworks**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### **Data Science Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Seaborn-3E4B47?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
+  <img src="https://img.shields.io/badge/Pandas%20Profiling-0C7D8C?style=for-the-badge&logo=python&logoColor=white" alt="Pandas Profiling" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+</p>
+
+### **Version Control & Collaboration**  
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### **API Development & Testing**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+
 
 ## 🤝 Connect With Me  
-
-<div>
-    <a href="https://www.linkedin.com/in/ayshsaleem-156b5a292/" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:ayeshasaleem853@gmail.com"><img src="https://img.shields.io/badge/-ayeshasaleem853@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/ayesha_saleem9" target="_blank"><img src="https://img.shields.io/badge/-Ayesha%20Saleem-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/ayesha-saleem6/ target="_blank">
+        <img src="https://img.shields.io/badge/-Ayesha%20Saleem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a target="_blank" href="mailto:ayeshasaleem853@gmail.com">
+        <img src="https://img.shields.io/badge/-ayeshasaleem853@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://leetcode.com/ayesha_saleem9" target="_blank">
+        <img src="https://img.shields.io/badge/-Ayesha%20Saleem-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
+    </a>
 </div>
 
   

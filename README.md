@@ -1,58 +1,60 @@
-<!--<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />-->
-<h1 align="center"> <b>Hi, I'm Ayesha Saleem</b> </h1>
-
+<h1 align="center">Hi, I'm Ayesha Saleem 👩‍💻</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Aspiring+Software+Engineer;Data+Science+Enthusiast;Building+AI+Solutions">
-  </a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Aspiring+Data+Scientist;Passionate+Learner+and+Coder;Turning+Data+into+Insights">
+    </a>
 </p>
 
-## 👩‍💻 About Me  
-- 🎓 **BS in Computer Science** student with a passion for **Data Science**, **Machine Learning**, and **Software Development**.
-- 🌱 Focused on mastering **Data Structures & Algorithms** while exploring **AI**, **ML**, and **Data Analysis**.
-- 💼 Interested in collaborating on projects and internships that make a meaningful impact in the tech world.
-- 💡 Currently working on developing my skills in **Python**, **C++**, **Data Science tools**, and **AI technologies**.
-- 💡 Fun Fact: I'm working on a diet to achieve my fitness goals!
+---
 
+## 👩‍💻 About Me
 
-## 🛠 Skills & Tools  
+- 🎓 Currently pursuing a **BS in Computer Science** with a focus on **Data Structures & Algorithms (DSA)**, **Machine Learning**, and **Data Science**.
+- 💡 Passionate about using **Data Science** to solve real-world problems and **Machine Learning** to drive innovation.
+- 🛠️ Hands-on experience with **Python**, **C++**, **NumPy**, **Pandas**, and various other tools to build impactful projects.
+- 🌱 Continuously learning new technologies, exploring AI, and enhancing my problem-solving skills.
 
-### **Languages & Frameworks**  
+---
+
+## 🛠 Skills & Tools
+
+### **Languages & Frameworks:**
+- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Data Science & Machine Learning:**
+- ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+- ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-9C2B60?style=for-the-badge&logo=seaborn&logoColor=white)
+- ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **Tools & Technologies:**
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white)
+- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+- ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFD700?style=for-the-badge&logo=python&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+- ![Pandas Profiling](https://img.shields.io/badge/Pandas%20Profiling-24A3D6?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 📈 LeetCode Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&theme=dark&hide_border=false">
 </p>
 
-### **Data Science Tools**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/Seaborn-3E4B47?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
-  <img src="https://img.shields.io/badge/Pandas%20Profiling-0C7D8C?style=for-the-badge&logo=python&logoColor=white" alt="Pandas Profiling" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-</p>
+---
 
-### **Version Control & Collaboration**  
-<p align="center">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+## 🤝 Connect With Me
 
-### **API Development & Testing**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-
-
-## 🤝 Connect With Me  
 <div align="center">
-    <a href="https://www.linkedin.com/in/ayesha-saleem6/ target="_blank">
+    <a href="https://www.linkedin.com/in/ayesha-saleem6/" target="_blank">
         <img src="https://img.shields.io/badge/-Ayesha%20Saleem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a target="_blank" href="mailto:ayeshasaleem853@gmail.com">
@@ -63,18 +65,18 @@
     </a>
 </div>
 
-  
-## 📈 LeetCode Stats  
+---
 
-<p align="center">
-<img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&theme=dark&hide_border=false">
-</p>
-
-## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> GitHub Stats  
+## 🏆 GitHub Stats
 
 <p align="center">
     <img width="80%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
     <img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aysh34&langs_count=12&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     <img width="80%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true"/>
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+---
+
+<p align="center">
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>

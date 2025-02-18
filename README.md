@@ -52,16 +52,19 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-181717?style=for-the-badge&logo=huggingface&logoColor=yellow)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-0088ff?style=for-the-badge&logo=gradio&logoColor=white)
 
 ---
 
-## 📈 LeetCode Stats
+<!-- ## 📈 LeetCode Stats
 
 <p align="center">
     <img width="70%" src="https://leetcard.jacoblin.cool/ayesha_saleem9?border=0&theme=dark&hide_border=false">
 </p>
 
----
+--- -->
 
 ## 🏆 GitHub Stats  
 

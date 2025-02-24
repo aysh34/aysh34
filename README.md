@@ -73,4 +73,14 @@
 ---
 
 ✨ Passionate about pushing boundaries in AI and data science. Let's innovate and create impact together! 🚀
+<!--## 🌟 Featured Projects
 
+### 🔹 **[Project Name](#)**
+📌 **Description:** Briefly describe your project.  
+🔧 **Tech Stack:** Python, Pandas, NumPy, Matplotlib  
+🔗 **GitHub Repo:** [Link](#)
+
+### 🔹 **[Another Project](#)**
+📌 **Description:** Briefly describe your project.  
+🔧 **Tech Stack:** Scikit-Learn, TensorFlow, Flask  
+🔗 **GitHub Repo:** [Link](#)-->

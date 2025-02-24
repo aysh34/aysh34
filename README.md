@@ -10,10 +10,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student with a passion for **Machine Learning**, **Data Science**, and **Algorithms**.
-- 🔍 Focused on **AI-driven solutions**, data analysis, and **real-world problem-solving**.
-- 🛠️ Skilled in **Python**, **C++**, **Data Analysis**, and **ML frameworks**.
-- 🌱 Always learning, innovating, and contributing to impactful projects.
+- 🎓 Computer Science student with a strong focus on **Machine Learning**, **Data Science**, and **Algorithms**.
+- 🔍 Passionate about **AI-driven solutions**, data analysis, and **real-world problem-solving**.
+- 🛠️ Proficient in **Python**, **C++**, **Data Analysis**, and **ML frameworks**.
+- 🌱 Continuously learning, innovating, and contributing to cutting-edge projects.
 
 ---
 
@@ -72,4 +72,5 @@
 
 ---
 
-✨ Always exploring, always innovating! Let's build something amazing together. 🚀
+✨ Passionate about pushing boundaries in AI and data science. Let's innovate and create impact together! 🚀
+

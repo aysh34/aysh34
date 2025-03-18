@@ -21,7 +21,7 @@ Passionate about AI-driven solutions, data analysis, and real-world problem-solv
 ## 🏆 HONORS & AWARDS
 
 - **Meta Hacker Cup 2024 Participant** – Competed in Meta’s global programming competition, showcasing problem-solving and algorithmic skills.  
-- **CALICO Informatics Competition Participant** – Took part in UC Berkeley's CALICO contest to enhance algorithmic thinking.  
+- **CALICO Informatics Competition Participant** – Took part in UC Berkeley's CALICO contest to enhance algorithmic thinking. [See here](https://drive.google.com/file/d/1j4g8yRDqEmeDsiNr-qXIjSHYfmZzV9zN/view?usp=sharing)  
 - **PakAngels Essential GenAI Training Top Performer** – Achieved the highest score in the final quiz, building an AI Chatbot and a Voice-to-Voice Assistant.  
 - **Kaggle Contributor** – Published datasets and notebooks contributing to the Data Science community.  
 - **LeetCode Problem Solver** – Solved **200+** Data Structures and Algorithms problems.  

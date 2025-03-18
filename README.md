@@ -1,6 +1,18 @@
-# AYESHA SALEEM
-
-📧 ayeshasaleem853@gmail.com | [LinkedIn](https://www.linkedin.com/in/ayesha-saleem6/) | [GitHub](https://github.com/aysh34) | [Kaggle](https://www.kaggle.com/ayeshasal89) | [LeetCode](https://leetcode.com/ayesha_saleem9)
+<div align="center">
+  <br>
+  <h1>AYESHA SALEEM</h1>
+  
+  <a href="mailto:ayeshasaleem853@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/ayesha-saleem6/">
+    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
+  <a href="https://github.com/aysh34">
+    <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" /></a>
+  <a href="https://www.kaggle.com/ayeshasal89">
+    <img src="https://img.shields.io/badge/Kaggle-d5d5d5?style=for-the-badge&logo=kaggle&logoColor=0A0209" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/ayesha_saleem9">
+    <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" /></a>
+</div>
 
 ---
 
@@ -29,14 +41,18 @@ Passionate about AI-driven solutions, data analysis, and real-world problem-solv
 
 ---
 
-## 🛠 TECHNICAL SKILLS
+## ⚒️ Skills   
 
-- **Programming Languages:** Python, C++
-- **Data Science & ML Tools:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly, TensorFlow, Hugging Face
-- **Web Development:** HTML5, CSS3, Bootstrap 5
-- **Version Control:** Git, GitHub
-- **Developer Tools:** VS Code, Google Colab, Anaconda, Jupyter Notebook
-- **Design Tools:** Canva
+| **Category**        | **Skills**        |
+|---------------------|------------------|
+| **Programming Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  |
+| **Data Science & ML** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-181717?style=for-the-badge&logo=huggingface&logoColor=yellow"/>  |
+| **Data Visualization** | <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-7F3E98?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3C6997?style=for-the-badge&logo=plotly&logoColor=white"/> |
+| **Web Scraping & APIs** | <img src="https://img.shields.io/badge/BeautifulSoup-FFD700?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> |
+| **Version Control** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
+| **Development Tools** | <img src="https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> |
+| **Web Development** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> |
+| **Competitive Programming** | <a href="https://leetcode.com/ayesha_saleem9"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> |
 
 ---
 
@@ -79,7 +95,23 @@ Passionate about AI-driven solutions, data analysis, and real-world problem-solv
 - Built and evaluated **Logistic Regression** and **Naive Bayes** models to predict survival probabilities.
 
 ---
+<!--
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
+> Find all of my projects at [GitHub](https://github.com/aysh34) and [Kaggle](https://www.kaggle.com/ayeshasal89) with details on datasets, notebooks, and machine learning models.
+
+&nbsp;
+
+| **Project** | **Deployed Link** | **Repository** | **Tech Stack & Tools** |
+|------------|:-------------:|:----------:|:-------------------|
+| **EDA: Unveiling Sales Patterns** | - | [View](https://github.com/aysh34/EDA-Sales-Patterns) | `Python` `Pandas` `Matplotlib` `Seaborn` |
+| **LifeLens: Life Expectancy Prediction** | - | [View](https://github.com/aysh34/LifeLens-Prediction) | `Python` `Scikit-Learn` `XGBoost` `Matplotlib` |
+| **Titanic Survivor Prediction** | - | [View](https://github.com/aysh34/Titanic-Survivor-Prediction) | `Python` `Pandas` `Logistic Regression` `Naive Bayes` |
+| **AI Chatbot & Voice Assistant** | - | [View](https://github.com/aysh34/AI-Chatbot-Voice-Assistant) | `Python` `Hugging Face Transformers` `Speech Recognition` |
+
+<br>
+
+-->
 ## 💬 LET'S CONNECT!
 
 If you're interested in collaborating or discussing Data Science, AI, or ML, feel free to connect!

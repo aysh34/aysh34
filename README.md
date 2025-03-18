@@ -109,9 +109,19 @@ Passionate about AI-driven solutions, data analysis, and real-world problem-solv
 | **Titanic Survivor Prediction** | - | [View](https://github.com/aysh34/Titanic-Survivor-Prediction) | `Python` `Pandas` `Logistic Regression` `Naive Bayes` |
 | **AI Chatbot & Voice Assistant** | - | [View](https://github.com/aysh34/AI-Chatbot-Voice-Assistant) | `Python` `Hugging Face Transformers` `Speech Recognition` |
 
-<br>
+<br> -->
 
--->
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysh34&langs_count=8&layout=compact&theme=nightowl&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=nightowl" />
+</p>
+
 ## 💬 LET'S CONNECT!
 
 If you're interested in collaborating or discussing Data Science, AI, or ML, feel free to connect!

@@ -1,86 +1,85 @@
-<div align="center">
+# AYESHA SALEEM
 
-  # Hi, I'm Ayesha Saleem 👩‍💻
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D0C9&width=650&height=60&lines=Turning+Data+Into+Intelligence...;Solving+Real-World+Problems+With+AI;Passionate+About+Machine+Learning;Always+Learning%2C+Always+Building...">
-  
-</div>
+📧 ayeshasaleem853@gmail.com | [LinkedIn](https://www.linkedin.com/in/ayesha-saleem6/) | [GitHub](https://github.com/aysh34) | [Kaggle](https://www.kaggle.com/ayeshasal89) | [LeetCode](https://leetcode.com/ayesha_saleem9)
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Computer Science student with a strong focus on **Machine Learning**, **Data Science**, and **Algorithms**.
-- 🔍 Passionate about **AI-driven solutions**, data analysis, and **real-world problem-solving**.
-- 🛠️ Proficient in **Python**, **C++**, **Data Analysis**, and **ML frameworks**.
-- 🌱 Continuously learning, innovating, and contributing to cutting-edge projects.
+**Data Science & Machine Learning Enthusiast | Problem Solver | Kaggle Contributor**  
+Passionate about AI-driven solutions, data analysis, and real-world problem-solving. Experienced in leveraging Python, ML frameworks, and statistical techniques to extract insights and build impactful models. Adept at collaborating in research, competitive programming, and open-source contributions.
 
 ---
 
-## 🧠 Skills & Tech Stack
+## 🎓 EDUCATION
 
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### **Machine Learning & Data Science**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-7F3E98?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### **Web Scraping & APIs**  
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFD700?style=for-the-badge&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-### **Tools & Platforms**  
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-181717?style=for-the-badge&logo=huggingface&logoColor=yellow)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-0088ff?style=for-the-badge&logo=gradio&logoColor=white)
+**Emerson University Multan**  
+*Bachelor of Science in Computer Science (BSCS)*  
+**CGPA:** 3.86/4.0  
+**Sep 2023 – Present**
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 HONORS & AWARDS
 
-<p align="center">
-    <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aysh34&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysh34&langs_count=8&layout=compact&theme=nightowl&hide_border=true" />
-</p>
-
----
-
-## 💬 Let's Connect
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/ayesha-saleem6/" target="_blank">
-        <img src="https://img.shields.io/badge/-Ayesha%20Saleem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a target="_blank" href="mailto:ayeshasaleem853@gmail.com">
-        <img src="https://img.shields.io/badge/-ayeshasaleem853@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://leetcode.com/ayesha_saleem9" target="_blank">
-        <img src="https://img.shields.io/badge/-Ayesha%20Saleem-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
-    </a>
-</div>
+- **Meta Hacker Cup 2024 Participant** – Competed in Meta’s global programming competition, showcasing problem-solving and algorithmic skills.  
+- **CALICO Informatics Competition Participant** – Took part in UC Berkeley's CALICO contest to enhance algorithmic thinking.  
+- **PakAngels Essential GenAI Training Top Performer** – Achieved the highest score in the final quiz, building an AI Chatbot and a Voice-to-Voice Assistant.  
+- **Kaggle Contributor** – Published datasets and notebooks contributing to the Data Science community.  
+- **LeetCode Problem Solver** – Solved **200+** Data Structures and Algorithms problems.  
+- **GitHub Global Campus Student** – Leveraged GitHub Education for learning, version control, and collaborative projects.  
 
 ---
 
-✨ Passionate about pushing boundaries in AI and data science. Let's innovate and create impact together! 🚀
-<!--## 🌟 Featured Projects
+## 🛠 TECHNICAL SKILLS
 
-### 🔹 **[Project Name](#)**
-📌 **Description:** Briefly describe your project.  
-🔧 **Tech Stack:** Python, Pandas, NumPy, Matplotlib  
-🔗 **GitHub Repo:** [Link](#)
+- **Programming Languages:** Python, C++
+- **Data Science & ML Tools:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly, TensorFlow, Hugging Face
+- **Web Development:** HTML5, CSS3, Bootstrap 5
+- **Version Control:** Git, GitHub
+- **Developer Tools:** VS Code, Google Colab, Anaconda, Jupyter Notebook
+- **Design Tools:** Canva
 
-### 🔹 **[Another Project](#)**
-📌 **Description:** Briefly describe your project.  
-🔧 **Tech Stack:** Scikit-Learn, TensorFlow, Flask  
-🔗 **GitHub Repo:** [Link](#)-->
+---
+
+## 💼 EXPERIENCE
+
+### **C++ Programming Intern**  
+**CodeAlpha** *(Remote)*  
+**May 2024 – June 2024**  
+- Developed hands-on projects using C++.
+- Gained experience in Object-Oriented Programming (OOP) and Data Structures.
+- Contributed to real-world applications by writing clean and efficient code.
+
+### **Kaggle Professional**  
+**Data Science Community Contributor (Global)**  
+**Sep 2024 – Present**  
+- Published datasets and notebooks showcasing **Exploratory Data Analysis (EDA)** and **Machine Learning techniques**.
+- Participated in **Kaggle competitions**, applying data science skills to solve real-world problems.
+- Shared well-documented and interactive data analysis notebooks.
+
+---
+
+## 📊 PROJECTS
+
+### **EDA: Unveiling Sales Patterns**  
+📌 **Tools:** Python, Pandas, Matplotlib, Seaborn  
+- Performed **Exploratory Data Analysis (EDA)** on sales data to uncover trends.
+- Applied **univariate, bivariate, and multivariate analysis** to identify key sales drivers.
+- Created **data visualizations** to improve decision-making.
+
+### **LifeLens: Life Expectancy Prediction with Machine Learning**  
+📌 **Tools:** Python, Scikit-learn, XGBoost, Matplotlib, Seaborn  
+- Developed a **Machine Learning model** to predict life expectancy based on health, economic, and social factors.
+- Conducted **data preprocessing** including encoding, scaling, and handling missing values.
+- Implemented **GridSearchCV** for hyperparameter tuning to improve model performance.
+
+### **Titanic Survivor Prediction With Machine Learning**  
+📌 **Tools:** Python, Pandas, Logistic Regression, Naive Bayes  
+- Performed **EDA** to analyze survival rates based on demographics and ticket class.
+- Applied **data cleaning techniques** to handle missing values and outliers.
+- Built and evaluated **Logistic Regression** and **Naive Bayes** models to predict survival probabilities.
+
+---
+
+## 💬 LET'S CONNECT!
+
+If you're interested in collaborating or discussing Data Science, AI, or ML, feel free to connect!

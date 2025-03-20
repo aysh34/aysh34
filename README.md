@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
   <a href="https://github.com/aysh34">
     <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" /></a>
-  <a href="https://www.kaggle.com/ayeshasal89">
-    <img src="https://img.shields.io/badge/Kaggle-d5d5d5?style=for-the-badge&logo=kaggle&logoColor=0A0209" alt="Kaggle" /></a>
   <a href="https://leetcode.com/ayesha_saleem9">
     <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" /></a>
 </div>

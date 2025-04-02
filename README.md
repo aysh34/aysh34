@@ -19,26 +19,6 @@ Passionate about AI-driven solutions, data analysis, and real-world problem-solv
 
 ---
 
-## 🎓 EDUCATION
-
-**Emerson University Multan**  
-*Bachelor of Science in Computer Science (BSCS)*  
-**CGPA:** 3.86/4.0  
-**Sep 2023 – Present**
-
----
-
-## 🏆 HONORS & AWARDS
-
-- **Meta Hacker Cup 2024 Participant** – Competed in Meta’s global programming competition, showcasing problem-solving and algorithmic skills.  
-- **CALICO Informatics Competition Participant** – Took part in UC Berkeley's CALICO contest to enhance algorithmic thinking. [See here](https://drive.google.com/file/d/1j4g8yRDqEmeDsiNr-qXIjSHYfmZzV9zN/view?usp=sharing)  
-- **PakAngels Essential GenAI Training Top Performer** – Achieved the highest score in the final quiz, building an AI Chatbot and a Voice-to-Voice Assistant.  
-- **Kaggle Contributor** – Published datasets and notebooks contributing to the Data Science community.  
-- **LeetCode Problem Solver** – Solved **200+** Data Structures and Algorithms problems.  
-- **GitHub Global Campus Student** – Leveraged GitHub Education for learning, version control, and collaborative projects.  
-
----
-
 ## ⚒️ Skills   
 
 | **Category**        | **Skills**        |
@@ -51,6 +31,26 @@ Passionate about AI-driven solutions, data analysis, and real-world problem-solv
 | **Development Tools** | <img src="https://img.shields.io/badge/Anaconda-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> |
 | **Web Development** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> |
 | **Competitive Programming** | <a href="https://leetcode.com/ayesha_saleem9"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> |
+
+---
+
+## 🎓 EDUCATION
+
+**Emerson University Multan**  
+*Bachelor of Science in Computer Science (BSCS)*  
+**CGPA:** 3.86/4.0  
+**Sep 2023 – Present**
+
+---
+
+## 🏆 HONORS & AWARDS
+
+- **Meta Hacker Cup 2024 Participant** – Competed in Meta’s global programming competition, showcasing problem-solving and algorithmic skills.  
+- **CALICO Informatics Competition Participant** – Took part in UC Berkeley's CALICO contest to enhance algorithmic thinking.
+- **PakAngels Essential GenAI Training Top Performer** – Achieved the highest score in the final quiz, building an AI Chatbot and a Voice-to-Voice Assistant.  
+- **Kaggle Contributor** – Published datasets and notebooks contributing to the Data Science community.  
+- **LeetCode Problem Solver** – Solved **200+** Data Structures and Algorithms problems.  
+- **GitHub Global Campus Student** – Leveraged GitHub Education for learning, version control, and collaborative projects.  
 
 ---
 

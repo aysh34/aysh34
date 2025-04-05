@@ -2,8 +2,6 @@
   <br>
   <h1>AYESHA SALEEM</h1>
   
-  <a href="mailto:ayeshasaleem853@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/ayesha-saleem6/">
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
   <a href="https://github.com/aysh34">

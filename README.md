@@ -43,6 +43,7 @@ Passionate about AI-driven solutions, data analysis, and real-world problem-solv
 
 ## 🏆 HONORS & AWARDS
 
+- **Harvard CS50x Puzzle Day 2025 Participant** - Took part in the CS50x Puzzle Day, collaborating with a team of 4 to solve 9/9 challenging puzzles and enhance problem-solving skills.
 - **Meta Hacker Cup 2024 Participant** – Competed in Meta’s global programming competition, showcasing problem-solving and algorithmic skills.  
 - **CALICO Informatics Competition Participant** – Took part in UC Berkeley's CALICO contest to enhance algorithmic thinking.
 - **PakAngels Essential GenAI Training Top Performer** – Achieved the highest score in the final quiz, building an AI Chatbot and a Voice-to-Voice Assistant.  

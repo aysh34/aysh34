@@ -150,12 +150,29 @@ timeline
 ---
 ## 🏅 Certificates
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" width="280" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" width="280" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" width="280" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" width="280" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta%20(1).jpg" width="280" style="margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" width="280" style="margin: 15px;" />
-</div>
+<p float="left">
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" width="280" style="margin: 15px;" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" width="280" style="margin: 15px;" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" width="280" style="margin: 15px;" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" width="280" style="margin: 15px;" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta%20(1).jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta%20(1).jpg" width="280" style="margin: 15px;" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" width="280" style="margin: 15px;" />
+  </a>
+</p>
 

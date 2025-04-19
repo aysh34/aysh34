@@ -74,7 +74,6 @@ timeline
 
   2025 : Kaggle Professional (Data Science Community Contributor)
        : Solved 9/9 puzzles during Harvard University CS50x Puzzle Day 2025
-       : Class Topper with CGPA 3.86/4.00
 ```
 
 </div>

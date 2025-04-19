@@ -16,7 +16,7 @@
 
 ---
 
-**Data Science & Machine Learning Enthusiast | Problem Solver | Kaggle Contributor**  
+**Data Science & Machine Learning Enthusiast | LeetCode Problem Solver**
 - Passionate about using AI to solve real-world problems and analyze data.
 - Experienced with Python, machine learning tools, and statistical methods to build useful models and extract insights.
 - Enjoy collaborating on research, competitive programming, and contributing to open-source projects.

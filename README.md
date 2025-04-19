@@ -147,6 +147,15 @@ timeline
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=nightowl" />
 </p>
 
-## 💬 LET'S CONNECT!
+---
+## 🏅 Certificates
 
-If you're interested in collaborating or discussing Data Science, AI, or ML, feel free to connect!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" width="280" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" width="280" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" width="280" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" width="280" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta%20(1).jpg" width="280" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" width="280" style="margin: 15px;" />
+</div>
+

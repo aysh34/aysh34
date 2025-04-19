@@ -13,7 +13,10 @@
 ---
 
 **Data Science & Machine Learning Enthusiast | Problem Solver | Kaggle Contributor**  
-Passionate about AI-driven solutions, data analysis, and real-world problem-solving. Experienced in leveraging Python, ML frameworks, and statistical techniques to extract insights and build impactful models. Adept at collaborating in research, competitive programming, and open-source contributions.
+- Passionate about using AI to solve real-world problems and analyze data.
+- Experienced with Python, machine learning tools, and statistical methods to build useful models and extract insights.
+- Enjoy collaborating on research, competitive programming, and contributing to open-source projects.
+
 
 ---
 

@@ -1,4 +1,8 @@
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Research+Enthusiast;Kaggle+Contributor)](https://git.io/typing-svg)
+</div>
+<div align="center">
   <br>
   <h1>AYESHA SALEEM</h1>
   
@@ -44,7 +48,7 @@
 
 ---
 
-## 🏆 HONORS & AWARDS
+<!--## 🏆 HONORS & AWARDS
 
 - **Harvard CS50x Puzzle Day 2025 Participant** - Took part in the CS50x Puzzle Day, collaborating with a team of 4 to solve 9/9 challenging puzzles and enhance problem-solving skills.
 - **Meta Hacker Cup 2024 Participant** – Competed in Meta’s global programming competition, showcasing problem-solving and algorithmic skills.  
@@ -53,6 +57,27 @@
 - **Kaggle Contributor** – Published datasets and notebooks contributing to the Data Science community.  
 - **LeetCode Problem Solver** – Solved **200+** Data Structures and Algorithms problems.  
 - **GitHub Global Campus Student** – Leveraged GitHub Education for learning, version control, and collaborative projects.  
+
+--- -->
+
+# 🏆 Major Achievements Timeline
+<div align="center">
+  
+```mermaid
+timeline
+  2024 : C++ Developer Intern at CodeAlpha (May 2024 – July 2024)
+       : PakAngels Essential GenAI Training Cohort-I Top Performer
+       : Meta Hacker Cup 2024 Participant
+       : UC Berkeley CALICO Informatics Competition Fall 2024
+       : LeetCode 100 Days Completion Badge
+       : GitHub Global Campus Student 
+
+  2025 : Kaggle Professional (Data Science Community Contributor)
+       : Solved 9/9 puzzles during Harvard University CS50x Puzzle Day 2025
+       : Class Topper with CGPA 3.86/4.00
+```
+
+</div>
 
 ---
 

@@ -52,7 +52,7 @@
 
 - **Harvard CS50x Puzzle Day 2025 Participant** - Took part in the CS50x Puzzle Day, collaborating with a team of 4 to solve 9/9 challenging puzzles and enhance problem-solving skills.
 - **Meta Hacker Cup 2024 Participant** – Competed in Meta’s global programming competition, showcasing problem-solving and algorithmic skills.  
-- **CALICO Informatics Competition Participant** – Took part in UC Berkeley's CALICO contest to enhance algorithmic thinking.
+- **CALICO Informatics Competition Fall 2024 Participant** – Took part in UC Berkeley's CALICO contest to enhance algorithmic thinking.
 - **PakAngels Essential GenAI Training Top Performer** – Achieved the highest score in the final quiz, building an AI Chatbot and a Voice-to-Voice Assistant.  
 - **Kaggle Contributor** – Published datasets and notebooks contributing to the Data Science community.  
 - **LeetCode Problem Solver** – Solved **200+** Data Structures and Algorithms problems.  
@@ -97,7 +97,7 @@ timeline
 - Shared well-documented and interactive data analysis notebooks.
 
 ---
-
+<!--
 ## 📊 PROJECTS
 
 ### **EDA: Unveiling Sales Patterns**  
@@ -118,22 +118,23 @@ timeline
 - Applied **data cleaning techniques** to handle missing values and outliers.
 - Built and evaluated **Logistic Regression** and **Naive Bayes** models to predict survival probabilities.
 
----
-<!--
-# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+--- 
+-->
 
-> Find all of my projects at [GitHub](https://github.com/aysh34) and [Kaggle](https://www.kaggle.com/ayeshasal89) with details on datasets, notebooks, and machine learning models.
-
-&nbsp;
+# <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" /> Projects
 
 | **Project** | **Deployed Link** | **Repository** | **Tech Stack & Tools** |
 |------------|:-------------:|:----------:|:-------------------|
-| **EDA: Unveiling Sales Patterns** | - | [View](https://github.com/aysh34/EDA-Sales-Patterns) | `Python` `Pandas` `Matplotlib` `Seaborn` |
-| **LifeLens: Life Expectancy Prediction** | - | [View](https://github.com/aysh34/LifeLens-Prediction) | `Python` `Scikit-Learn` `XGBoost` `Matplotlib` |
-| **Titanic Survivor Prediction** | - | [View](https://github.com/aysh34/Titanic-Survivor-Prediction) | `Python` `Pandas` `Logistic Regression` `Naive Bayes` |
-| **AI Chatbot & Voice Assistant** | - | [View](https://github.com/aysh34/AI-Chatbot-Voice-Assistant) | `Python` `Hugging Face Transformers` `Speech Recognition` |
+| **EDA: Unveiling Sales Patterns** | - | [View](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) | `Python` `EDA` `Data Visualization` `Pandas` `Matplotlib` `Seaborn` |
+| **LifeLens: Life Expectancy Prediction** | - | [View](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) | `Python` `Scikit-Learn` `XGBoost` `Matplotlib` |
+| **Titanic Survivor Prediction** | - | [View](https://github.com/aysh34/Titanic-Survivor-Prediction-With-Machine-Learning) | `Python` `Pandas` `Logistic Regression` `Naive Bayes` |
+| **Simple Linear Regression** | - | [View](https://github.com/aysh34/Simple-Linear-Regression) | `Python` `Pandas` `Numpy` `Scikit-Learn` `Linear Regression` |
+| **Data Analysis with NumPy and Pandas** | - | [View](https://github.com/aysh34/Data-Analysis-with-NumPy-Pandas) | `Python` `Pandas` `Numpy` `Data Analysis` |
+| **Image Captioning AI App** | - | [View](https://github.com/aysh34/Image-Captioning-AI-App) | `Python` `Gradio` `Transformers` `Torch` `Pillow` `Numpy` |
 
-<br> -->
+<br> 
+
+---
 
 ## 📊 GitHub Metrics
 

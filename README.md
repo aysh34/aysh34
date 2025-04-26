@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Research+Enthusiast;Kaggle+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=500&lines=Passionate+about+Machine+Learning;Research+Enthusiast;Kaggle+Contributor)](https://git.io/typing-svg)
 </div>
 <div align="center">
   <br>

@@ -66,14 +66,15 @@
 ```mermaid
 timeline
   2024 : C++ Developer Intern at CodeAlpha (May 2024 – July 2024)
-       : PakAngels Essential GenAI Training Cohort-I Top Performer
-       : Meta Hacker Cup 2024 Participant
-       : UC Berkeley CALICO Informatics Competition Fall 2024
-       : LeetCode 100 Days Completion Badge
-       : GitHub Global Campus Student 
+       : PakAngels Essential GenAI Training Cohort-I – Recognized as a Top Performer for outstanding contributions
+       : Meta Hacker Cup 2024 – Competed, showcasing advanced problem-solving and algorithmic expertise
+       : UC Berkeley CALICO Informatics Competition – Participated in Fall 2024, demonstrating problem-solving skills
+       : LeetCode 100 Days Completion Badge – Consistently solving complex problems and honing logical thinking and DSA 
+       : GitHub Global Campus Student – Actively contributing to open-source projects and building a professional portfolio
 
-  2025 : Kaggle Professional (Data Science Community Contributor)
-       : Solved 9/9 puzzles during Harvard University CS50x Puzzle Day 2025
+  2025 : Kaggle Professional – Established as a Data Science Community Contributor, sharing valuable insights and solutions
+       : Harvard University CS50x Puzzle Day 2025 – Achieved a perfect score by solving all 9/9 puzzles, highlighting strong logical thinking and persistence
+
 ```
 
 </div>

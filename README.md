@@ -140,8 +140,8 @@ timeline
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysh34&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysh34&langs_count=8&layout=compact&theme=merko&hide_border=true"/>
 </p>
 
 <p align="center">

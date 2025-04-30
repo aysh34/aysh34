@@ -48,19 +48,17 @@
 
 ---
 
-<!--## 🏆 HONORS & AWARDS
+## 🏆 Achievements & AWARDS
 
-- **Harvard CS50x Puzzle Day 2025 Participant** - Took part in the CS50x Puzzle Day, collaborating with a team of 4 to solve 9/9 challenging puzzles and enhance problem-solving skills.
-- **Meta Hacker Cup 2024 Participant** – Competed in Meta’s global programming competition, showcasing problem-solving and algorithmic skills.  
-- **CALICO Informatics Competition Fall 2024 Participant** – Took part in UC Berkeley's CALICO contest to enhance algorithmic thinking.
+- **Harvard CS50x Puzzle Day 2025** - Took part in the CS50x Puzzle Day, collaborating with a team of 4 to solve 9/9 challenging puzzles and enhance problem-solving skills.
+- **Meta Hacker Cup 2024** – Competed in Meta’s global programming competition, showcasing problem-solving and algorithmic skills.  
+- **CALICO Informatics Competition Fall 2024** – Took part in UC Berkeley's CALICO contest to enhance algorithmic thinking.
 - **PakAngels Essential GenAI Training Top Performer** – Achieved the highest score in the final quiz, building an AI Chatbot and a Voice-to-Voice Assistant.  
 - **Kaggle Contributor** – Published datasets and notebooks contributing to the Data Science community.  
 - **LeetCode Problem Solver** – Solved **200+** Data Structures and Algorithms problems.  
-- **GitHub Global Campus Student** – Leveraged GitHub Education for learning, version control, and collaborative projects.  
+--- 
 
---- -->
-
-# 🏆 Major Achievements Timeline
+<!-- # 🏆 Major Achievements Timeline
 <div align="center">
   
 ```mermaid
@@ -80,8 +78,8 @@ timeline
 </div>
 
 ---
-
-## 💼 EXPERIENCE
+-->
+<!-- ## 💼 EXPERIENCE
 
 ### **C++ Programming Intern**  
 **CodeAlpha** *(Remote)*  
@@ -97,7 +95,7 @@ timeline
 - Participated in **Kaggle competitions**, applying data science skills to solve real-world problems.
 - Shared well-documented and interactive data analysis notebooks.
 
----
+--- -->
 <!--
 ## 📊 PROJECTS
 
@@ -140,12 +138,12 @@ timeline
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysh34&langs_count=8&layout=compact&theme=merko&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=panda&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysh34&langs_count=8&layout=compact&theme=panda&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=merko" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=panda" />
 </p>
 
 ---

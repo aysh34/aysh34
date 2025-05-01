@@ -96,29 +96,6 @@ timeline
 - Shared well-documented and interactive data analysis notebooks.
 
 --- -->
-<!--
-## 📊 PROJECTS
-
-### **EDA: Unveiling Sales Patterns**  
-📌 **Tools:** Python, Pandas, Matplotlib, Seaborn  
-- Performed **Exploratory Data Analysis (EDA)** on sales data to uncover trends.
-- Applied **univariate, bivariate, and multivariate analysis** to identify key sales drivers.
-- Created **data visualizations** to improve decision-making.
-
-### **LifeLens: Life Expectancy Prediction with Machine Learning**  
-📌 **Tools:** Python, Scikit-learn, XGBoost, Matplotlib, Seaborn  
-- Developed a **Machine Learning model** to predict life expectancy based on health, economic, and social factors.
-- Conducted **data preprocessing** including encoding, scaling, and handling missing values.
-- Implemented **GridSearchCV** for hyperparameter tuning to improve model performance.
-
-### **Titanic Survivor Prediction With Machine Learning**  
-📌 **Tools:** Python, Pandas, Logistic Regression, Naive Bayes  
-- Performed **EDA** to analyze survival rates based on demographics and ticket class.
-- Applied **data cleaning techniques** to handle missing values and outliers.
-- Built and evaluated **Logistic Regression** and **Naive Bayes** models to predict survival probabilities.
-
---- 
--->
 
 # <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" /> Projects
 
@@ -179,4 +156,3 @@ timeline
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" width="350" style="margin: 15px;" />
   </a>
 </p>
-

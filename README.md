@@ -97,7 +97,7 @@ timeline
 - Shared well-documented and interactive data analysis notebooks.
 
 --- -->
-
+<!--
 # <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" /> Projects
 
 | **Project** | **Deployed Link** | **Repository** | **Tech Stack & Tools** |
@@ -112,6 +112,7 @@ timeline
 <br> 
 
 ---
+-->
 
 ## 📊 GitHub Metrics
 
@@ -125,7 +126,7 @@ timeline
 </p>
 
 ---
-## 🏅 Certificates
+## 🏅 Proof of Completion
 
 <p float="left">
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">

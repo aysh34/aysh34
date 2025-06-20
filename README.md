@@ -156,4 +156,8 @@ timeline
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" target="_blank">
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
   </a>
+  
+  <a href="https://github.com/aysh34/aysh34/blob/main/assets/execute%20AI%20Genesis.png" target="_blank">
+    <img src="https://github.com/aysh34/aysh34/blob/main/assets/execute%20AI%20Genesis.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
+  </a>
 </p>

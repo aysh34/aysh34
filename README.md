@@ -7,12 +7,14 @@
   <br>
   <h1>AYESHA SALEEM</h1>
   
-  <a href="https://www.linkedin.com/in/ayesha-saleem6/">
-    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
-  <a href="https://github.com/aysh34">
-    <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" /></a>
-  <a href="https://leetcode.com/ayesha_saleem9">
-    <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" /></a>
+<a href="https://www.linkedin.com/in/ayesha-saleem6/">
+  <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
+<a href="https://github.com/aysh34">
+  <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" /></a>
+<a href="https://leetcode.com/ayesha_saleem9">
+  <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" /></a>
+<a href="mailto:ayeshasaleem853@gmail.com">
+  <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
 </div>
 
 ---

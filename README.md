@@ -130,30 +130,30 @@ timeline
 
 <p float="left">
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" height="250" style="margin: 15px;" />
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
   </a>
 
   <a href="https://github.com/aysh34/aysh34/blob/main/assets/GEN%20AI_page-0001.jpg" target="_blank">
-    <img src="https://github.com/aysh34/aysh34/blob/main/assets/GEN%20AI_page-0001.jpg" height="250" style="margin: 15px;" />
+    <img src="https://github.com/aysh34/aysh34/blob/main/assets/GEN%20AI_page-0001.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
   </a>
 
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" height="250" style="margin: 15px;" />
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
   </a>
 
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" height="250" style="margin: 15px;" />
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
   </a>
 
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" height="250" style="margin: 15px;" />
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
   </a>
 
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta.jpg" height="250" style="margin: 15px;" />
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
   </a>
 
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" height="250" style="margin: 15px;" />
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
   </a>
 </p>

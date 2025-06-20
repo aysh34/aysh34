@@ -133,6 +133,11 @@ timeline
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" width="350" style="margin: 15px;" />
   </a>
   &nbsp; &nbsp;
+
+  <a href="https://github.com/aysh34/aysh34/blob/main/assets/GEN%20AI_page-0001.jpg" target="_blank">
+    <img src="https://github.com/aysh34/aysh34/blob/main/assets/GEN%20AI_page-0001.jpg" width="350" style="margin: 15px;" />
+  </a>
+  &nbsp; &nbsp;
   
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" target="_blank">
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" width="350" style="margin: 15px;" />

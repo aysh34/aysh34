@@ -21,14 +21,17 @@
   <!-- Tech Identity Badges -->
   <br>
   <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-%2314354C?style=flat-square&logo=python&logoColor=white"/>
+
+  <!-- Core Fields -->
+  <img src="https://img.shields.io/badge/Data%20Science-14354C?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-HuggingFace-yellow?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/EDA-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visualization-Plotly-3C6997?style=flat-square&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Apps-Gradio-orange?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FE6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-FCC72C?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLMs-Transformers-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-LangChain%20-0E8A16?style=flat-square&logo=openai&logoColor=white"/>
+
 </p>
+
 
   <!-- Personal Tagline -->
   <br>

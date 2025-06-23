@@ -1,25 +1,44 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=24&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=500&lines=Passionate+about+Machine+Learning;Research+Enthusiast;Kaggle+Contributor)](https://git.io/typing-svg)
-</div>
+  <!-- Animated Banner -->
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner GIF" />
+  <br><br>
 
-<div align="center">
+  <!-- Typing SVG with Personal Intro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Hi%2C+I%E2%80%99m+Ayesha+Saleem!;Machine+Learning+Explorer+%7C+Research+Enthusiast;Turning+data+into+decisions%2C+chaos+into+clarity;Driven+by+curiosity%2C+built+with+Python" alt="Typing SVG Intro" />
+
+  <!-- Social Badges -->
+  <br><br>
+  <a href="https://www.linkedin.com/in/ayesha-saleem6/">
+    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
+  <a href="https://github.com/aysh34">
+    <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" /></a>
+  <a href="https://leetcode.com/ayesha_saleem9">
+    <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" /></a>
+  <a href="mailto:ayeshasaleem853@gmail.com">
+    <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
+
+  <!-- Tech Identity Badges -->
   <br>
-  <h1>AYESHA SALEEM</h1>
-  
-<a href="https://www.linkedin.com/in/ayesha-saleem6/">
-  <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
-<a href="https://github.com/aysh34">
-  <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" /></a>
-<a href="https://leetcode.com/ayesha_saleem9">
-  <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" /></a>
-<a href="mailto:ayeshasaleem853@gmail.com">
-  <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-%2314354C?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-HuggingFace-yellow?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/EDA-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visualization-Plotly-3C6997?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Apps-Gradio-orange?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+  <!-- Personal Tagline -->
+  <br>
+  <b><i> "Built on code, driven by curiosity, powered by purpose."</i></b>
+
 </div>
 
 ---
 
-**Data Science & Machine Learning Enthusiast | LeetCode Problem Solver**
+## 😎 About Me
 - Passionate about using AI to solve real-world problems and analyze data.
 - Experienced with Python, machine learning tools, and statistical methods to build useful models and extract insights.
 - Enjoy collaborating on research, competitive programming, and contributing to open-source projects.

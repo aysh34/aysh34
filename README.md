@@ -125,6 +125,4 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD300&center=true&vCenter=true&width=800&lines=Let%E2%80%99s+Build+Something+Awesome+Together!;Open+to+collaboration,+ideas,+and+research.;Ping+me+if+you+have+an+AI+problem+to+solve!" alt="Connect Typing SVG" />
-  <br/>
-  <b>Drop a message & let’s make innovation happen.</b>
 </p>

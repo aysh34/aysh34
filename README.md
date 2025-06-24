@@ -2,13 +2,11 @@
 
   <!-- Animated Banner -->
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner GIF" />
-  <br><br>
 
   <!-- Typing SVG with Personal Intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Hi%2C+I%E2%80%99m+Ayesha+Saleem!;Machine+Learning+Explorer+%7C+Research+Enthusiast;Turning+data+into+decisions%2C+chaos+into+clarity;Driven+by+curiosity%2C+built+with+Python" alt="Typing SVG Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Hi%2C+I%E2%80%99m+Ayesha+Saleem!;Machine+Learning+Explorer+%7C+Research+Enthusiast;Transforming+data+into+insights%2C+and+challenges+into+solutions;Driven+by+curiosity%2C+built+with+Python" alt="Typing SVG Intro" /><br>
 
   <!-- Social Badges -->
-  <br>
   <a href="https://www.linkedin.com/in/ayesha-saleem6/">
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
   <a href="https://github.com/aysh34">
@@ -18,36 +16,12 @@
   <a href="mailto:ayeshasaleem853@gmail.com">
     <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
 
-  <!-- Tech Identity Badges -->
-  <br>
-  <p align="center">
-
-  <!-- Core Fields -->
-  <img src="https://img.shields.io/badge/Data%20Science-14354C?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FE6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-FCC72C?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LLMs-Transformers-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-LangChain%20-0E8A16?style=flat-square&logo=openai&logoColor=white"/>
-
-</p>
-
-
   <!-- Personal Tagline -->
-  
-  <b><i> "Built on code, driven by curiosity, powered by purpose."</i></b>
-
+  <b><i>"Built on code, driven by curiosity, powered by purpose."</i></b>
 </div>
 
----
-
-## 😎 About Me
-- Passionate about using AI to solve real-world problems and analyze data.
-- Experienced with Python, machine learning tools, and statistical methods to build useful models and extract insights.
-- Enjoy collaborating on research, competitive programming, and contributing to open-source projects.
-
-
----
+## 😎 About Me 
+I'm passionate about leveraging **AI, machine learning, and statistical methods** to solve real-world problems and extract actionable insights from data using Python. I enjoy collaborating on research, competitive programming, and contributing to open-source projects to continuously learn and grow.
 
 ## 📌 Featured Projects
 
@@ -58,7 +32,7 @@
 | **Unveiling Sales Patterns** | In-depth EDA to discover hidden trends in sales data | ![Seaborn](https://img.shields.io/badge/Seaborn-7F3E98?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white) | [GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
 | **Titanic Survivor Prediction** | Predicts passenger survival using logistic regression & Naive Bayes | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [GitHub](https://github.com/aysh34/Titanic-Survivor-Prediction-With-Machine-Learning) |
 
----
+
 ## ⚒️ Skills   
 
 | **Category**        | **Skills**        |
@@ -72,7 +46,6 @@
 | **Web Development** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> |
 | **Competitive Programming** | <a href="https://leetcode.com/ayesha_saleem9"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> |
 
----
 
 ## 🎓 EDUCATION
 
@@ -81,7 +54,6 @@
 **CGPA:** 3.86/4.0  
 **Sep 2023 – Present**
 
----
 
 ## 🏆 Achievements & AWARDS
 
@@ -91,29 +63,8 @@
 - **PakAngels Essential GenAI Training Top Performer** – Achieved the highest score in the final quiz, building an AI Chatbot and a Voice-to-Voice Assistant.  
 - **Kaggle Contributor** – Published datasets and notebooks contributing to the Data Science community.  
 - **LeetCode Problem Solver** – Solved **200+** Data Structures and Algorithms problems.  
---- 
 
-<!-- # 🏆 Major Achievements Timeline
-<div align="center">
-  
-```mermaid
-timeline
-  2024 : C++ Developer Intern at CodeAlpha (May 2024 – July 2024)
-       : PakAngels Essential GenAI Training Cohort-I – Recognized as a Top Performer for outstanding contributions
-       : Meta Hacker Cup 2024 – Competed, showcasing advanced problem-solving and algorithmic expertise
-       : UC Berkeley CALICO Informatics Competition – Participated in Fall 2024, demonstrating problem-solving skills
-       : LeetCode 100 Days Completion Badge – Consistently solving complex problems and honing logical thinking and DSA 
-       : GitHub Global Campus Student – Actively contributing to open-source projects and building a professional portfolio
 
-  2025 : Kaggle Professional – Established as a Data Science Community Contributor, sharing valuable insights and solutions
-       : Harvard University CS50x Puzzle Day 2025 – Achieved a perfect score by solving all 9/9 puzzles, highlighting strong logical thinking and persistence
-
-```
-
-</div>
-
----
--->
 <!-- ## 💼 EXPERIENCE
 
 ### **C++ Programming Intern**  
@@ -130,22 +81,6 @@ timeline
 - Participated in **Kaggle competitions**, applying data science skills to solve real-world problems.
 - Shared well-documented and interactive data analysis notebooks.
 
---- -->
-<!--
-# <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" /> Projects
-
-| **Project** | **Deployed Link** | **Repository** | **Tech Stack & Tools** |
-|------------|:-------------:|:----------:|:-------------------|
-| **EDA: Unveiling Sales Patterns** | - | [View](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) | `Python` `EDA` `Data Visualization` `Pandas` `Matplotlib` `Seaborn` |
-| **LifeLens: Life Expectancy Prediction** | - | [View](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) | `Python` `Scikit-Learn` `XGBoost` `Matplotlib` |
-| **Titanic Survivor Prediction** | - | [View](https://github.com/aysh34/Titanic-Survivor-Prediction-With-Machine-Learning) | `Python` `Pandas` `Logistic Regression` `Naive Bayes` |
-| **Simple Linear Regression** | - | [View](https://github.com/aysh34/Simple-Linear-Regression) | `Python` `Pandas` `Numpy` `Scikit-Learn` `Linear Regression` |
-| **Data Analysis with NumPy and Pandas** | - | [View](https://github.com/aysh34/Data-Analysis-with-NumPy-Pandas) | `Python` `Pandas` `Numpy` `Data Analysis` |
-| **Image Captioning AI App** | - | [View](https://github.com/aysh34/Image-Captioning-AI-App) | `Python` `Gradio` `Transformers` `Torch` `Pillow` `Numpy` |
-
-<br> 
-
----
 -->
 
 ## 📊 GitHub Metrics
@@ -159,40 +94,37 @@ timeline
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=panda" />
 </p>
 
----
+
 ## 🏅 Proof of Completion
 
 <p float="left">
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 
   <a href="https://github.com/aysh34/aysh34/blob/main/assets/GEN%20AI_page-0001.jpg" target="_blank">
-    <img src="https://github.com/aysh34/aysh34/blob/main/assets/GEN%20AI_page-0001.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
-  </a>
+    <img src="https://github.com/aysh34/aysh34/blob/main/assets/GEN%20AI_page-0001.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 
    <a href="https://github.com/aysh34/aysh34/blob/main/assets/cropped%20execute%20AI%20Genesis.png" target="_blank">
-    <img src="https://github.com/aysh34/aysh34/blob/main/assets/cropped%20execute%20AI%20Genesis.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
-  </a>
+    <img src="https://github.com/aysh34/aysh34/blob/main/assets/cropped%20execute%20AI%20Genesis.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
   
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD300&center=true&vCenter=true&width=800&lines=Let%E2%80%99s+Build+Something+Awesome+Together!;Open+to+collaboration,+ideas,+and+research.;Ping+me+if+you+have+an+AI+problem+to+solve!" alt="Connect Typing SVG" />
+  <br/>
+  <b>Drop a message & let’s make innovation happen.</b>
 </p>

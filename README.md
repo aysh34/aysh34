@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Hi%2C+I%E2%80%99m+Ayesha+Saleem!;Machine+Learning+Explorer+%7C+Research+Enthusiast;Turning+data+into+decisions%2C+chaos+into+clarity;Driven+by+curiosity%2C+built+with+Python" alt="Typing SVG Intro" />
 
   <!-- Social Badges -->
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/ayesha-saleem6/">
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
   <a href="https://github.com/aysh34">
@@ -34,7 +34,7 @@
 
 
   <!-- Personal Tagline -->
-  <br>
+  
   <b><i> "Built on code, driven by curiosity, powered by purpose."</i></b>
 
 </div>

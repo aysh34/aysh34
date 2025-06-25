@@ -48,7 +48,7 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 | **Competitive Programming** | <a href="https://leetcode.com/ayesha_saleem9"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> |
 
 
-## 🎓 EDUCATION
+## 🎓 Education
 
 **Emerson University Multan**  
 *Bachelor of Science in Computer Science (BSCS)*  
@@ -56,7 +56,7 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 **Sep 2023 – Present**
 
 
-## 🏆 Achievements & AWARDS
+## 🏆 Achievements & Awards
 
 - **Harvard CS50x Puzzle Day 2025** - Took part in the CS50x Puzzle Day, collaborating with a team of 4 to solve 9/9 challenging puzzles and enhance problem-solving skills.
 - **Meta Hacker Cup 2024** – Competed in Meta’s global programming competition, showcasing problem-solving and algorithmic skills.  
@@ -84,7 +84,7 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 
 -->
 
-## 📊 GitHub Metrics
+## 📊 GitHub Contributions 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=panda&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -96,7 +96,7 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 </p>
 
 
-## 🏅 Proof of Completion
+## 🏅 International Competitions and Hackathons 
 
 <p float="left">
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">

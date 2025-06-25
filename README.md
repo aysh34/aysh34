@@ -25,7 +25,7 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack | Link |
+| Project | Description | Tech Stack | Project Demo |
 |--------|-------------|------------|------|
 | **OncoPredict AI** | Early detection of breast cancer using ML & AUC optimization | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | [GitHub](https://github.com/aysh34/OncoPredict-AI) |
 | **SupplyShield 2.0** | AI-Powered Logistics Risk Detection System |![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-3776AB?style=flat-square&logo=streamlit&logoColor=red)| [lablab.ai](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection)

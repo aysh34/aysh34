@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner GIF" />
 
   <!-- Typing SVG with Personal Intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Hi%2C+I%E2%80%99m+Ayesha+Saleem!;Machine+Learning+Explorer+%7C+Research+Enthusiast;Transforming+data+into+insights%2C+and+challenges+into+solutions;Driven+by+curiosity%2C+built+with+Python" alt="Typing SVG Intro" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Hi%2C+I%E2%80%99m+Ayesha+Saleem!;Data+Scientist+%7C+Machine+Learning+Explorer+%7C+Research+Enthusiast;Transforming+data+into+insights%2C+and+challenges+into+solutions" alt="Typing SVG Intro" /><br>
 
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/ayesha-saleem6/">

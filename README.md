@@ -15,6 +15,15 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 
 ---
 
+## Academic Background
+
+**Emerson University Multan**  
+*Bachelor of Science in Computer Science (BSCS)*  
+**CGPA:** 3.86/4.0  
+**Sep 2023 – Present**
+
+---
+
 ## Recent Projects
 
 | Project | Description | Tech Stack | Project Demo |
@@ -27,7 +36,7 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 
 ---
 
-## Skills   
+## Technical Expertise  
 
 | **Category**        | **Skills**        |
 |---------------------|------------------|
@@ -39,15 +48,6 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 | **Development Tools** | Anaconda, VS Code, Google Colab, Jupyter |
 | **Web Development** | HTML5, CSS3, Bootstrap |
 | **Competitive Programming** | LeetCode (200+ DSA problems solved) |
-
----
-
-## Education
-
-**Emerson University Multan**  
-*Bachelor of Science in Computer Science (BSCS)*  
-**CGPA:** 3.86/4.0  
-**Sep 2023 – Present**
 
 ---
 

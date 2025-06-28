@@ -16,13 +16,10 @@
   <a href="mailto:ayeshasaleem853@gmail.com">
     <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
     </div>
-
----
-
+    
 ## About Me 
 I'm passionate about leveraging **AI, machine learning, and statistical methods** to solve real-world problems and extract actionable insights from data using Python. I enjoy collaborating on research, competitive programming, and contributing to open-source projects to continuously learn and grow.
 
----
 
 ## Academic Background
 
@@ -31,7 +28,6 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 **CGPA:** 3.86/4.0  
 **Sep 2023 – Present**
 
----
 
 ## Recent Projects
 
@@ -42,8 +38,6 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 | **LifeLens** | Predicts life expectancy based on country-level health/econ features | XGBoost, Pandas | [GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |
 | **Unveiling Sales Patterns** | In-depth EDA to discover hidden trends in sales data | Seaborn, Matplotlib | [GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
 | **Titanic Survivor Prediction** | Predicts passenger survival using logistic regression & Naive Bayes | Scikit-learn, Python | [GitHub](https://github.com/aysh34/Titanic-Survivor-Prediction-With-Machine-Learning) |
-
----
 
 ## Technical Expertise  
 
@@ -58,8 +52,6 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 | **Web Development** | HTML5, CSS3, Bootstrap |
 | **Competitive Programming** | LeetCode (200+ DSA problems solved) |
 
----
-
 ## Achievements & Awards
 
 - **Kaggle Expert** – Published datasets, notebooks, and competed in real-world ML challenges.  
@@ -70,7 +62,6 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 - **LeetCode 230+ DSA Problems Solved** – Practiced advanced algorithmic skills and competitive coding.
 - **PakAngels Essential GenAI Training** – Top performer with practical AI projects.
 
----
 
 ## GitHub Contributions 
 
@@ -83,7 +74,6 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=panda" />
 </p>
 
----
 
 ## International Competitions and Hackathons 
 

@@ -17,21 +17,21 @@
     <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
     </div>
     
-## About Me 
+## 💫 About Me 
 I'm passionate about leveraging **AI, machine learning, and statistical methods** to solve real-world problems and extract actionable insights from data using Python. I enjoy collaborating on research, competitive programming, and contributing to open-source projects to continuously learn and grow.
 
 
-## Academic Background
+## 📚 Academic Background
 
 **Emerson University Multan**  
 *Bachelor of Science in Computer Science (BSCS)*  
 **CGPA:** 3.86/4.0  
 **Sep 2023 – Present**
 
-## Achievements & Awards
+## 🏆 Achievements & Awards
 
-- **Kaggle Expert** – Published datasets, notebooks, and competed in real-world ML challenges.  
-- **Harvard CS50x Puzzle Day Winner (2025)** – Solved all 9/9 puzzles; secured 1st place globally with team.  
+- **Kaggle Expert 🎖️** – Published datasets, notebooks, and competed in real-world ML challenges.  
+- **Harvard CS50x Puzzle Day Winner (2025) 🥇** – Solved all 9/9 puzzles; secured 1st place globally with team.  
 - **Meta Hacker Cup (2024) Qualifier** – Competed in Meta’s global programming competition, showcasing strong algorithmic and problem-solving skills.  
 - **UC Berkeley CALICO Informatics Competition (2024)** – Participated to enhance data handling and computational thinking.  
 - **LabLab.ai AI Hackathons** – Participated in multiple international hackathons focused on generative and applied AI.  
@@ -39,7 +39,7 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 - **PakAngels Essential GenAI Training** – Top performer with practical AI projects.
 
 
-## Recent Projects
+## 👩‍💻 Recent Projects
 
 | Project | Description | Tech Stack | Project Demo |
 |--------|-------------|------------|------|
@@ -49,7 +49,7 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 | **Unveiling Sales Patterns** | In-depth EDA to discover hidden trends in sales data | Seaborn, Matplotlib | [GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
 | **Titanic Survivor Prediction** | Predicts passenger survival using logistic regression & Naive Bayes | Scikit-learn, Python | [GitHub](https://github.com/aysh34/Titanic-Survivor-Prediction-With-Machine-Learning) |
 
-## Technical Expertise  
+## 💻 Technical Expertise  
 
 | **Category**        | **Skills**        |
 |---------------------|------------------|
@@ -62,7 +62,7 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 | **Web Development** | HTML5, CSS3, Bootstrap |
 | **Competitive Programming** | LeetCode (200+ DSA problems solved) |
 
-## GitHub Contributions 
+## 📊 GitHub Contributions 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=panda&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -74,7 +74,7 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 </p>
 
 
-## International Competitions and Hackathons 
+## 🏅 International Competitions and Hackathons 🏅
 
 <p float="left">
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">

@@ -30,9 +30,9 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 
 ## 🏆 Achievements & Awards
 
-- **Kaggle Expert 🎖️** – Published datasets, notebooks, and competed in real-world ML challenges.  
-- **Harvard CS50x Puzzle Day Winner (2025) 🥇** – Solved all 9/9 puzzles; secured 1st place globally with team.  
-- **Meta Hacker Cup (2024) Qualifier 🎖️** – Competed in Meta’s global programming competition, showcasing strong algorithmic and problem-solving skills.  
+- **Kaggle Expert** – Published datasets, notebooks, and competed in real-world ML challenges.  
+- **Harvard CS50x Puzzle Day Winner (2025)** – Solved all 9/9 puzzles; secured 1st place globally with team.  
+- **Meta Hacker Cup (2024) Qualifier** – Competed in Meta’s global programming competition, showcasing strong algorithmic and problem-solving skills.  
 - **UC Berkeley CALICO Informatics Competition (2024)** – Participated to enhance data handling and computational thinking.  
 - **LabLab.ai AI Hackathons** – Participated in multiple international hackathons focused on generative and applied AI.  
 - **LeetCode 230+ DSA Problems Solved** – Practiced advanced algorithmic skills and competitive coding.

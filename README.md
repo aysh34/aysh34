@@ -3,7 +3,7 @@
   <!-- Typing SVG with Clean Welcome Message -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Welcome+to+my+digital+resume" alt="Typing SVG Intro" /><br>
 
- <h1><b>AYESHA SALEEM</b></h1>
+ # <h1><b>AYESHA SALEEM</b></h1>
   <!-- Personal Tagline -->
   <b><i>Machine Learning Engineer | Aspiring Data Scientist | Research Enthusiast | Problem Solver </i></b><br><br>
   <!-- Social Badges -->

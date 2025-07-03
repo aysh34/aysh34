@@ -10,8 +10,8 @@
 
   <!-- Personal Tagline -->
   <p>
-    <img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-FF6B6B?style=for-the-badge" alt="ML Engineer" />
-    <img src="https://img.shields.io/badge/-Data%20Scientist-4ECDC4?style=for-the-badge" alt="Data Scientist" />
+    <img src="https://img.shields.io/badge/-Machine%20Learning%20-FF6B6B?style=for-the-badge" alt="ML Engineer" />
+    <img src="https://img.shields.io/badge/-Data%20Science-4ECDC4?style=for-the-badge" alt="Data Scientist" />
     <img src="https://img.shields.io/badge/-Research%20Enthusiast-45B7D1?style=for-the-badge" alt="Researcher" />
     <img src="https://img.shields.io/badge/-Problem%20Solver-96CEB4?style=for-the-badge" alt="Problem Solver" />
   </p>

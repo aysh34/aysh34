@@ -1,66 +1,96 @@
 <div align="center">
+  <!-- Dynamic Welcome Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Welcome+to+my+digital+resume;Building+AI+solutions+that+matter;Let's+innovate+together!" alt="Dynamic Welcome" />
 
-  <!-- Typing SVG with Clean Welcome Message -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Welcome+to+my+digital+resume" alt="Typing SVG Intro" /><br>
+  
+  <!-- Animated Name with Gradient Effect -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=AYESHA+SALEEM" alt="Name Animation" />
+  </h1>
 
- <h1><b>AYESHA SALEEM</b></h1>
   <!-- Personal Tagline -->
-  <b><i>Machine Learning Engineer | Aspiring Data Scientist | Research Enthusiast | Problem Solver </i></b><br><br>
+  <p>
+    <img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-FF6B6B?style=for-the-badge" alt="ML Engineer" />
+    <img src="https://img.shields.io/badge/-Data%20Scientist-4ECDC4?style=for-the-badge" alt="Data Scientist" />
+    <img src="https://img.shields.io/badge/-Research%20Enthusiast-45B7D1?style=for-the-badge" alt="Researcher" />
+    <img src="https://img.shields.io/badge/-Problem%20Solver-96CEB4?style=for-the-badge" alt="Problem Solver" />
+  </p>
+
+  
   <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/ayesha-saleem6/">
-    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
-  <a href="https://github.com/aysh34">
-    <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" /></a>
-  <a href="https://leetcode.com/ayesha_saleem9">
-    <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" /></a>
-  <a href="mailto:ayeshasaleem853@gmail.com">
-    <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
-    </div>
+   <p>
+    <a href="https://www.linkedin.com/in/ayesha-saleem6/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" /></a>
+    <a href="https://github.com/aysh34">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a>
+    <a href="https://leetcode.com/ayesha_saleem9">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" /></a>
+    <a href="mailto:ayeshasaleem853@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" /></a>
+  </p>
+  </div>
     
 ## 💫 About Me 
-I'm passionate about leveraging **AI, machine learning, and statistical methods** to solve real-world problems and extract actionable insights from data using Python. I enjoy collaborating on research, competitive programming, and contributing to open-source projects to continuously learn and grow.
 
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-## 📚 Academic Background
+**Mission:** Transforming complex data into actionable insights through **AI, machine learning, and statistical wizardry**
+
+**Passion:** Building intelligent systems that solve real-world problems and make a meaningful impact
+
+**Philosophy:** Every dataset tells a story, every algorithm solves a puzzle, and every model opens new possibilities
+
+**Community:** Active contributor to open-source projects, research collaborations, and competitive programming
+
+**Growth Mindset:** Constantly learning, experimenting, and pushing the boundaries of what's possible with AI
+</br>
+
+> 🎯 **Current Goal:** Building end-to-end ML pipelines and deploying scalable AI solutions
+
+## 🎓 Academic Excellence
 
 **Emerson University Multan**  
 *Bachelor of Science in Computer Science (BSCS)*  
 **CGPA:** 3.86/4.0  
 **Sep 2023 – Present**
 
-## 🏆 Achievements & Awards
+## 🌟 Major Achievements
 
-- **Kaggle Expert** – Published datasets, notebooks, and competed in real-world ML challenges.  
-- **Harvard CS50x Puzzle Day Winner (2025)** – Solved all 9/9 puzzles; secured 1st place globally with team.  
-- **Meta Hacker Cup (2024) Qualifier** – Competed in Meta’s global programming competition, showcasing strong algorithmic and problem-solving skills.  
-- **UC Berkeley CALICO Informatics Competition (2024)** – Participated to enhance data handling and computational thinking.  
-- **LabLab.ai AI Hackathons** – Participated in multiple international hackathons focused on generative and applied AI.  
-- **LeetCode 230+ DSA Problems Solved** – Practiced advanced algorithmic skills and competitive coding.
-- **PakAngels Essential GenAI Training** – Top performer with practical AI projects.
+🥇 **Harvard CS50x Puzzle Day Champion (2025)** - Solved 9/9 puzzles, secured 1st place globally  
+🏅 **Kaggle Expert** - Published datasets, notebooks, and competed in real-world ML challenges  
+🚀 **Meta Hacker Cup Qualifier (2024)** - Showcased algorithmic prowess in global competition  
+🎯 **UC Berkeley CALICO Competition (2024)** - Enhanced computational thinking skills  
+💡 **LabLab.ai AI Hackathon Veteran** - Multiple international AI hackathon participations  
+⚡ **LeetCode 230+ Problems Champion** - Advanced algorithmic problem-solving skills  
+🧠 **PakAngels GenAI Training Top Performer** - Excelled in practical AI project development  
+
+## 🛠️ Featured Projects
+
+<div align="center">
+  
+| 🎯 **Project** | 📝 **Description** | 🔧 **Tech Stack** | 🚀 **Demo** |
+|:---:|:---:|:---:|:---:|
+| **OncoPredict AI** | Early breast cancer detection with ML optimization | Python, Scikit-learn, AUC | [🔗 GitHub](https://github.com/aysh34/OncoPredict-AI) |
+| **SupplyShield 2.0** | AI-powered logistics risk detection system | Python, Streamlit, ML | [🔗 LabLab](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |
+| **LifeLens** | Life expectancy prediction with health analytics | XGBoost, Pandas, Stats | [🔗 GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |
+| **Sales Pattern Explorer** | Deep EDA revealing hidden sales insights | Seaborn, Matplotlib, EDA | [🔗 GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
+| **Titanic Survivor AI** | Survival prediction with ensemble methods | Scikit-learn, Classification | [🔗 GitHub](https://github.com/aysh34/Titanic-Survivor-Prediction-With-Machine-Learning) |
+
+</div>
 
 
-## 👩‍💻 Recent Projects
+## 💻 Technical Arsenal
 
-| Project | Description | Tech Stack | Project Demo |
-|--------|-------------|------------|------|
-| **OncoPredict AI** | Early detection of breast cancer using ML & AUC optimization | Python, Scikit-learn | [GitHub](https://github.com/aysh34/OncoPredict-AI) |
-| **SupplyShield 2.0** | AI-Powered Logistics Risk Detection System | Python, Streamlit | [lablab.ai](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |
-| **LifeLens** | Predicts life expectancy based on country-level health/econ features | XGBoost, Pandas | [GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |
-| **Unveiling Sales Patterns** | In-depth EDA to discover hidden trends in sales data | Seaborn, Matplotlib | [GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
-| **Titanic Survivor Prediction** | Predicts passenger survival using logistic regression & Naive Bayes | Scikit-learn, Python | [GitHub](https://github.com/aysh34/Titanic-Survivor-Prediction-With-Machine-Learning) |
+<div align="center">
 
-## 💻 Technical Expertise  
+| **Category** | **Technologies** |
+|:---:|:---:|
+| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| **ML / Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-336699?style=for-the-badge&logo=spacy&logoColor=white) |
+| **Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
+| **Dev Tools & Platforms** | ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 
-| **Category**        | **Skills**        |
-|---------------------|------------------|
-| **Programming Languages** | Python, C++ |
-| **Data Science & ML** | Pandas, Numpy, Scikit-learn, TensorFlow, HuggingFace, Pytorch |
-| **Data Visualization** | Matplotlib, Seaborn, Plotly |
-| **Web Scraping & APIs** | BeautifulSoup, Postman |
-| **Version Control** | Git, GitHub |
-| **Development Tools** | Anaconda, VS Code, Google Colab, Jupyter |
-| **Web Development** | HTML5, CSS3, Bootstrap |
-| **Competitive Programming** | LeetCode (200+ DSA problems solved) |
+</div>
 
 ## 📊 GitHub Contributions 
 
@@ -73,7 +103,7 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
 </p>
 
 
-## 🏅 International Competitions and Hackathons
+## 🏅 International Competitions and Hackathons Gallery
 
 <p float="left">
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">
@@ -100,6 +130,8 @@ I'm passionate about leveraging **AI, machine learning, and statistical methods*
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" target="_blank">
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 </p>
+
+## 🎯 Let's Connect & Collaborate!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD300&center=true&vCenter=true&width=800&lines=Let%E2%80%99s+Build+Something+Awesome+Together!;Open+to+collaboration,+ideas,+and+research.;Ping+me+if+you+have+an+AI+problem+to+solve!" alt="Connect Typing SVG" />

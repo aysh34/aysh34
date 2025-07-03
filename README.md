@@ -34,15 +34,15 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-**Mission:** Transforming complex data into actionable insights through **AI, machine learning, and statistical wizardry**
+- **Mission:** Transforming complex data into actionable insights through **AI, machine learning, and statistical wizardry**
 
-**Passion:** Building intelligent systems that solve real-world problems and make a meaningful impact
+- **Passion:** Building intelligent systems that solve real-world problems and make a meaningful impact
 
-**Philosophy:** Every dataset tells a story, every algorithm solves a puzzle, and every model opens new possibilities
+- **Philosophy:** Every dataset tells a story, every algorithm solves a puzzle, and every model opens new possibilities
 
-**Community:** Active contributor to open-source projects, research collaborations, and competitive programming
+- **Community:** Active contributor to open-source projects, research collaborations, and competitive programming
 
-**Growth Mindset:** Constantly learning, experimenting, and pushing the boundaries of what's possible with AI
+- **Growth Mindset:** Constantly learning, experimenting, and pushing the boundaries of what's possible with AI
 </br>
 
 > 🎯 **Current Goal:** Building end-to-end ML pipelines and deploying scalable AI solutions

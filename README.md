@@ -45,8 +45,6 @@
 - **Growth Mindset:** Constantly learning, experimenting, and pushing the boundaries of what's possible with AI
 </br>
 
-> 🎯 **Current Goal:** Building end-to-end ML pipelines and deploying scalable AI solutions
-
 ## 🎓 Academic Excellence
 
 **Emerson University Multan**  
@@ -56,19 +54,19 @@
 
 ## 🌟 Major Achievements
 
-🥇 **Harvard CS50x Puzzle Day Champion (2025)** - Solved 9/9 puzzles, secured 1st place globally  
-🏅 **Kaggle Expert** - Published datasets, notebooks, and competed in real-world ML challenges  
-🚀 **Meta Hacker Cup Qualifier (2024)** - Showcased algorithmic prowess in global competition  
-🎯 **UC Berkeley CALICO Competition (2024)** - Enhanced computational thinking skills  
-💡 **LabLab.ai AI Hackathon Veteran** - Multiple international AI hackathon participations  
-⚡ **LeetCode 230+ Problems Champion** - Advanced algorithmic problem-solving skills  
-🧠 **PakAngels GenAI Training Top Performer** - Excelled in practical AI project development  
+- **Harvard CS50x Puzzle Day Champion (2025)** - Solved 9/9 puzzles, secured 1st place globally  
+- **Kaggle Expert** - Published datasets, notebooks, and competed in real-world ML challenges  
+- **Meta Hacker Cup Qualifier (2024)** - Showcased algorithmic prowess in global competition  
+- **UC Berkeley CALICO Competition (2024)** - Enhanced computational thinking skills  
+- **LabLab.ai AI Hackathon Veteran** - Multiple international AI hackathon participations  
+- **LeetCode 230+ Problems Champion** - Advanced algorithmic problem-solving skills  
+- **PakAngels GenAI Training Top Performer** - Excelled in practical AI project development  
 
 ## 🛠️ Featured Projects
 
 <div align="center">
   
-| 🎯 **Project** | 📝 **Description** | 🔧 **Tech Stack** | 🚀 **Demo** |
+| **Project** | **Description** | **Tech Stack** | **Demo** |
 |:---:|:---:|:---:|:---:|
 | **OncoPredict AI** | Early breast cancer detection with ML optimization | Python, Scikit-learn, AUC | [🔗 GitHub](https://github.com/aysh34/OncoPredict-AI) |
 | **SupplyShield 2.0** | AI-powered logistics risk detection system | Python, Streamlit, ML | [🔗 LabLab](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |

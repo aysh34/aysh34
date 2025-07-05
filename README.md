@@ -43,7 +43,6 @@
 - **Community:** Active contributor to open-source projects, research collaborations, and competitive programming
 
 - **Growth Mindset:** Constantly learning, experimenting, and pushing the boundaries of what's possible with AI
-</br>
 
 ## 🎓 Academic Excellence
 

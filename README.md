@@ -2,11 +2,7 @@
   <!-- Dynamic Welcome Banner -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Welcome+to+my+digital+resume;Building+AI+solutions+that+matter;Let's+innovate+together!" alt="Dynamic Welcome" />
 
-  
-  <!-- Animated Name with Gradient Effect -->
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=AYESHA+SALEEM" alt="Name Animation" />
-  </h1>
+<h1 style="font-size: 50px; font-weight: bold;"><b></b>AYESHA SALEEM</h1></b></h1>  
 
   <!-- Personal Tagline -->
   <p>
@@ -15,34 +11,16 @@
     <img src="https://img.shields.io/badge/-Research%20Enthusiast-45B7D1?style=for-the-badge" alt="Researcher" />
     <img src="https://img.shields.io/badge/-Problem%20Solver-96CEB4?style=for-the-badge" alt="Problem Solver" />
   </p>
-
-  
-  <!-- Social Badges -->
-   <p>
-    <a href="https://www.linkedin.com/in/ayesha-saleem6/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" /></a>
-    <a href="https://github.com/aysh34">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a>
-    <a href="https://leetcode.com/ayesha_saleem9">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" /></a>
-    <a href="mailto:ayeshasaleem853@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" /></a>
-  </p>
   </div>
     
 ## 💫 About Me 
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+I'm a Computer Science student with hands-on experience in building and deploying ML-powered applications. I specialize in transforming raw data into real-world solutions through classification models, ML pipelines, and end-to-end ML systems.
 
-- **Mission:** Transforming complex data into actionable insights through **AI, machine learning, and statistical wizardry**
-
-- **Passion:** Building intelligent systems that solve real-world problems and make a meaningful impact
-
-- **Philosophy:** Every dataset tells a story, every algorithm solves a puzzle, and every model opens new possibilities
-
-- **Community:** Active contributor to open-source projects, research collaborations, and competitive programming
-
-- **Growth Mindset:** Constantly learning, experimenting, and pushing the boundaries of what's possible with AI
+- Strong foundation in Python, scikit-learn, and data-driven development  
+- Proven ability to turn business problems into deployable solutions
+- Active contributor to open-source, hackathons, and technical competitions  
+- Focused on practical AI, fast prototyping, and shipping production-grade models
 
 ## 🎓 Academic Excellence
 
@@ -63,7 +41,7 @@
 
 ## 🛠️ Featured Projects
 
-<div align="center">
+<div>
   
 | **Project** | **Description** | **Tech Stack** | **Demo** |
 |:---:|:---:|:---:|:---:|
@@ -78,7 +56,7 @@
 
 ## 💻 Technical Arsenal
 
-<div align="center">
+<div>
 
 | **Category** | **Technologies** |
 |:---:|:---:|
@@ -100,7 +78,7 @@
 </p>
 
 
-## 🏅 International Competitions and Hackathons Gallery
+## 🏅 Competitions and Hackathons Gallery
 
 <p float="left">
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">
@@ -128,8 +106,16 @@
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 </p>
 
-## 🎯 Let's Connect & Collaborate!
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD300&center=true&vCenter=true&width=800&lines=Let%E2%80%99s+Build+Something+Awesome+Together!;Open+to+collaboration,+ideas,+and+research.;Ping+me+if+you+have+an+AI+problem+to+solve!" alt="Connect Typing SVG" />
-</p>
+## 🤝 Let's Connect & Collaborate!
+<div>
+   <p>
+    <a href="https://www.linkedin.com/in/ayesha-saleem6/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" /></a>
+    <a href="https://github.com/aysh34">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a>
+    <a href="https://leetcode.com/ayesha_saleem9">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" /></a>
+    <a href="mailto:ayeshasaleem853@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" /></a>
+  </p>
+</div>

@@ -2,7 +2,7 @@
   <!-- Dynamic Welcome Banner -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Welcome+to+my+digital+resume;Building+AI+solutions+that+matter;Let's+innovate+together!" alt="Dynamic Welcome" />
 
-<h1 style="font-size: 50px; font-weight: bold;"><b></b>AYESHA SALEEM</h1></b></h1>  
+# **AYESHA SALEEM**
 
   <!-- Personal Tagline -->
   <p>

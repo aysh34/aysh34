@@ -45,6 +45,7 @@ I'm a Computer Science student with hands-on experience in building and deployin
   
 | **Project** | **Description** | **Tech Stack** | **Demo** |
 |:---:|:---:|:---:|:---:|
+| **TasteMatch** | Personalized movie recommender system | Python, Streamlit, SentenceTransformer | [🔗 Live App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) |
 | **OncoPredict AI** | Early breast cancer detection with ML optimization | Python, Scikit-learn, AUC | [🔗 GitHub](https://github.com/aysh34/OncoPredict-AI) |
 | **SupplyShield 2.0** | AI-powered logistics risk detection system | Python, Streamlit, ML | [🔗 LabLab](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |
 | **LifeLens** | Life expectancy prediction with health analytics | XGBoost, Pandas, Stats | [🔗 GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |

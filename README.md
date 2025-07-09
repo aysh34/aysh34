@@ -6,10 +6,11 @@
 
   <!-- Personal Tagline -->
   <p>
-    <img src="https://img.shields.io/badge/-Software%20Engineer-674ea7?style=for-the-badge" alt="Software Engineer" />
-    <img src="https://img.shields.io/badge/-ML%20&%20Data%20Science%20Enthusiast-FF6B6B?style=for-the-badge" alt="ML Engineer" />
-    <img src="https://img.shields.io/badge/-Research%20Enthusiast-45B7D1?style=for-the-badge" alt="Researcher" />
-    <img src="https://img.shields.io/badge/-Problem%20Solver-96CEB4?style=for-the-badge" alt="Problem Solver" />
+<img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-FF6B6B?style=flat" alt="Machine Learning Engineer" />
+<img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science%20Enthusiast-4B8BBE?style=flat" alt="AI & Data Science" />
+<img src="https://img.shields.io/badge/-Applied%20Research%20Explorer-45B7D1?style=flat" alt="Research Enthusiast" />
+<img src="https://img.shields.io/badge/-Problem%20Solver-96CEB4?style=flat" alt="Problem Solver" />
+<img src="https://img.shields.io/badge/-Software%20Developer-674ea7?style=flat" alt="Software Developer" />
   </p>
   </div>
     
@@ -42,15 +43,15 @@ I'm a Computer Science student with hands-on experience in building and deployin
 ## 🛠️ Featured Projects
 
 <div>
-  
-| **Project** | **Description** | **Tech Stack** | **Demo** |
-|:---:|:---:|:---:|:---:|
-| **TasteMatch** | Personalized movie recommender system | Python, Streamlit, SentenceTransformer | [🔗 Live App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) |
-| **OncoPredict AI** | Early breast cancer detection with ML optimization | Python, Scikit-learn, AUC | [🔗 GitHub](https://github.com/aysh34/OncoPredict-AI) |
-| **SupplyShield 2.0** | AI-powered logistics risk detection system | Python, Streamlit, ML | [🔗 LabLab](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |
-| **LifeLens** | Life expectancy prediction with health analytics | XGBoost, Pandas, Stats | [🔗 GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |
-| **Sales Pattern Explorer** | Deep EDA revealing hidden sales insights | Seaborn, Matplotlib, EDA | [🔗 GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
-| **Titanic Survivor AI** | Survival prediction with ensemble methods | Scikit-learn, Classification | [🔗 GitHub](https://github.com/aysh34/Titanic-Survivor-Prediction-With-Machine-Learning) |
+
+| **Project**             | **Description**                                      | **Tech Stack**                    | **Demo** |
+|:-----------------------:|------------------------------------------------------|-----------------------------------|----------|
+| **TasteMatch**          | Personalized movie recommender system                | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![ML](https://img.shields.io/badge/Recommender%20System-blueviolet?style=flat) | [🔗 Try App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) |
+| **OncoPredict AI**      | Early breast cancer detection with ML optimization   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![AUC](https://img.shields.io/badge/AUC-FFB000?style=flat) | [🔗 GitHub](https://github.com/aysh34/OncoPredict-AI) |
+| **SupplyShield 2.0**    | AI-powered logistics risk detection system            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-2C9AB7?style=flat) | [🔗 LabLab.ai](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |
+| **LifeLens**            | Life expectancy prediction with health analytics     | ![XGBoost](https://img.shields.io/badge/XGBoost-EC2D2D?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Stats](https://img.shields.io/badge/Statistics-5C5CFF?style=flat) | [🔗 GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |
+| **Sales Pattern Explorer** | Deep EDA revealing hidden sales insights          | ![Seaborn](https://img.shields.io/badge/Seaborn-3E65FF?style=flat) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-7F00FF?style=flat) | [🔗 GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
+| **Titanic Survivor AI** | Survival prediction with ensemble methods            | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Classification](https://img.shields.io/badge/Classification-18A558?style=flat) | [🔗 GitHub](https://github.com/aysh34/Titanic-Survivor-Prediction-With-Machine-Learning) |
 
 </div>
 
@@ -60,13 +61,15 @@ I'm a Computer Science student with hands-on experience in building and deployin
 <div>
 
 | **Category** | **Technologies** |
-|:---:|:---:|
-| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
-| **ML / Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-336699?style=for-the-badge&logo=spacy&logoColor=white) |
-| **Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
-| **Dev Tools & Platforms** | ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+|:------------:|:-----------------|
+| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) |
+| **ML / Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-336699?style=flat&logo=spacy&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black) |
+| **Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
+| **Dev Tools & Platforms** | ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat&logo=anaconda&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=flat&logo=github&logoColor=white) |
+| **Deployment & Hosting** | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 
 </div>
+
 
 ## 📊 GitHub Contributions 
 

@@ -81,9 +81,10 @@ I'm a Computer Science student with hands-on experience in building and deployin
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=dracula" />
 </p>
 
-
-## 🏅 Competitions and Hackathons Gallery
-
+<details>
+<summary><h2>🏅 Competitions and Hackathons Gallery (click to expand)</h2></summary>
+  
+<br> 
 <p float="left">
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
@@ -109,6 +110,8 @@ I'm a Computer Science student with hands-on experience in building and deployin
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" target="_blank">
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 </p>
+
+</details>
 
 ## 🤝 Let's Connect & Collaborate!
 <div>

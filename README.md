@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Welcome+to+my+portfolio;Exploring+Explainable+AI+and+Social+Impact;Advancing+intelligent+systems+together" alt="Dynamic Welcome" />
+ <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Welcome+to+my+portfolio;Exploring+Explainable+AI+and+Social+Impact;Advancing+intelligent+systems+together" alt="Dynamic Welcome" /> -->
 
 # 👋 Hi there, I'm **Ayesha Saleem**
 

@@ -1,27 +1,25 @@
 <div align="center">
-  <!-- Dynamic Welcome Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Welcome+to+my+digital+resume;Building+AI+solutions+that+matter;Let's+innovate+together!" alt="Dynamic Welcome" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Welcome+to+my+portfolio;Exploring+Explainable+AI+and+Social+Impact;Advancing+intelligent+systems+together" alt="Dynamic Welcome" />
 
 # 👋 Hi there, I'm **Ayesha Saleem**
 
-  <!-- Personal Tagline -->
-  <p>
-<img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-FF6B6B?style=flat" alt="Machine Learning Engineer" />
-<img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science%20Enthusiast-4B8BBE?style=flat" alt="AI & Data Science" />
-<img src="https://img.shields.io/badge/-Applied%20Research%20Explorer-45B7D1?style=flat" alt="Research Enthusiast" />
-<img src="https://img.shields.io/badge/-Problem%20Solver-96CEB4?style=flat" alt="Problem Solver" />
-<img src="https://img.shields.io/badge/-Software%20Developer-674ea7?style=flat" alt="Software Developer" />
-  </p>
-  </div>
-    
+<p>
+<img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-FF6B6B?style=flat" />
+<img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science%20Enthusiast-4B8BBE?style=flat" />
+<img src="https://img.shields.io/badge/-Undergraduate%20Researcher-FFD21F?style=flat" />
+<img src="https://img.shields.io/badge/-Explainable%20AI%20Explorer-5C5CFF?style=flat" />
+<img src="https://img.shields.io/badge/-AI%20for%20Social%20Good-22A699?style=flat" />
+</p>
+</div>
+
 ## 💫 About Me 
 
-I'm a Computer Science student with hands-on experience in building and deploying ML-powered applications. I specialize in transforming raw data into real-world solutions through classification models, ML pipelines, and end-to-end ML systems.
+I'm a Computer Science undergraduate deeply invested in **machine learning**, **explainability**, and **AI for social impact**. I specialize in transforming raw data into real-world, transparent solutions using classification models, interpretable ML tools, and complete AI pipelines.
 
-- Strong foundation in Python, scikit-learn, and data-driven development  
-- Proven ability to turn business problems into deployable solutions
-- Active contributor to open-source, hackathons, and technical competitions  
-- Focused on practical AI, fast prototyping, and shipping production-grade models
+- Hands-on experience with SHAP, LIME, Scikit-learn, XGBoost, and Python-based tools
+- Interested in **responsible AI**, **human-centered AI**, and research-backed innovation
+- Actively contributing to open-source, hackathons, and ML research communities    
+
 
 ## 🎓 Academic Excellence
 
@@ -30,11 +28,21 @@ I'm a Computer Science student with hands-on experience in building and deployin
 **CGPA:** 3.86 / 4.00 (96.5%)  
 **Duration:** September 2023 – Present
 
-**Relevant Highlights:**
+**Highlights:**
 - Ranked **1st** in class
 - Awarded **University Merit Scholarship**
 - Coursework: Data Structures, Algorithms, Object-Oriented Programming, Linear Algebra
 
+## 📄 Research Interests
+
+I'm currently focused on applied machine learning with a strong interest in:
+
+- **Explainable AI** (SHAP, LIME) for improving model transparency in high-stakes domains  
+- **Responsible AI**: Reducing bias and improving fairness in predictive models  
+- **Human-AI collaboration**: Designing models that assist, not replace  
+- **AI for Social Good**: Using data for healthcare, education, and public policy impact  
+
+I'm open to undergraduate research roles, graduate assistantships, and scholarship opportunities aligned with these themes.
 
 ## 🌟 Major Achievements
 
@@ -51,12 +59,12 @@ I'm a Computer Science student with hands-on experience in building and deployin
 
 | **Project**             | **Description**                                                                                     | **Tech Stack**                                                                                                                                                             | **Link** |
 |-------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| **TasteMatch**          | Content-based movie recommendation engine using Sentence Transformers (MiniLM-L6-v2)               | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-336699?style=flat) | [🔗 Try App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) |
-| **OncoPredict AI**      | Early breast cancer detection using ML pipeline and hyperparameter tuning                          | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![AUC](https://img.shields.io/badge/AUC-FFB000?style=flat) | [🔗 GitHub](https://github.com/aysh34/OncoPredict-AI) |
-| **SupplyShield 2.0**    | AI-powered risk detection system for logistics using anomaly detection                             | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-2C9AB7?style=flat) | [🔗 LabLab.ai](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |
+| **TasteMatch**          | Content-based movie recommender using Sentence Transformers (MiniLM-L6-v2).  Explores semantic matching in real-world recommendation settings. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-336699?style=flat) | [🔗 Try App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) |
+| **OncoPredict AI**      | Early breast cancer detection using ML pipeline and hyperparameter tuning. Designed for healthcare-focused ML applications. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![AUC](https://img.shields.io/badge/AUC-FFB000?style=flat) | [🔗 GitHub](https://github.com/aysh34/OncoPredict-AI) |
+| **SupplyShield 2.0**    | AI-powered risk detection system for logistics using anomaly detection. Built during AI hackathon. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-2C9AB7?style=flat) | [🔗 LabLab.ai](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |
 | **LifeLens**            | Predicting life expectancy using socioeconomic and health indicators                               | ![XGBoost](https://img.shields.io/badge/XGBoost-EC2D2D?style=flat) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Stats](https://img.shields.io/badge/Statistics-5C5CFF?style=flat) | [🔗 GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |
-| **Sales Pattern Explorer** | Exploratory Data Analysis project uncovering hidden sales trends                             | ![Seaborn](https://img.shields.io/badge/Seaborn-3E65FF?style=flat) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-7F00FF?style=flat) | [🔗 GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
-| **Titanic Survivor AI** | Predicting survival on the Titanic dataset using classification models                            | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Classification](https://img.shields.io/badge/Classification-18A558?style=flat) | [🔗 GitHub](https://github.com/aysh34/Titanic-Survivor-Prediction-With-Machine-Learning) |
+| **Sales Pattern Explorer** |Deep EDA on business sales data to uncover seasonality and correlation insights.| ![Seaborn](https://img.shields.io/badge/Seaborn-3E65FF?style=flat) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-7F00FF?style=flat) | [🔗 GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
+| **Titanic Survivor AI** | Classical classification task with feature engineering and pipeline deployment.| ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Classification](https://img.shields.io/badge/Classification-18A558?style=flat) | [🔗 GitHub](https://github.com/aysh34/Titanic-Survivor-Prediction-With-Machine-Learning) |
 
 
 </div>

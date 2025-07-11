@@ -25,10 +25,16 @@ I'm a Computer Science student with hands-on experience in building and deployin
 
 ## 🎓 Academic Excellence
 
-**Emerson University Multan**  
+**Emerson University, Multan**  
 *Bachelor of Science in Computer Science (BSCS)*  
-**CGPA:** 3.86/4.0  
-**Sep 2023 – Present**
+**CGPA:** 3.86 / 4.00 (96.5%)  
+**Duration:** September 2023 – Present
+
+**Relevant Highlights:**
+- Ranked **1st** in class
+- Awarded **University Merit Scholarship**
+- Coursework: Data Structures, Algorithms, Object-Oriented Programming, Linear Algebra
+
 
 ## 🌟 Major Achievements
 
@@ -38,7 +44,6 @@ I'm a Computer Science student with hands-on experience in building and deployin
 - **UC Berkeley CALICO Competition (2024)** - Enhanced computational thinking skills  
 - **LabLab.ai AI Hackathon Veteran** - Multiple international AI hackathon participations  
 - **LeetCode 230+ Problems Champion** - Advanced algorithmic problem-solving skills  
-- **PakAngels GenAI Training Top Performer** - Excelled in practical AI project development  
 
 ## 🛠️ Featured Projects
 

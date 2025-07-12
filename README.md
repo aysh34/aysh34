@@ -38,12 +38,9 @@ I'm a Computer Science undergraduate deeply invested in **machine learning**, **
 
 I'm currently focused on applied machine learning with a strong interest in:
 
-- **Explainable AI** (SHAP, LIME) for improving model transparency in high-stakes domains  
+- **Explainable AI** for improving model transparency in high-stakes domains  
 - **Responsible AI**: Reducing bias and improving fairness in predictive models  
-- **Human-AI collaboration**: Designing models that assist, not replace  
 - **AI for Social Good**: Using data for healthcare, education, and public policy impact  
-
-I'm open to undergraduate research roles, graduate assistantships, and scholarship opportunities aligned with these themes.
 
 ## 🌟 Major Achievements
 

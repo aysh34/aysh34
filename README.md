@@ -5,11 +5,10 @@
 # 👋 Hi there, I'm **Ayesha Saleem**
 
 <p>
-<img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-FF6B6B?style=flat" />
-<img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science%20Enthusiast-4B8BBE?style=flat" />
+<img src="https://img.shields.io/badge/-Computer%20Scientist-FF6B6B?style=flat" />
 <img src="https://img.shields.io/badge/-Undergraduate%20Researcher-FFD21F?style=flat" />
-<img src="https://img.shields.io/badge/-Explainable%20AI%20Explorer-5C5CFF?style=flat" />
-<img src="https://img.shields.io/badge/-AI%20for%20Social%20Good-22A699?style=flat" />
+<img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-22A699?style=flat" />
+<img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science%20Enthusiast-4B8BBE?style=flat" />
 </p>
 </div>
 
@@ -32,17 +31,13 @@ I'm a Computer Science undergraduate deeply invested in **machine learning**, **
 **Highlights:**
 - Ranked **1st** in class
 - Awarded **University Merit Scholarship**
-- Coursework: Data Structures, Algorithms, Object-Oriented Programming, Linear Algebra
+- Relevant Coursework: Data Structures & Algorithms, Artificial Intelligence, OOP, Calculus, Database Systems 
 
 ## 📄 Research Interests
 
-I'm currently focused on applied machine learning with a strong interest in:
+I'm currently focused on applied machine learning with a strong interest in **Explainable AI**, **AI for Social Good** and **Responsible AI** reducing bias and improving fairness in predictive models.
 
-- **Explainable AI** for improving model transparency in high-stakes domains  
-- **Responsible AI**: Reducing bias and improving fairness in predictive models  
-- **AI for Social Good**: Using data for healthcare, education, and public policy impact  
-
-## 🌟 Major Achievements
+## 🌟 Achievements 
 
 - **Harvard CS50x Puzzle Day Champion (2025)** - Solved 9/9 puzzles, secured 1st place globally  
 - **Kaggle Expert** - Published datasets, notebooks, and competed in real-world ML challenges  

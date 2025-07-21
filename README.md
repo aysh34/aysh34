@@ -15,7 +15,7 @@
 
 I'm a Computer Science undergraduate deeply invested in **machine learning**, **explainability**, and **AI for social impact**. I specialize in transforming raw data into real-world, transparent solutions using classification models, interpretable ML tools, and complete AI pipelines.
 
-- **2+ years** hands-on experience with SHAP, LIME, Scikit-learn, XGBoost, and Python-based tools
+- **1+ years** hands-on experience with SHAP, LIME, Scikit-learn, XGBoost, and Python-based tools
 - **Global competition winner** with proven track record in algorithmic problem-solving
 - **5+ deployed ML applications** serving real users in healthcare, entertainment, and logistics
 - **Published Kaggle Expert** with datasets and notebooks used by the ML community

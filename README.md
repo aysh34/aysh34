@@ -1,8 +1,14 @@
 <div align="center">
+ <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Welcome+to+my+portfolio;Exploring+Explainable+AI+and+Social+Impact;Advancing+intelligent+systems+together" alt="Dynamic Welcome" />
+![Typewriter](https://svg-banners.vercel.app/api?type=typeWriter&text1=👋Hi%20there,%20I'm%20Ayesha%20Saleem&height=70&width=600) -->
 
+<<<<<<< HEAD
 # **Ayesha Saleem**
 
 ### Computer Science Student | Machine Learning Engineer | AI Researcher
+=======
+# 👋 Hi there, I'm **Ayesha Saleem**
+>>>>>>> 488e97e198c8d7f0a18de64bc61797cbac0818da
 
 <p>
 <img src="https://img.shields.io/badge/-Computer%20Scientist-FF6B6B?style=flat" />
@@ -12,15 +18,17 @@
 </p>
 </div>
 
+<<<<<<< HEAD
 ## About Me
+=======
+## 💫 About Me 
+>>>>>>> 488e97e198c8d7f0a18de64bc61797cbac0818da
 
 I'm a Computer Science undergraduate deeply invested in **machine learning**, **explainability**, and **AI for social impact**. I specialize in transforming raw data into real-world, transparent solutions using classification models, interpretable ML tools, and complete AI pipelines.
 
-- **2+ years** hands-on experience with SHAP, LIME, Scikit-learn, XGBoost, and Python-based tools
-- **Global competition winner** with proven track record in algorithmic problem-solving
-- **5+ deployed ML applications** serving real users in healthcare, entertainment, and logistics
-- **Published Kaggle Expert** with datasets and notebooks used by the ML community
+- Hands-on experience with SHAP, LIME, Scikit-learn, XGBoost, and Python-based tools
 - Interested in **responsible AI**, **human-centered AI**, and research-backed innovation
+<<<<<<< HEAD
 - Actively contributing to open-source, hackathons, and ML research communities
 
 ## Core Competencies
@@ -35,6 +43,12 @@ I'm a Computer Science undergraduate deeply invested in **machine learning**, **
 </div>
 
 ## Academic Excellence
+=======
+- Actively contributing to open-source, hackathons, and ML research communities    
+
+
+## 🎓 Academic Excellence
+>>>>>>> 488e97e198c8d7f0a18de64bc61797cbac0818da
 
 **Emerson University, Multan**  
 _Bachelor of Science in Computer Science (BSCS)_  
@@ -47,11 +61,15 @@ _Bachelor of Science in Computer Science (BSCS)_
 - Awarded **University Merit Scholarship**
 - Relevant Coursework: Data Structures & Algorithms, Artificial Intelligence, OOP, Calculus, Database Systems
 
-## Research Interests
+## 📄 Research Interests
 
 I'm currently focused on applied machine learning with a strong interest in **Explainable AI**, **AI for Social Good** and **Responsible AI** reducing bias and improving fairness in predictive models.
 
+<<<<<<< HEAD
 ## Achievements & Recognition
+=======
+## 🌟 Achievements 
+>>>>>>> 488e97e198c8d7f0a18de64bc61797cbac0818da
 
 - **Harvard CS50x Puzzle Day Champion (2025)** - Solved 9/9 puzzles, secured 1st place globally
 - **Kaggle Expert** - Published datasets, notebooks, and competed in real-world ML challenges
@@ -60,8 +78,19 @@ I'm currently focused on applied machine learning with a strong interest in **Ex
 - **LabLab.ai AI Hackathon Veteran** - Multiple international AI hackathon participations
 - **LeetCode 230+ Problems Champion** - Advanced algorithmic problem-solving skills
 
-## Featured Projects
+## 👩‍💻 Recent Projects
 
+<div>
+
+| **Project**             | **Description**                                                                                     | **Tech Stack**                                                                                                                                                             | **Link** |
+|-------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| **TasteMatch**          | Content-based movie recommender using Sentence Transformers (MiniLM-L6-v2).  Explores semantic matching in real-world recommendation settings. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-336699?style=flat) | [ Try App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) |
+| **OncoPredict AI**      | Early breast cancer detection using ML pipeline and hyperparameter tuning. Designed for healthcare-focused ML applications. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![AUC](https://img.shields.io/badge/AUC-FFB000?style=flat) | [ GitHub](https://github.com/aysh34/OncoPredict-AI) |
+| **SupplyShield 2.0**    | AI-powered risk detection system for logistics using anomaly detection. Built during AI hackathon. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-2C9AB7?style=flat) | [ LabLab.ai](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |
+| **LifeLens**            | Predicting life expectancy using socioeconomic and health indicators                               | ![XGBoost](https://img.shields.io/badge/XGBoost-EC2D2D?style=flat) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Stats](https://img.shields.io/badge/Statistics-5C5CFF?style=flat) | [ GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |
+| **Sales Pattern Explorer** |Deep EDA on business sales data to uncover seasonality and correlation insights.| ![Seaborn](https://img.shields.io/badge/Seaborn-3E65FF?style=flat) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-7F00FF?style=flat) | [ GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
+
+<<<<<<< HEAD
 <table>
 <tr>
 <td width="50%">
@@ -70,10 +99,12 @@ I'm currently focused on applied machine learning with a strong interest in **Ex
 
 <div align="center">
 <img src="TasteMatch.png" alt="TasteMatch Movie Recommender" width="350" style="border-radius: 8px; margin: 10px;"/>
+=======
+>>>>>>> 488e97e198c8d7f0a18de64bc61797cbac0818da
 </div>
 
-Content-based movie recommender using Sentence Transformers (MiniLM-L6-v2). Explores semantic matching in real-world recommendation settings with advanced NLP techniques.
 
+<<<<<<< HEAD
 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-336699?style=flat)
 
@@ -151,6 +182,9 @@ Deep exploratory data analysis on business sales data to uncover seasonality tre
 </table>
 
 ## Technical Skills
+=======
+## 💻 Technical Arsenal
+>>>>>>> 488e97e198c8d7f0a18de64bc61797cbac0818da
 
 <div>
 
@@ -166,7 +200,11 @@ Deep exploratory data analysis on business sales data to uncover seasonality tre
 
 </div>
 
+<<<<<<< HEAD
 ## GitHub Statistics
+=======
+## 📊 GitHub Contributions 
+>>>>>>> 488e97e198c8d7f0a18de64bc61797cbac0818da
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -176,22 +214,51 @@ Deep exploratory data analysis on business sales data to uncover seasonality tre
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=dracula" />
 </p>
 
-## Competitions and Hackathons Gallery
+<details>
+<summary><h2>🏅 Competitions and Hackathons Gallery (click to expand)</h2></summary>
+  
+<br> 
+<p float="left">
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 
-<div align="center">
+  <a href="https://github.com/aysh34/aysh34/blob/main/assets/GEN%20AI_page-0001.jpg" target="_blank">
+    <img src="https://github.com/aysh34/aysh34/blob/main/assets/GEN%20AI_page-0001.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" width="200" height="150" style="object-fit: cover; margin: 8px; border-radius: 6px;" alt="CS50x Puzzle Day 2025"/>
 <img src="https://github.com/aysh34/aysh34/blob/main/assets/GEN%20AI_page-0001.jpg?raw=true" width="200" height="150" style="object-fit: cover; margin: 8px; border-radius: 6px;" alt="Gen AI Competition"/>
 <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" width="200" height="150" style="object-fit: cover; margin: 8px; border-radius: 6px;" alt="PakAngels Gen AI"/>
 <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" width="200" height="150" style="object-fit: cover; margin: 8px; border-radius: 6px;" alt="Dataset Creator"/>
+=======
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CodeAlpha%20C++%20Intern.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 
-<img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta.jpg" width="200" height="150" style="object-fit: cover; margin: 8px; border-radius: 6px;" alt="Meta Hacker Cup"/>
-<img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" width="200" height="150" style="object-fit: cover; margin: 8px; border-radius: 6px;" alt="UC Berkeley CALICO"/>
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/PakAngels%20Gen%20Ai.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
+>>>>>>> 488e97e198c8d7f0a18de64bc61797cbac0818da
 
-</div>
+   <a href="https://github.com/aysh34/aysh34/blob/main/assets/cropped%20execute%20AI%20Genesis.png" target="_blank">
+    <img src="https://github.com/aysh34/aysh34/blob/main/assets/cropped%20execute%20AI%20Genesis.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/Dataset%20Creator.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
+
+<<<<<<< HEAD
 ## Professional Contact
 
+=======
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/meta.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
+
+  <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
+</p>
+
+</details>
+
+## 🤝 Let's Connect & Collaborate!
+>>>>>>> 488e97e198c8d7f0a18de64bc61797cbac0818da
 <div>
    <p>
     <a href="https://www.linkedin.com/in/ayesha-saleem6/">

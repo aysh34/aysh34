@@ -6,7 +6,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/-Computer%20Scientist-FF6B6B?style=flat" />
-<img src="https://img.shields.io/badge/-Undergraduate%20Researcher-FFD21F?style=flat" />
 <img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-22A699?style=flat" />
 <img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science%20Enthusiast-4B8BBE?style=flat" />
 </p>
@@ -14,11 +13,9 @@
 
 ## 💫 About Me 
 
-I'm a Computer Science undergraduate deeply invested in **machine learning**, **explainability**, and **AI for social impact**. I specialize in transforming raw data into real-world, transparent solutions using classification models, interpretable ML tools, and complete AI pipelines.
+I’m a computer science student with a strong academic foundation and a growing interest in AI, data science, and interpretable machine learning. I’ve studied at COMSATS University, where I’ve consistently ranked among the top of my class, and I actively contribute to open-source and data science platforms like Kaggle. Outside of tech, I’m drawn to thoughtful design, research writing, and exploring how technology intersects with society and ethics.
 
-- Hands-on experience with SHAP, LIME, Scikit-learn, XGBoost, and Python-based tools
-- Interested in **responsible AI**, **human-centered AI**, and research-backed innovation
-- Actively contributing to open-source, hackathons, and ML research communities    
+Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently exploring how technology, especially AI, can be used to create fair, transparent systems that make a real difference. I've taken part in global hackathons and coding challenges, and I’m always open to meaningful collaborations.
 
 
 ## 🎓 Academic Excellence
@@ -32,10 +29,6 @@ I'm a Computer Science undergraduate deeply invested in **machine learning**, **
 - Ranked **1st** in class
 - Awarded **University Merit Scholarship**
 - Relevant Coursework: Data Structures & Algorithms, Artificial Intelligence, OOP, Calculus, Database Systems 
-
-## 📄 Research Interests
-
-I'm currently focused on applied machine learning with a strong interest in **Explainable AI**, **AI for Social Good** and **Responsible AI** reducing bias and improving fairness in predictive models.
 
 ## 🌟 Achievements 
 

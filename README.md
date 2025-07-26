@@ -13,7 +13,7 @@
 
 ## 💫 About Me 
 
-I’m a computer science student with a strong academic foundation and a growing interest in AI, data science, and interpretable machine learning. I’ve studied at COMSATS University, where I’ve consistently ranked among the top of my class, and I actively contribute to open-source and data science platforms like Kaggle. Outside of tech, I’m drawn to thoughtful design, research writing, and exploring how technology intersects with society and ethics.
+I’m a computer science student with a strong academic foundation and a growing interest in AI, data science, and interpretable machine learning. I’ve studied at EMERSON University, where I’ve consistently ranked among the top of my class, and I actively contribute to open-source and data science platforms like Kaggle. Outside of tech, I’m drawn to thoughtful design, research writing, and exploring how technology intersects with society and ethics.
 
 Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently exploring how technology, especially AI, can be used to create fair, transparent systems that make a real difference. I've taken part in global hackathons and coding challenges, and I’m always open to meaningful collaborations.
 

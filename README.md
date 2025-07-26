@@ -11,14 +11,14 @@
 </p>
 </div>
 
-## 💫 About Me 
+## About Me 
 
 I’m a computer science student with a strong academic foundation and a growing interest in AI, data science, and interpretable machine learning. I’ve studied at EMERSON University, where I’ve consistently ranked among the top of my class, and I actively contribute to open-source and data science platforms like Kaggle. Outside of tech, I’m drawn to thoughtful design, research writing, and exploring how technology intersects with society and ethics.
 
 Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently exploring how technology, especially AI, can be used to create fair, transparent systems that make a real difference. I've taken part in global hackathons and coding challenges, and I’m always open to meaningful collaborations.
 
 
-## 🎓 Academic Excellence
+## Academic Excellence
 
 **Emerson University, Multan**  
 *Bachelor of Science in Computer Science (BSCS)*  
@@ -30,7 +30,7 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
 - Awarded **University Merit Scholarship**
 - Relevant Coursework: Data Structures & Algorithms, Artificial Intelligence, OOP, Calculus, Database Systems 
 
-## 🌟 Achievements 
+## Achievements 
 
 - **Harvard CS50x Puzzle Day Champion (2025)** - Solved 9/9 puzzles, secured 1st place globally  
 - **Kaggle Expert** - Published datasets, notebooks, and competed in real-world ML challenges  
@@ -39,13 +39,16 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
 - **LabLab.ai AI Hackathon Veteran** - Multiple international AI hackathon participations  
 - **LeetCode 230+ Problems Champion** - Advanced algorithmic problem-solving skills  
 
-## 👩‍💻 Recent Projects
+## Recent Projects
+> This is a collection of my personal projects made during free time. Click to explore live demos, notebooks, or repositories.
 
 <div>
-
-| **Project**             | **Description**                                                                                     | **Tech Stack**                                                                                                                                                             | **Link** |
+ 
+| **Project**             | **Description**                                                                                     | **Tech Stack**                                                                                                                                                             | **Deployment** |
 |-------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| **TasteMatch**          | Content-based movie recommender using Sentence Transformers (MiniLM-L6-v2).  Explores semantic matching in real-world recommendation settings. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-336699?style=flat) | [ Try App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) |
+| **BookGenie: AI-Powered Book Recommendations** | A Personalized Book Recommendation System using Collaborative Filtering and User Preference Modeling. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%2FML-2C9AB7?style=flat) ![Web Development](https://img.shields.io/badge/Web%20Development-FF9800?style=flat) ![Recommendation System](https://img.shields.io/badge/Recommendation%20System-7F00FF?style=flat) ![Railway](https://img.shields.io/badge/Railway-2B2D42?style=flat) | [ Try App](https://bookgenie.up.railway.app/) |
+| **Coffee Store Sales Analysis** | End-to-end EDA, visualization, and ML forecasting on coffee store sales data. | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3E65FF?style=flat) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | [Kaggle](https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis)
+| **TasteMatch**          | Content-based movie recommender using Sentence Transformers (MiniLM-L6-v2).  Explores semantic matching in real-world recommendation settings. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-336699?style=flat) | [ Try App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) [Kaggle](https://www.kaggle.com/code/ayeshasal89/tastematch-movie-recommendation-system) |
 | **OncoPredict AI**      | Early breast cancer detection using ML pipeline and hyperparameter tuning. Designed for healthcare-focused ML applications. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![AUC](https://img.shields.io/badge/AUC-FFB000?style=flat) | [ GitHub](https://github.com/aysh34/OncoPredict-AI) |
 | **SupplyShield 2.0**    | AI-powered risk detection system for logistics using anomaly detection. Built during AI hackathon. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-2C9AB7?style=flat) | [ LabLab.ai](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |
 | **LifeLens**            | Predicting life expectancy using socioeconomic and health indicators                               | ![XGBoost](https://img.shields.io/badge/XGBoost-EC2D2D?style=flat) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Stats](https://img.shields.io/badge/Statistics-5C5CFF?style=flat) | [ GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |
@@ -53,8 +56,70 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
 
 </div>
 
+<!--
 
-## 💻 Technical Arsenal
+## 👩‍💻 Recent Projects
+
+> This is a collection of my personal projects made during free time. Click on the screenshots to explore live demos, notebooks, or repositories.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://bookgenie.up.railway.app/" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/BookGenie.png" width="300" alt="BookGenie"><br>
+        <strong>BookGenie</strong><br> </a>
+        A personalized book recommendation app using NLP-based genre similarity and semantic embeddings.
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/coffee.png" width="300" alt="Coffee Store Sales Analysis"><br>
+        <strong>Coffee Store Sales Analysis</strong><br> </a>
+        Exploratory Data Analysis of sales and customer behavior for a retail coffee store chain.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/TasteMatch.png" width="300" alt="TasteMatch"><br>
+        <strong>TasteMatch</strong><br> </a>
+        Advanced movie recommender system leveraging semantic embeddings and user preference profiling.
+    </td>
+    <td align="center">
+      <a href="https://github.com/aysh34/OncoPredict-AI" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/breast.jpg" width="300" alt="OncoPredict AI"><br>
+        <strong>OncoPredict AI</strong><br> </a>
+        ML-powered breast cancer prediction and prognosis analysis using XGBoost and LIME explainability.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/SupplyShieldSmart%20Risk%20Detection.png" width="300" alt="SupplyShield 2.0"><br>
+        <strong>SupplyShield 2.0</strong><br></a>
+        AI solution for proactive supply chain risk detection developed in Lablab AI’s Genesis Hackathon.
+    </td>
+    <td align="center">
+      <a href="https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/LifeLens%20Life%20Expectancy%20Prediction.jpg" width="300" alt="LifeLens"><br>
+        <strong>LifeLens</strong><br> </a>
+        Predicts life expectancy using health and socio-economic indicators via regression-based ML models.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/EDA%20Unveiling%20Sales%20Patterns.jpg" width="300" alt="Sales Pattern Explorer"><br>
+        <strong>Sales Pattern Explorer</strong><br> </a>
+        In-depth EDA of sales datasets to uncover seasonal trends, outliers, and buying patterns.
+    </td>
+  </tr>
+</table>
+-->
+
+## Technical Arsenal
 
 
 <div>
@@ -71,7 +136,7 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
 
 </div>
 
-## 📊 GitHub Contributions 
+## GitHub Contributions 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -81,7 +146,7 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=dracula" />
 </p>
 
-## 🏅 Competitions and Hackathons Gallery 
+## Competitions and Hackathons Gallery 
 <p float="left">
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
@@ -102,7 +167,7 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 </p>
 
-## 🤝 Let's Connect & Collaborate!
+## Work With Me
 <div>
    <p>
     <a href="https://www.linkedin.com/in/ayesha-saleem6/">

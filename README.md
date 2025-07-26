@@ -180,3 +180,5 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" /></a>
   </p>
 </div>
+
+© 2025 Ayesha Saleem. All rights reserved. This portfolio is for personal and professional presentation only.

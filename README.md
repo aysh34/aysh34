@@ -24,7 +24,11 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
 *Bachelor of Science in Computer Science (BSCS)*  
 **CGPA:** 3.86 / 4.00 (96.5%)  
 **Duration:** September 2023 – Present
-
+<!--
+**BSCS**, Emerson University, Multan - *CGPA: 3.86/4.00 (96.5%)*  *Sep 2023 – Present*  
+**F.Sc**, Women College, Muzaffargarh - *Marks: 1009/1100 (91.7%)*  *2021 – 2023*  
+**Matric (Science)**, GOVT High School, Muzaffargarh - *Marks: 1055/1100 (95.9%)*  *2019 – 2021* 
+-->
 **Highlights:**
 - Ranked **1st** in class
 - Awarded **University Merit Scholarship**

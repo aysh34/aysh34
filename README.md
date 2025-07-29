@@ -1,21 +1,20 @@
 <div align="center">
- <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFD300&center=true&vCenter=true&width=1000&lines=Welcome+to+my+portfolio;Exploring+Explainable+AI+and+Social+Impact;Advancing+intelligent+systems+together" alt="Dynamic Welcome" />
-![Typewriter](https://svg-banners.vercel.app/api?type=typeWriter&text1=👋Hi%20there,%20I'm%20Ayesha%20Saleem&height=70&width=600) -->
 
-# 👋 Hi there, I'm **Ayesha Saleem**
+  # 👋 Hi, I'm <b>Ayesha Saleem</b>
 
-<p>
-<img src="https://img.shields.io/badge/-Computer%20Scientist-FF6B6B?style=flat" />
-<img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-22A699?style=flat" />
-<img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science%20Enthusiast-4B8BBE?style=flat" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-22A699?style=flat" style="margin:4px;" />
+    <img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science-4B8BBE?style=flat" style="margin:4px;" />
+    <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat" style="margin:4px;" />
+    <img src="https://img.shields.io/badge/GEN%20AI-A878BD?style=flat" style="margin:4px;" />
+  </p>
 </div>
 
 ## About Me 
 
-I’m a computer science student with a strong academic foundation and a growing interest in AI, data science, and interpretable machine learning. I’ve studied at EMERSON University, where I’ve consistently ranked among the top of my class, and I actively contribute to open-source and data science platforms like Kaggle. Outside of tech, I’m drawn to thoughtful design, research writing, and exploring how technology intersects with society and ethics.
+I’m a computer science student passionate about AI, data science, and interpretable machine learning. At EMERSON University, I’ve consistently ranked among the top of my class and actively contribute to open-source and data science communities like Kaggle. Beyond tech, I enjoy thoughtful design, research writing, and exploring the intersection of technology, society, and ethics.
 
-Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently exploring how technology, especially AI, can be used to create fair, transparent systems that make a real difference. I've taken part in global hackathons and coding challenges, and I’m always open to meaningful collaborations.
+Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently exploring how AI can help build fair, transparent systems that make a real difference. I’ve participated in global hackathons and coding challenges, and I’m always open to meaningful collaborations.
 
 
 ## Academic Excellence
@@ -43,6 +42,85 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
 - **LabLab.ai AI Hackathon Veteran** - Multiple international AI hackathon participations  
 - **LeetCode 230+ Problems Champion** - Advanced algorithmic problem-solving skills  
 
+<!-- ## Recent Projects
+
+> This is a collection of my personal projects made during free time. Click to explore live demos, notebooks, or repositories.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://ayesha-dev.netlify.app/" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/assets/portfolio.png?raw=true" alt="Ayesha Portfolio" width="220" style="border-radius:10px;"><br>
+        <b>Personal Portfolio</b>
+      </a>
+      <br>
+      <sub>Modern, responsive developer portfolio showcasing my projects and work.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://bookgenie.up.railway.app/" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/assets/BookGenie.png?raw=true" alt="BookGenie" width="220" style="border-radius:10px;"><br>
+        <b>BookGenie</b>
+      </a>
+      <br>
+      <sub>Personalized book recommendations using NLP and semantic embeddings.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/assets/coffee.png?raw=true" alt="Coffee Store Sales" width="220" style="border-radius:10px;"><br>
+        <b>Coffee Store Sales Analysis</b>
+      </a>
+      <br>
+      <sub>EDA of sales and customer behavior for a retail coffee chain.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/assets/TasteMatch.png?raw=true" alt="TasteMatch" width="220" style="border-radius:10px;"><br>
+        <b>TasteMatch</b>
+      </a>
+      <br>
+      <sub>Smart movie recommender using semantic embeddings and preferences.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/aysh34/OncoPredict-AI" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/assets/breast.jpg?raw=true" alt="OncoPredict AI" width="220" style="border-radius:10px;"><br>
+        <b>OncoPredict AI</b>
+      </a>
+      <br>
+      <sub>ML-based breast cancer prediction with XGBoost and LIME explainability.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/assets/SupplyShieldSmart%20Risk%20Detection.png?raw=true" alt="SupplyShield 2.0" width="220" style="border-radius:10px;"><br>
+        <b>SupplyShield 2.0</b>
+      </a>
+      <br>
+      <sub>Proactive AI for supply chain risk detection (Lablab Genesis Hackathon).</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/assets/LifeLens%20Life%20Expectancy%20Prediction.jpg?raw=true" alt="LifeLens" width="220" style="border-radius:10px;"><br>
+        <b>LifeLens</b>
+      </a>
+      <br>
+      <sub>Predicts life expectancy using ML on health and socio-economic indicators.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA" target="_blank">
+        <img src="https://github.com/aysh34/aysh34/blob/main/assets/EDA%20Unveiling%20Sales%20Patterns.jpg?raw=true" alt="Sales Pattern Explorer" width="220" style="border-radius:10px;"><br>
+        <b>Sales Pattern Explorer</b>
+      </a>
+      <br>
+      <sub>EDA to uncover seasonal sales trends, outliers, and customer buying patterns.</sub>
+    </td>
+  </tr>
+</table>-->
+
 ## Recent Projects
 > This is a collection of my personal projects made during free time. Click to explore live demos, notebooks, or repositories.
 
@@ -60,85 +138,19 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
 
 </div>
 
-<!--
+## Tech Stack & Tools
+> A curated overview of the technologies I use in building data-driven, intelligent solutions across AI, full-stack development, and deployment.
 
-## 👩‍💻 Recent Projects
+| **Category**              | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**             | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Web & Frameworks**      | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Machine Learning / AI** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black) |
+| **Data & Visualization**  | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3E65FF?style=flat) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
+| **Databases**             | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| **Dev Tools**             | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) |
+| **Deployment & DevOps**   | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-5D3FD3?style=flat&logo=railway&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
-> This is a collection of my personal projects made during free time. Click on the screenshots to explore live demos, notebooks, or repositories.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://bookgenie.up.railway.app/" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/BookGenie.png" width="300" alt="BookGenie"><br>
-        <strong>BookGenie</strong><br> </a>
-        A personalized book recommendation app using NLP-based genre similarity and semantic embeddings.
-    </td>
-    <td align="center">
-      <a href="https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/coffee.png" width="300" alt="Coffee Store Sales Analysis"><br>
-        <strong>Coffee Store Sales Analysis</strong><br> </a>
-        Exploratory Data Analysis of sales and customer behavior for a retail coffee store chain.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/TasteMatch.png" width="300" alt="TasteMatch"><br>
-        <strong>TasteMatch</strong><br> </a>
-        Advanced movie recommender system leveraging semantic embeddings and user preference profiling.
-    </td>
-    <td align="center">
-      <a href="https://github.com/aysh34/OncoPredict-AI" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/breast.jpg" width="300" alt="OncoPredict AI"><br>
-        <strong>OncoPredict AI</strong><br> </a>
-        ML-powered breast cancer prediction and prognosis analysis using XGBoost and LIME explainability.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/SupplyShieldSmart%20Risk%20Detection.png" width="300" alt="SupplyShield 2.0"><br>
-        <strong>SupplyShield 2.0</strong><br></a>
-        AI solution for proactive supply chain risk detection developed in Lablab AI’s Genesis Hackathon.
-    </td>
-    <td align="center">
-      <a href="https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/LifeLens%20Life%20Expectancy%20Prediction.jpg" width="300" alt="LifeLens"><br>
-        <strong>LifeLens</strong><br> </a>
-        Predicts life expectancy using health and socio-economic indicators via regression-based ML models.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/EDA%20Unveiling%20Sales%20Patterns.jpg" width="300" alt="Sales Pattern Explorer"><br>
-        <strong>Sales Pattern Explorer</strong><br> </a>
-        In-depth EDA of sales datasets to uncover seasonal trends, outliers, and buying patterns.
-    </td>
-  </tr>
-</table>
--->
-
-## Technical Arsenal
-
-
-<div>
-
-| **Category**              | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Frameworks / Web**      | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)                                                                                                                |
-| **Machine Learning / AI** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC2D2D?style=flat&logo=python&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black) |
-| **Data Science / Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3E65FF?style=flat) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
-| **Databases**             | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)                                                                                                                                                                                                                                                                                                                                              |
-| **Tools & Platforms**     | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=google-colab&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) |
-| **Deployment & DevOps**   | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)                                                                                                                                                                                                                                        |
-
-</div>
 
 ## GitHub Contributions 
 
@@ -150,7 +162,7 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=dracula" />
 </p>
 
-## Competitions and Hackathons Gallery 
+## Competitions 
 <p float="left">
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" target="_blank">
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/CS50x%20Puzzle%20Day%202025.png" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
@@ -185,4 +197,7 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
   </p>
 </div>
 
-© 2025 Ayesha Saleem. All rights reserved. This portfolio is for personal and professional presentation only.
+<p align="center">
+  <em>© 2025 Ayesha Saleem. All rights reserved.<br>
+  This portfolio is for personal and professional presentation only.</em>
+</p>

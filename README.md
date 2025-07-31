@@ -126,15 +126,16 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
 
 <div>
  
-| **Project**             | **Description**                                                                                     | **Tech Stack/Skills**                                                                                                                                                             | **Deployment** |
-|-------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| **BookGenie: AI-Powered Book Recommendations** | A Personalized Book Recommendation System using **Collaborative** and **Popularity** based Filtering. |Collaborative Filtering, Popularity-based Filtering, Flask, Railway (Deployment) | [ Try App](https://bookgenie.up.railway.app/) |
-| **Coffee Store Sales Analysis** | End-to-end EDA, visualization, and ML forecasting on coffee store sales data. | ML Forecasting, EDA, Data Visualization, Pandas, Seaborn, Scikit-learn, Time Series Analysis| [Kaggle](https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis)
-| **TasteMatch**          | **Content-based** movie recommender using Sentence Transformers (MiniLM-L6-v2).  Explores semantic matching in real-world recommendation settings. | Content-based Recommendation, Natural Language Processing (NLP), Semantic Matching, Python, Streamlit, Machine Learning | [ Try App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) [Kaggle](https://www.kaggle.com/code/ayeshasal89/tastematch-movie-recommendation-system) |
-| **OncoPredict AI**      | Early breast cancer detection using ML pipeline and hyperparameter tuning. Designed for healthcare-focused ML applications. |ML Pipeline Development, Model Optimization (Hyperparameter Tuning), AUC, Data Preprocessing, Feature Engineering | [ GitHub](https://github.com/aysh34/OncoPredict-AI) |
-| **SupplyShield 2.0**    | AI-powered risk detection system for logistics using anomaly detection. Built during AI hackathon. | AI, Anomaly Detection, Python, Streamlit, Data Analysis, Rapid Prototyping | [ LabLab.ai](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |
-| **LifeLens**            | Predicting life expectancy using socioeconomic and health indicators                               | Predictive Modeling, Pandas, Statistics, Machine Learning, Data Preprocessing, Feature Selection, Model Building | [ GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |
-| **Sales Pattern Explorer** |Deep EDA on business sales data to uncover seasonality and correlation insights.| Deep Exploratory Data Analysis, Data Visualization, Seaborn, Matplotlib, Seasonality Analysis, Correlation Analysis, Statistical Analysis, Business Intelligence, Pattern Recognition, Data Storytelling | [ GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
+| **Project**             | **Description**                                                                                     | **Deployment** |
+|-------------------------|-----------------------------------------------------------------------------------------------------|----------------|
+| **Personal Portfolio** | Modern, responsive portfolio showcasing my projects and work. | [Visit Site](https://ayesha-dev.netlify.app/) |
+| **BookGenie** | Personalized book recommender using collaborative and popularity filtering. | [Try App](https://bookgenie.up.railway.app/) |
+| **Coffee Store Sales Analysis** | EDA, visualization, and ML forecasting on coffee store sales data. | [Kaggle](https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis) |
+| **TasteMatch**          | Movie recommender using Sentence Transformers (MiniLM-L6-v2). | [Try App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) [Kaggle](https://www.kaggle.com/code/ayeshasal89/tastematch-movie-recommendation-system) |
+| **OncoPredict AI**      | Early breast cancer detection using a complete ML pipeline. | [GitHub](https://github.com/aysh34/OncoPredict-AI) |
+| **LifeLens**            | Life expectancy prediction using health and socio-economic data. | [GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |
+| **Sales Pattern Explorer** | Deep EDA on sales data to find seasonal and correlation trends. | [GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |
+| **SupplyShield 2.0**    | AI-based risk detection for logistics. | [LabLab.ai](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) |
 
 </div>
 

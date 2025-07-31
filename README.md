@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 👋 Hi, I'm <b>Ayesha Saleem</b>
+  # Hi, I'm <b>Ayesha Saleem</b>
 
  <p align="center">
   <a href="https://ayesha-dev.netlify.app/">
@@ -14,11 +14,17 @@
   <a href="mailto:ayeshasaleem853@gmail.com">
     <img src="https://img.shields.io/badge/Email-E94134?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+<p>
+    <img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-22A699?style=flat" style="margin:4px;" />
+    <img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science-4B8BBE?style=flat" style="margin:4px;" />
+    <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat" style="margin:4px;" />
+    <img src="https://img.shields.io/badge/GEN%20AI-A878BD?style=flat" style="margin:4px;" />
+  </p>
 </div>
 
-I'm a Computer Science student at EMERSON University, consistently ranked among the top of my class. My academic focus centers on AI, Data Science, and interpretable machine learning. I actively participate in research writing, open-source contributions, and competitions on platforms like Kaggle and LeetCode. I'm fluent in English and Urdu, and I bring a globally aware perspective to problem-solving in tech.
+I'm a Computer Science student at EMERSON University, consistently ranked among the top of my class. My academic focus centers on AI, Data Science, and interpretable machine learning. I am actively involved in open-source contributions and competitions on platforms like Kaggle and [LeetCode](https://leetcode.com/ayesha_saleem9). I'm fluent in English and Urdu, and I bring a globally aware perspective to problem-solving in tech.
 
-On the technical side, I build and deploy end-to-end machine learning solutions. My current focus is on Large Language Models (LLMs). I’ve also participated in global hackathons and built tools. I’m always open to collaborating on impactful projects that bridge academic research with practical, real-world applications.
+On the technical side, I build and deploy end-to-end machine learning solutions. My current focus is on [Large Language Models](https://github.com/aysh34/LLM-Agent). I’ve also participated in global hackathons and built tools. I’m always open to collaborating on impactful projects that bridge academic research with practical, real-world applications.
 
 <details>
   <summary>More About Me...</summary>
@@ -47,85 +53,6 @@ On the technical side, I build and deploy end-to-end machine learning solutions.
 - **UC Berkeley CALICO Competition (2024)** - Enhanced computational thinking skills  
 - **LabLab.ai AI Hackathon Veteran** - Multiple international AI hackathon participations  
 - **LeetCode 230+ Problems Champion** - Advanced algorithmic problem-solving skills  
-
-<!-- ## Recent Projects
-
-> This is a collection of my personal projects made during free time. Click to explore live demos, notebooks, or repositories.
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://ayesha-dev.netlify.app/" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/assets/portfolio.png?raw=true" alt="Ayesha Portfolio" width="220" style="border-radius:10px;"><br>
-        <b>Personal Portfolio</b>
-      </a>
-      <br>
-      <sub>Modern, responsive developer portfolio showcasing my projects and work.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://bookgenie.up.railway.app/" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/assets/BookGenie.png?raw=true" alt="BookGenie" width="220" style="border-radius:10px;"><br>
-        <b>BookGenie</b>
-      </a>
-      <br>
-      <sub>Personalized book recommendations using NLP and semantic embeddings.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/assets/coffee.png?raw=true" alt="Coffee Store Sales" width="220" style="border-radius:10px;"><br>
-        <b>Coffee Store Sales Analysis</b>
-      </a>
-      <br>
-      <sub>EDA of sales and customer behavior for a retail coffee chain.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/assets/TasteMatch.png?raw=true" alt="TasteMatch" width="220" style="border-radius:10px;"><br>
-        <b>TasteMatch</b>
-      </a>
-      <br>
-      <sub>Smart movie recommender using semantic embeddings and preferences.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/aysh34/OncoPredict-AI" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/assets/breast.jpg?raw=true" alt="OncoPredict AI" width="220" style="border-radius:10px;"><br>
-        <b>OncoPredict AI</b>
-      </a>
-      <br>
-      <sub>ML-based breast cancer prediction with XGBoost and LIME explainability.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/assets/SupplyShieldSmart%20Risk%20Detection.png?raw=true" alt="SupplyShield 2.0" width="220" style="border-radius:10px;"><br>
-        <b>SupplyShield 2.0</b>
-      </a>
-      <br>
-      <sub>Proactive AI for supply chain risk detection (Lablab Genesis Hackathon).</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/assets/LifeLens%20Life%20Expectancy%20Prediction.jpg?raw=true" alt="LifeLens" width="220" style="border-radius:10px;"><br>
-        <b>LifeLens</b>
-      </a>
-      <br>
-      <sub>Predicts life expectancy using ML on health and socio-economic indicators.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA" target="_blank">
-        <img src="https://github.com/aysh34/aysh34/blob/main/assets/EDA%20Unveiling%20Sales%20Patterns.jpg?raw=true" alt="Sales Pattern Explorer" width="220" style="border-radius:10px;"><br>
-        <b>Sales Pattern Explorer</b>
-      </a>
-      <br>
-      <sub>EDA to uncover seasonal sales trends, outliers, and customer buying patterns.</sub>
-    </td>
-  </tr>
-</table>-->
 
 ## Recent Projects
 > This is a collection of my projects made during free time. Click to explore live demos, notebooks, or repositories.

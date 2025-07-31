@@ -2,17 +2,23 @@
 
   # 👋 Hi, I'm <b>Ayesha Saleem</b>
 
-  <p>
-    <img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-22A699?style=flat" style="margin:4px;" />
-    <img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science-4B8BBE?style=flat" style="margin:4px;" />
-    <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat" style="margin:4px;" />
-    <img src="https://img.shields.io/badge/GEN%20AI-A878BD?style=flat" style="margin:4px;" />
-  </p>
+ <p align="center">
+  <a href="https://ayesha-dev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ayesha-saleem6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/aysh34">
+    <img src="https://img.shields.io/badge/GitHub-6e5494?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/ayesha_saleem9">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:ayeshasaleem853@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E94134?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 </div>
 
-I’m a computer science student passionate about AI, data science, and interpretable machine learning. At EMERSON University, I’ve consistently ranked among the top of my class and actively contribute to open-source and data science communities like Kaggle. Beyond tech, I enjoy solving DSA questions on Leetcode, research writing, and exploring the intersection of technology and society.
+I'm a Computer Science student at EMERSON University, consistently ranked among the top of my class. My academic focus centers on AI, Data Science, and interpretable machine learning. I actively participate in research writing, open-source contributions, and competitions on platforms like Kaggle and LeetCode. I'm fluent in English and Urdu, and I bring a globally aware perspective to problem-solving in tech.
 
-Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently exploring how AI can help build fair, transparent systems that make a real difference. I’ve participated in global hackathons and coding challenges, and I’m always open to meaningful collaborations.
+On the technical side, I build and deploy end-to-end machine learning solutions. My current focus is on Large Language Models (LLMs). I’ve also participated in global hackathons and built tools. I’m always open to collaborating on impactful projects that bridge academic research with practical, real-world applications.
 
 <details>
   <summary>More About Me...</summary>
@@ -122,7 +128,7 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
 </table>-->
 
 ## Recent Projects
-> This is a collection of my personal projects made during free time. Click to explore live demos, notebooks, or repositories.
+> This is a collection of my projects made during free time. Click to explore live demos, notebooks, or repositories.
 
 <div>
  
@@ -183,20 +189,6 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
   <a href="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" target="_blank">
     <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/cal.jpg" style="width: 350px; height: 250px; object-fit: cover; margin: 15px;" /></a>
 </p>
-
-## Work With Me
-<div>
-   <p>
-    <a href="https://www.linkedin.com/in/ayesha-saleem6/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" /></a>
-    <a href="https://github.com/aysh34">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a>
-    <a href="https://leetcode.com/ayesha_saleem9">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" /></a>
-    <a href="mailto:ayeshasaleem853@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" /></a>
-  </p>
-</div>
 
 <p align="center">
   <em>© 2025 Ayesha Saleem. All rights reserved.<br>

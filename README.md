@@ -10,13 +10,13 @@
   </p>
 </div>
 
-## About Me 
-
-I’m a computer science student passionate about AI, data science, and interpretable machine learning. At EMERSON University, I’ve consistently ranked among the top of my class and actively contribute to open-source and data science communities like Kaggle. Beyond tech, I enjoy thoughtful design, research writing, and exploring the intersection of technology, society, and ethics.
+I’m a computer science student passionate about AI, data science, and interpretable machine learning. At EMERSON University, I’ve consistently ranked among the top of my class and actively contribute to open-source and data science communities like Kaggle. Beyond tech, I enjoy solving DSA questions on Leetcode, research writing, and exploring the intersection of technology and society.
 
 Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently exploring how AI can help build fair, transparent systems that make a real difference. I’ve participated in global hackathons and coding challenges, and I’m always open to meaningful collaborations.
 
-
+<details>
+  <summary>More About Me...</summary>
+  
 ## Academic Excellence
 
 **Emerson University, Multan**  
@@ -201,3 +201,4 @@ Born and raised in Pakistan, I’m fluent in English and Urdu. I’m currently e
   <em>© 2025 Ayesha Saleem. All rights reserved.<br>
   This portfolio is for personal and professional presentation only.</em>
 </p>
+</details>

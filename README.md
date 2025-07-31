@@ -64,7 +64,7 @@ On the technical side, I build and deploy end-to-end machine learning solutions.
 | **Personal Portfolio** | Modern, responsive portfolio showcasing my projects and work. | [Visit Site](https://ayesha-dev.netlify.app/) |
 | **BookGenie** | Personalized book recommender using collaborative and popularity filtering. | [Try App](https://bookgenie.up.railway.app/) |
 | **Coffee Store Sales Analysis** | EDA, visualization, and ML forecasting on coffee store sales data. | [Kaggle](https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis) |
-| **TasteMatch**          | Movie recommender using Sentence Transformers (MiniLM-L6-v2). | [Try App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) [Kaggle](https://www.kaggle.com/code/ayeshasal89/tastematch-movie-recommendation-system) |
+| **TasteMatch**          | Movie recommender using Sentence Transformers (MiniLM-L6-v2). | [Try App](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/)  .  [Kaggle](https://www.kaggle.com/code/ayeshasal89/tastematch-movie-recommendation-system) |
 | **OncoPredict AI**      | Early breast cancer detection using a complete ML pipeline. | [GitHub](https://github.com/aysh34/OncoPredict-AI) |
 | **LifeLens**            | Life expectancy prediction using health and socio-economic data. | [GitHub](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) |
 | **Sales Pattern Explorer** | Deep EDA on sales data to find seasonal and correlation trends. | [GitHub](https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA) |

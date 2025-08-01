@@ -5,8 +5,6 @@
  <p align="center">
   <a href="https://ayesha-dev.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ayesha-saleem6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/aysh34">
     <img src="https://img.shields.io/badge/GitHub-6e5494?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/ayesha_saleem9">

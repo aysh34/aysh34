@@ -1,11 +1,18 @@
-# Ayesha Saleem
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayesha-dev.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aysh34)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ayesha_saleem9)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshasaleem853@gmail.com)
+# **Ayesha Saleem**
+ <p align="center">
+  <a href="https://ayesha-dev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/aysh34">
+    <img src="https://img.shields.io/badge/GitHub-6e5494?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/ayesha_saleem9">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:ayeshasaleem853@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E94134?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-
+</div>
 
 ## About Me
 

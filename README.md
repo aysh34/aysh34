@@ -79,7 +79,7 @@ Predictive analytics for life expectancy estimation using health and socio-econo
 
 ### **SupplyShield 2.0**
 <a href="https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LabLab.ai-Winner-gold?style=flat-square" alt="LabLab.ai Winner" /></a>
+  <img src="https://img.shields.io/badge/Demo-LabLab.ai-gold?style=flat-square" alt="LabLab.ai Hackathon" /></a>
 
 AI-powered risk detection platform for logistics and supply chain management.
 

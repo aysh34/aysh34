@@ -26,15 +26,6 @@ I work on everything from <a href="https://www.kaggle.com/code/ayeshasal89/coffe
 <tr>
 <td width="50%">
 
-### **Personal Portfolio**
-<a href="https://ayesha-dev.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square" alt="Live Demo" /></a>
-  
-Modern, responsive portfolio showcasing professional work with clean design and optimal performance.
-
-</td>
-<td width="50%">
-
 ### **BookGenie**
 <a href="https://bookgenie.up.railway.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Live-App-blue?style=flat-square" alt="Live App" /></a>
@@ -42,8 +33,6 @@ Modern, responsive portfolio showcasing professional work with clean design and 
 Intelligent book recommendation system using collaborative filtering and popularity-based algorithms.
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### **TasteMatch**
@@ -55,6 +44,10 @@ Intelligent book recommendation system using collaborative filtering and popular
 Movie recommendation engine powered by Sentence Transformers for semantic similarity matching.
 
 </td>
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ### **OncoPredict AI**
@@ -64,8 +57,6 @@ Movie recommendation engine powered by Sentence Transformers for semantic simila
 Complete ML pipeline for early breast cancer detection with comprehensive preprocessing and optimization.
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### **LifeLens**
@@ -75,6 +66,10 @@ Complete ML pipeline for early breast cancer detection with comprehensive prepro
 Predictive analytics for life expectancy estimation using health and socio-economic indicators.
 
 </td>
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ### **SupplyShield 2.0**
@@ -84,8 +79,6 @@ Predictive analytics for life expectancy estimation using health and socio-econo
 AI-powered risk detection platform for logistics and supply chain management.
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### **Coffee Store Sales Analysis**
@@ -95,6 +88,10 @@ AI-powered risk detection platform for logistics and supply chain management.
 Comprehensive EDA, visualization, and ML forecasting on retail sales data with seasonal trend analysis.
 
 </td>
+</tr>
+
+<!-- <tr>
+
 <td width="50%">
 
 ### **Sales Pattern Explorer**
@@ -104,7 +101,7 @@ Comprehensive EDA, visualization, and ML forecasting on retail sales data with s
 Deep exploratory analysis revealing seasonal trends and correlation patterns in sales data.
 
 </td>
-</tr>
+</tr> -->
 </table>
 
 ## Let's Connect

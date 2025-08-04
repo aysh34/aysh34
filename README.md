@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Computer Science student at EMERSON University, consistently maintaining top rank in my class. I'm passionate about data science and AI, focusing on building practical solutions that solve real problems.
+I'm a <a href="https://aysh34.github.io/" target="_blank" rel="noopener noreferrer">Computer Science student</a> at <a href="https://eum.edu.pk/" target="_blank" rel="noopener noreferrer">EMERSON University</a>, consistently maintaining top rank in my class. I'm passionate about data science and AI, focusing on building practical solutions that solve real problems.
 
 I work on everything from <a href="https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis" target="_blank" rel="noopener noreferrer">data analysis projects</a> to <a href="https://github.com/aysh34/OncoPredict-AI" target="_blank" rel="noopener noreferrer">machine learning systems</a>, and I'm currently exploring <a href="https://github.com/aysh34/LLM-Agent" target="_blank" rel="noopener noreferrer">Large Language Models</a>. I enjoy participating in programming competitions and sharing my work on <a href="https://www.kaggle.com/ayeshasal89" target="_blank" rel="noopener noreferrer">Kaggle</a>, where I've earned Expert status. I bring both algorithmic excellence and practical data science skills to solve real-world challenges.
 

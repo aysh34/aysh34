@@ -2,7 +2,7 @@
 
 # **Ayesha Saleem**
  <p align="center">
-  <a href="https://ayesha-dev.netlify.app/">
+  <a href="https://aysh34.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/aysh34">
     <img src="https://img.shields.io/badge/GitHub-6e5494?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>

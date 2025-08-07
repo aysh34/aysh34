@@ -16,93 +16,20 @@
 
 ## About Me
 
-I'm a Computer Science student at <a href="https://eum.edu.pk/" target="_blank" rel="noopener noreferrer">EMERSON University</a>, consistently maintaining top rank in my class. I'm passionate about data science and machine learning.
+I'm a Computer Science student at EMERSON University, consistently maintaining top rank in my class. I'm passionate about data science and machine learning.
 
 I love working on projects that not only use data in meaningful ways but also push me to keep learning especially in areas like <a href="https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis" target="_blank" rel="noopener noreferrer">data analysis</a>, <a href="https://github.com/aysh34/OncoPredict-AI" target="_blank" rel="noopener noreferrer">machine learning</a>, <a href="https://www.kaggle.com/code/ayeshasal89/lifelens-predicting-life-expectancy" target="_blank" rel="noopener noreferrer"> predictive modeling </a> and I'm currently exploring <a href="https://github.com/aysh34/LLM-Agent" target="_blank" rel="noopener noreferrer">Large Language Models</a>. I enjoy participating in programming competitions and sharing my work on <a href="https://www.kaggle.com/ayeshasal89" target="_blank" rel="noopener noreferrer">Kaggle</a>, where I've earned Expert status. I bring both algorithmic excellence and practical data science skills to solve real-world challenges.
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### **BookGenie**
-<a href="https://bookgenie.up.railway.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Live-App-blue?style=flat-square" alt="Live App" /></a>
-  
-Intelligent book recommendation system using collaborative filtering and popularity-based algorithms.
-
-</td>
-<td width="50%">
-
-### **TasteMatch**
-<a href="https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Demo-Streamlit-red?style=flat-square" alt="Demo" /></a>
-<a href="https://www.kaggle.com/code/ayeshasal89/tastematch-movie-recommendation-system" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square" alt="Kaggle Notebook" /></a>
-
-Movie recommendation engine powered by Sentence Transformers for semantic similarity matching.
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### **OncoPredict AI**
-<a href="https://github.com/aysh34/OncoPredict-AI" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square" alt="GitHub Repository" /></a>
-
-Complete ML pipeline for early breast cancer detection with comprehensive preprocessing and optimization.
-
-</td>
-<td width="50%">
-
-### **LifeLens**
-<a href="https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-Code-darkgreen?style=flat-square" alt="GitHub Code" /></a>
-
-Predictive analytics for life expectancy estimation using health and socio-economic indicators.
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### **SupplyShield 2.0**
-<a href="https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Demo-LabLab.ai-gold?style=flat-square" alt="LabLab.ai Hackathon" /></a>
-
-AI-powered risk detection platform for logistics and supply chain management.
-
-</td>
-<td width="50%">
-
-### **Coffee Store Sales Analysis**
-<a href="https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Notebook" /></a>
-
-Comprehensive EDA, visualization, and ML forecasting on retail sales data with seasonal trend analysis.
-
-</td>
-</tr>
-
-<!-- <tr>
-
-<td width="50%">
-
-### **Sales Pattern Explorer**
-<a href="https://github.com/aysh34/Unveiling-Sales-Patterns-with-EDA" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" /></a>
-
-Deep exploratory analysis revealing seasonal trends and correlation patterns in sales data.
-
-</td>
-</tr> -->
-</table>
+| Project | Links | Description |
+|---------|-------|-------------|
+| **BookGenie** | [![Live App](https://img.shields.io/badge/Live-App-blue?style=flat-square)](https://bookgenie.up.railway.app/) | Intelligent book recommendation system using collaborative filtering and popularity-based algorithms |
+| **TasteMatch** | [![Demo](https://img.shields.io/badge/Demo-Streamlit-red?style=flat-square)](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square)](https://www.kaggle.com/code/ayeshasal89/tastematch-movie-recommendation-system) | Movie recommendation engine powered by Sentence Transformers for semantic similarity matching |
+| **OncoPredict AI** | [![GitHub](https://img.shields.io/badge/GitHub-Repository-8E24AA?style=flat-square)](https://github.com/aysh34/OncoPredict-AI) [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square)](https://www.kaggle.com/code/ayeshasal89/oncopredict-breast-cancer-preditction) | Complete ML pipeline for early breast cancer detection with comprehensive preprocessing and optimization |
+| **LifeLens** | [![GitHub](https://img.shields.io/badge/GitHub-Code-darkgreen?style=flat-square)](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) | Predictive analytics for life expectancy estimation using health and socio-economic indicators |
+| **SupplyShield 2.0** | [![Demo](https://img.shields.io/badge/Demo-LabLab.ai-gold?style=flat-square)](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) | AI-powered risk detection platform for logistics and supply chain management |
+| **Coffee Store Sales Analysis** | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis) | Comprehensive EDA, visualization, and ML forecasting on retail sales data with seasonal trend analysis |
 
 ## Let's Connect
 

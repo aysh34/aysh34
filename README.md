@@ -14,8 +14,6 @@
 
 </div>
 
-</br>
-
 <pre>
 
 ┌──┤ <strong>About Me</strong> ├───────▰▰▰

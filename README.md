@@ -14,32 +14,44 @@
 
 </div>
 
-## About Me
+</br>
 
-I'm a Computer Science student at EMERSON University, consistently maintaining top rank in my class. I'm passionate about data science and machine learning.
+<pre>
 
-I love working on projects that not only use data in meaningful ways but also push me to keep learning especially in areas like <a href="https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis" target="_blank" rel="noopener noreferrer">data analysis</a>, <a href="https://github.com/aysh34/OncoPredict-AI" target="_blank" rel="noopener noreferrer">machine learning</a>, <a href="https://www.kaggle.com/code/ayeshasal89/lifelens-predicting-life-expectancy" target="_blank" rel="noopener noreferrer"> predictive modeling </a> and I'm currently exploring <a href="https://github.com/aysh34/LLM-Agent" target="_blank" rel="noopener noreferrer">Large Language Models</a>. I enjoy participating in programming competitions and sharing my work on <a href="https://www.kaggle.com/ayeshasal89" target="_blank" rel="noopener noreferrer">Kaggle</a>, where I've earned Expert status. I bring both algorithmic excellence and practical data science skills to solve real-world challenges.
+┌──┤ <strong>About Me</strong> ├───────▰▰▰
+│
+├─▣ Computer Science student at Emerson University, ranked among the top in my class.  
+├─▣ Focused on Data Science, Machine Learning, and Predictive Analytics.  
+├─▣ Exploring interpretable ML and Large Language Models.  
+├─▣ Enjoy working on projects that turn data into meaningful solutions.  
+├─▣ Active on <a href="https://www.kaggle.com/ayeshasal89" target="_blank" rel="noopener noreferrer">Kaggle</a> as an Expert.  
+├─▣ Open to AI/ML collaborations and research opportunities.  
+│
+└───────────────────────────────▰▰▰
 
-## Projects
+┌──┤ <strong>Projects</strong> ├───────▰▰▰
+│
+├─◈ <a href="https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis"><strong>Coffee Store Sales Analysis</strong></a>
+├─◈ <a href="https://github.com/aysh34/Real-Estate-Price-Estimator"><strong>Real Estate Price Estimator</strong></a>
+├─◈ <a href="https://www.kaggle.com/code/ayeshasal89/oncopredict-breast-cancer-preditction"><strong>OncoPredict AI</strong></a>
+├─◈ <a href="https://bookgenie.up.railway.app/"><strong>BookGenie</strong></a>
+├─◈ <a href="https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/"><strong>TasteMatch</strong></a>
+├─◈ <a href="https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning"><strong>LifeLens</strong></a>
+├─◈ <a href="https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection"><strong>SupplyShield 2.0</strong></a>
+│
+└───────────────────────────────▰▰▰
 
-| Project | Links | Description |
-|---------|-------|-------------|
-| **BookGenie** | [![Live App](https://img.shields.io/badge/Live-App-blue?style=flat-square)](https://bookgenie.up.railway.app/) | Intelligent book recommendation system using collaborative filtering and popularity-based algorithms |
-| **TasteMatch** | [![Demo](https://img.shields.io/badge/Demo-Streamlit-red?style=flat-square)](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/) [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square)](https://www.kaggle.com/code/ayeshasal89/tastematch-movie-recommendation-system) | Movie recommendation engine powered by Sentence Transformers for semantic similarity matching |
-| **OncoPredict AI** | [![GitHub](https://img.shields.io/badge/GitHub-Repository-8E24AA?style=flat-square)](https://github.com/aysh34/OncoPredict-AI) [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square)](https://www.kaggle.com/code/ayeshasal89/oncopredict-breast-cancer-preditction) | Complete ML pipeline for early breast cancer detection with comprehensive preprocessing and optimization |
-| **LifeLens** | [![GitHub](https://img.shields.io/badge/GitHub-Code-darkgreen?style=flat-square)](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning) | Predictive analytics for life expectancy estimation using health and socio-economic indicators |
-| **SupplyShield 2.0** | [![Demo](https://img.shields.io/badge/Demo-LabLab.ai-gold?style=flat-square)](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection) | AI-powered risk detection platform for logistics and supply chain management |
-| **Coffee Store Sales Analysis** | [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis) | Comprehensive EDA, visualization, and ML forecasting on retail sales data with seasonal trend analysis |
-
-## Let's Connect
-
-I'm always open to discussing innovative projects, research collaborations, and opportunities in AI/ML. Feel free to reach out!
-
-<a href="https://ayesha-dev.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:ayeshasaleem853@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+┌──┤ <strong>Let's Connect</strong> ├───────▰▰▰
+│
+├─▣ Open to discussions on innovative projects, research collaborations, and AI/ML opportunities.  
+├─▣ Feel free to reach out through the links below.  
+│
+├─◈ <a href="https://aysh34.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a>  
+├─◈ <a href="mailto:ayeshasaleem853@gmail.com">Email</a>  
+│
+└───────────────────────────────▰▰▰
+ 
+</pre>
 
 
 <details>
@@ -87,12 +99,12 @@ I'm always open to discussing innovative projects, research collaborations, and 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysh34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aysh34&theme=yeblu&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysh34&theme=yeblu&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&theme=yeblu&hide_border=true"/>
 </div>
 
 

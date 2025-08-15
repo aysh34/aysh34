@@ -59,7 +59,7 @@
 ## Education
 
 **Bachelor of Science in Computer Science**  
-*Emerson University, Multan, Pakistan*  
+*Emerson University*  
 **CGPA:** 3.86/4.00 (96.5%)  
 **Duration:** September 2023 – Present  
 

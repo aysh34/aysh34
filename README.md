@@ -22,7 +22,7 @@
 ├─▣ Focused on Data Science, Machine Learning, and Predictive Analytics.  
 ├─▣ Exploring interpretable ML and Large Language Models.  
 ├─▣ Enjoy working on projects that turn data into meaningful solutions.  
-├─▣ Active on <a href="https://www.kaggle.com/ayeshasal89" target="_blank" rel="noopener noreferrer">Kaggle</a> as an Expert.  
+├─▣ Love to share my work on Kaggle as an Expert.
 ├─▣ Open to AI/ML collaborations and research opportunities.  
 │
 └───────────────────────────────▰▰▰

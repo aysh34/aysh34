@@ -102,7 +102,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&theme=yeblu&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&theme=yeblu&hide_border=true&count_private=true"/>
 </div>
 
 

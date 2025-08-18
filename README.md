@@ -22,7 +22,7 @@
 ├─▣ Focused on Data Science, Machine Learning, and Predictive Analytics.  
 ├─▣ Exploring interpretable ML and Large Language Models.  
 ├─▣ Enjoy working on projects that turn data into meaningful solutions.  
-├─▣ Love to share my work on Kaggle as an Expert.
+├─▣ Love to share my work on Kaggle.
 ├─▣ Open to AI/ML collaborations and research opportunities.  
 │
 └───────────────────────────────▰▰▰

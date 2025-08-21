@@ -1,17 +1,17 @@
 <div align="center">
 <h1> <strong>Ayesha Saleem</strong> </h1>
-<h4 align="center">Data Science & Machine Learning Enthusiast</h4>
+<h3 align="center">Data Science & Machine Learning Enthusiast</h3>
 </div>
 
 > Who I am and what I focus on.  
 
 I am a Computer Science student at Emerson University, consistently ranked among the top of my class, with a strong focus on Data Science, Predictive Modeling, and Interpretable Machine Learning. I enjoy working on projects that transform data into meaningful solutions and actively contribute to the data science community through Kaggle and open-source projects. I am also exploring opportunities for AI/ML research and collaborations to expand my expertise and impact further.
 
+> Domains I am currently learning and expanding my knowledge in.  
 
-> Domains I am currently exploring and deepening my expertise in.  
-
-- **Interpretable Machine Learning (XAI):** Using SHAP, LIME, and counterfactual analysis to make models more transparent.  
-- **Large Language Models & LLM Agents:** Designing autonomous agents with memory, reasoning, and tool-use for complex workflows.   
+- **Interpretable Machine Learning (XAI):** Using SHAP and LIME to make models more transparent.  
+- **Deep Learning:** Applying modern architectures for vision and NLP tasks.  
+- **Large Language Models & LLM Agents:** Designing autonomous agents with memory, reasoning, and tool-use for workflows.  
 - **Generative AI with LangChain:** Building modular pipelines for RAG, chatbots, and workflow automation.  
 
 ## Achievements  

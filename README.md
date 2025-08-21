@@ -9,10 +9,8 @@ I am a Computer Science student at Emerson University, consistently ranked among
 
 > Domains I am currently learning and expanding my knowledge in.  
 
-- **Interpretable Machine Learning (XAI):** Using SHAP and LIME to make models more transparent.  
-- **Deep Learning:** Applying modern architectures for vision and NLP tasks.  
-- **Large Language Models & LLM Agents:** Designing autonomous agents with memory, reasoning, and tool-use for workflows.  
-- **Generative AI with LangChain:** Building modular pipelines for RAG, chatbots, and workflow automation.  
+- **Interpretable ML (XAI) & Deep Learning** 
+- **Large Language Models & LLM Agents**
 
 ## Achievements  
 

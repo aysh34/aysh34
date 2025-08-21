@@ -70,8 +70,8 @@ I am a Computer Science student at Emerson University, consistently ranked among
 > A snapshot of my GitHub activity and contributions.  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aysh34&theme=yeblu&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&theme=yeblu&hide_border=true"/>
+  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=aysh34&theme=yeblu&show_icons=true&hide_border=true&count_private=true"/>
+  <img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&theme=yeblu&hide_border=true"/>
 </div> 
 
 ## Competition Highlights  

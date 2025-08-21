@@ -33,7 +33,6 @@ I am a Computer Science student at Emerson University, consistently ranked among
 - **[BookGenie](https://github.com/aysh34/BookGenie)** - Intelligent book recommendation system using popularity and collaborative filtering
 - **[TasteMatch](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/)** - Content-based recommendation system
 - **[LifeLens](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning)** - Life expectancy prediction model
-- **[SupplyShield 2.0](https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection)** - Smart risk detection system for supply chains
 
 ## Academic Excellence  
 

@@ -27,12 +27,12 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ <strong>Projects</strong> ├───────▰▰▰
+┌──┤ <strong>Recent Projects</strong> ├───────▰▰▰
 │
 ├─◈ <a href="https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis"><strong>Coffee Store Sales Analysis</strong></a>
 ├─◈ <a href="https://github.com/aysh34/Real-Estate-Price-Estimator"><strong>Real Estate Price Estimator</strong></a>
 ├─◈ <a href="https://www.kaggle.com/code/ayeshasal89/oncopredict-breast-cancer-preditction"><strong>OncoPredict AI</strong></a>
-├─◈ <a href="https://bookgenie.up.railway.app/"><strong>BookGenie</strong></a>
+├─◈ <a href="https://github.com/aysh34/BookGenie"><strong>BookGenie</strong></a>
 ├─◈ <a href="https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/"><strong>TasteMatch</strong></a>
 ├─◈ <a href="https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning"><strong>LifeLens</strong></a>
 ├─◈ <a href="https://lablab.ai/event/execute-ai-genesis/binge-thinkers/supplyshield-smart-risk-detection"><strong>SupplyShield 2.0</strong></a>

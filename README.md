@@ -34,11 +34,11 @@ I am a Computer Science student at Emerson University, consistently ranked among
 - **[TasteMatch](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/)** - Content-based recommendation system
 - **[LifeLens](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning)** - Life expectancy prediction model
 
-## Academic Excellence  
+<!-- ## Academic Excellence  
 
 **Bachelor of Science in Computer Science (BSCS)**  
 *Emerson University (September 2023 – Present  )*  
-**CGPA:** 3.86/4.00 (96.5%)  
+**CGPA:** 3.86/4.00 (96.5%)  -->
 
 ## Technical Skills  
 

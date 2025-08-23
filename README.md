@@ -9,7 +9,7 @@ I am a Computer Science student at Emerson University, consistently ranked among
 
 > Domains I am currently learning and expanding my knowledge in.  
 
-- **Interpretable ML (XAI) & Deep Learning** 
+- **Interpretable ML & Deep Learning** 
 - **[Large Language Models & LLM Agents](https://github.com/aysh34/LLMs)**
 
 ## Achievements  

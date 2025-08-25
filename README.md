@@ -23,17 +23,17 @@ I am a Computer Science student at Emerson University, consistently ranked among
 - **[UC Berkeley CALICO Coding Competition (2024)](https://github.com/aysh34/aysh34/blob/main/assets/cal.jpg)** - Showcased computational thinking and problem-solving skills 
 - **[AI Hackathon Participant](https://lablab.ai/)** - Regularly competing in LabLab.ai and international hackathons to apply ML/AI skills  
 
-## Recent Projects  
+<!--## Recent Projects  
 
 > A selection of my work and learning in applied machine learning.  
 
-- **[Sales Analysis](https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis)** - Comprehensive sales data analysis with insights and visualizations
-- **[Real Estate Price Estimator](https://github.com/aysh34/Real-Estate-Price-Estimator)** - Machine learning model for property price prediction
-- **[OncoPredict AI](https://www.kaggle.com/code/ayeshasal89/oncopredict-breast-cancer-preditction)** - Breast cancer prediction using advanced ML algorithms
-- **[BookGenie](https://github.com/aysh34/BookGenie)** - Intelligent book recommendation system using popularity and collaborative filtering
-- **[TasteMatch](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/)** - Content-based recommendation system
+- **[OncoPredict AI](https://www.kaggle.com/code/ayeshasal89/oncopredict-breast-cancer-preditction)** - Breast cancer prediction using ML algorithms
+- **[Data Analysis](https://www.kaggle.com/code/ayeshasal89/coffee-store-sales-analysis)** - Comprehensive sales data analysis with insights and visualizations
+- **[Real Estate Price Prediction](https://github.com/aysh34/Real-Estate-Price-Estimator)** - Machine learning model for property price prediction
+- **[BookGenie](https://github.com/aysh34/BookGenie)** - Book recommendation system built using popularity and collaborative filtering techniques
+- **[TasteMatch](https://tastematch-kfdxsz24xk9bbypttq9dtw.streamlit.app/)** - Movie recommender app built using content-based filtering
 - **[LifeLens](https://github.com/aysh34/Life_Expectancy_Prediction_With_Machine_Learning)** - Life expectancy prediction model
-
+-->
 <!-- ## Academic Excellence  
 
 **Bachelor of Science in Computer Science (BSCS)**  

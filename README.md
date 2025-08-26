@@ -1,6 +1,5 @@
 <div align="center">
 <h1> <strong>Ayesha Saleem</strong> </h1> 
-<h3 align="center">Data Science & Machine Learning Enthusiast</h3>
 </div>
 
 > Who I am and what I focus on.  

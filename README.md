@@ -62,14 +62,14 @@ I am a Computer Science student at Emerson University, consistently ranked among
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white) 
 
-## GitHub Stats  
+<!--## GitHub Stats  
 
 > A snapshot of my GitHub activity and contributions.  
 
 <div align="center">
   <img  width="400" src="https://github-readme-stats.vercel.app/api?username=aysh34&theme=yeblu&show_icons=true&hide_border=true&count_private=true"/>
   <img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&theme=yeblu&hide_border=true"/>
-</div> 
+</div> -->
 
 ## Competition Highlights  
 

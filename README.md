@@ -32,7 +32,7 @@ I’m a Computer Science undergraduate specializing in Machine Learning, Deep Le
 ## Stats  
 
 <div align="center">
-  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=aysh34&theme=yeblu&show_icons=true&hide_border=true&count_private=true&layout=compact"/>
+  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=aysh34&theme=yeblu&show_icons=true&hide_border=true&include_all_commits=flase"/>
   <img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&theme=yeblu&hide_border=true"/>
 </div>
 

@@ -2,7 +2,7 @@
 <h1> <strong>Hi, I'm Ayesha Saleem</strong> </h1> 
 </div>
 
-I’m a Computer Science undergraduate specializing in Machine Learning, Deep Learning, and Natural Language Processing. I enjoy turning ideas into projects, from data-driven applications to research-focused experiments. I am currently learning and expanding my knowledge in Deep Learning and Large Language Models.
+I’m a Computer Science undergraduate specializing in Machine Learning, Deep Learning, and Natural Language Processing. I enjoy turning ideas into projects, from data-driven applications to research-focused experiments. I am currently learning and expanding my knowledge in Deep Learning and large language models.
 
 ## Recent Projects  
 
@@ -32,8 +32,8 @@ I’m a Computer Science undergraduate specializing in Machine Learning, Deep Le
 ## Stats  
 
 <div align="center">
-  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=aysh34&count_private=true&theme=yeblu&show_icons=true&hide_border=true"/>
-  <img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aysh34&theme=yeblu&hide_border=true"/>
+<img width=400 src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=yeblu&hide_border=true"/>
+<img width=400 src="https://github-readme-streak-stats-eight.vercel.app/?user=aysh34&theme=yeblu&hide_border=true"/>
 </div>
 
 ## Contact  

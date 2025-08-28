@@ -6,12 +6,8 @@ I’m a Computer Science undergraduate specializing in Machine Learning, Deep Le
 
 ## Recent Projects  
 
-- **[Parkinson’s Disease Detection Using Voice Analysis](https://github.com/aysh34/Parkinsons-Disease-Detection)**  
-  Developed a model that leverages acoustic features from voice recordings to identify Parkinson’s disease. The project involved data preprocessing, feature selection, and evaluation across multiple classifiers, demonstrating the potential of voice-based biomarkers for early detection.  
-
-- **[OncoPredict-AI: Breast Cancer Diagnostic System](https://github.com/aysh34/OncoPredict-AI)**  
-  Built an end-to-end machine learning pipeline on the UCI Breast Cancer Wisconsin dataset. A dual-model framework (Logistic Regression and Random Forest) achieved ~97% accuracy, with emphasis on minimizing false negatives and analyzing feature importance for interpretability.  
-
+- **[Early Detection of Parkinson's Disease Through Speech Analysis](https://github.com/aysh34/Parkinsons-Disease-Detection)**  
+- **[Leveraging Machine Learning for Breast Cancer Detection](https://github.com/aysh34/OncoPredict-AI)**  
 
 ## Skills  
 

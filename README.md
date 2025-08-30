@@ -4,7 +4,7 @@
 
 I’m a Computer Science undergraduate specializing in Machine Learning, Deep Learning, and Natural Language Processing. I enjoy turning ideas into projects, from data-driven applications to research-focused experiments. I am currently learning and expanding my knowledge in Deep Learning and large language models.
 
-## Recent Projects  
+## Recent Projects   
 
 - **[Early Detection of Parkinson's Disease Through Speech Analysis](https://github.com/aysh34/Parkinsons-Disease-Detection)**  
 - **[Leveraging Machine Learning for Breast Cancer Detection](https://github.com/aysh34/OncoPredict-AI)**  

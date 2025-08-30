@@ -1,6 +1,6 @@
 <div align="center">
 <h1> <strong>Hi, I'm Ayesha Saleem</strong> </h1> 
-</div>
+</div> 
 
 I’m a Computer Science undergraduate specializing in Machine Learning, Deep Learning, and Natural Language Processing. I enjoy turning ideas into projects, from data-driven applications to research-focused experiments. I am currently learning and expanding my knowledge in Deep Learning and large language models.
 

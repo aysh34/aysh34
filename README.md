@@ -2,7 +2,7 @@
 <h1> <strong>Hi, I'm Ayesha Saleem</strong> </h1> 
 </div> 
 
-Computer Science undergraduate exploring **Machine Learning, Deep Learning, and Natural Language Processing**, with a growing interest in making AI more interpretable and human-centered. I enjoy learning by building projects from **data-driven applications** to **research-focused experiments** that push me to ask new questions. Currently, I’m building my skills in **Deep Learning** and **Large Language Models** and exploring how they can be applied in real-world problems.
+I’m a Computer Science undergraduate exploring **Machine Learning, Deep Learning, and Natural Language Processing**. I enjoy learning by building projects that turn data into meaningful solutions. Right now, I’m focusing on **Deep Learning** and **Large Language Models**, exploring how they can be applied to solve real-world problems and open up new research directions.
 
 
 ## Recent Work   

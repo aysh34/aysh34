@@ -2,12 +2,13 @@
 <h1> <strong>Hi, I'm Ayesha Saleem</strong> </h1> 
 </div> 
 
-I’m a Computer Science undergraduate specializing in Machine Learning, Deep Learning, and Natural Language Processing. I enjoy turning ideas into projects, from data-driven applications to research-focused experiments. I am currently learning and expanding my knowledge in Deep Learning and large language models.
+Computer Science undergraduate exploring **Machine Learning, Deep Learning, and Natural Language Processing**, with a growing interest in making AI more interpretable and human-centered. I enjoy learning by building projects from **data-driven applications** to **research-focused experiments** that push me to ask new questions. Currently, I’m building my skills in **Deep Learning** and **Large Language Models** and exploring how they can be applied in real-world problems.
 
-## Recent Projects   
 
-- **[Early Detection of Parkinson's Disease Through Speech Analysis](https://github.com/aysh34/Parkinsons-Disease-Detection)**  
-- **[Leveraging Machine Learning for Breast Cancer Detection](https://github.com/aysh34/OncoPredict-AI)**  
+## Recent Work   
+
+- **[Parkinson’s Disease Detection via Speech Analysis](https://github.com/aysh34/Parkinsons-Disease-Detection)**  
+- **[Breast Cancer Detection Using Machine Learning](https://github.com/aysh34/OncoPredict-AI)**  
 
 ## Skills  
 
@@ -34,8 +35,7 @@ I’m a Computer Science undergraduate specializing in Machine Learning, Deep Le
 
 ## Contact  
 
-I am open to discussions on **research collaborations, innovative AI projects, and applied ML opportunities**.  
-Feel free to reach out through any of the platforms below:
+Open to collaborations in **research, applied ML, and innovative AI projects**. Reach me via: 
 
 <a href="https://aysh34.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>

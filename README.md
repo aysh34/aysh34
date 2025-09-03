@@ -2,10 +2,10 @@
 <h1> <strong>Hi, I'm Ayesha Saleem</strong> </h1> 
 </div> 
 
-I’m a Computer Science undergraduate exploring **Machine Learning, Deep Learning, and Natural Language Processing**. I enjoy learning by building projects that turn data into meaningful solutions. Right now, I’m focusing on **Deep Learning** and **Large Language Models**, exploring how they can be applied to solve real-world problems and open up new research directions.
+I am a Computer Science undergraduate with interests in **Machine Learning**. I enjoy exploring research questions by building projects that transform data into impactful solutions. My current focus is on **Deep Learning** and **Large Language Models**, particularly how they can address real-world challenges and inspire new directions in AI research. My recognition as a **Kaggle Expert** highlights both my technical skills and my persistence in solving complex data-driven problems.
 
 
-## Recent Work   
+## Projects   
 
 - **[Parkinson’s Disease Detection via Speech Analysis](https://github.com/aysh34/Parkinsons-Disease-Detection)**  
 - **[Breast Cancer Detection Using Machine Learning](https://github.com/aysh34/OncoPredict-AI)**  
@@ -35,11 +35,4 @@ I’m a Computer Science undergraduate exploring **Machine Learning, Deep Learni
 
 ## Contact  
 
-Open to collaborations in **research, applied ML, and innovative AI projects**. Reach me via: 
-
-<a href="https://aysh34.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/aysh34">
-  <img src="https://img.shields.io/badge/GitHub-199717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:ayeshasaleem853@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+Open to collaborations in **research, applied ML, and innovative AI projects**. Reach me via [EMAIL](mailto:ayeshasaleem853@gmail.com)

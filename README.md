@@ -2,7 +2,7 @@
 <h1> <strong>Hi, I'm Ayesha Saleem</strong> </h1> 
 </div> 
 
-I am a Computer Science undergraduate with interests in **Machine Learning**. I enjoy exploring research questions by building projects that transform data into impactful solutions. My current focus is on **Deep Learning** and **Large Language Models**, particularly how they can address real-world challenges and inspire new directions in AI research. My recognition as a **Kaggle Expert** highlights both my technical skills and my persistence in solving complex data-driven problems. I'm always excited to collaborate on **research, applied ML, and innovative AI projects**. Feel free to reach out via [email](mailto:ayeshasaleem853@gmail.com). I'd love to discuss new opportunities and ideas!
+I am a Computer Science undergraduate with interests in **Machine Learning**. I enjoy exploring research questions by building projects that transform data into impactful solutions. My current focus is on **Deep Learning** and **Large Language Models**, particularly how they can address real-world challenges and inspire new directions in AI research. My technical skills and persistence in solving complex data-driven problems have earned me recognition as a Kaggle Expert. I'm always excited to collaborate on **research, applied ML, and innovative AI projects**. Feel free to reach out via [email](mailto:ayeshasaleem853@gmail.com). I'd love to discuss new opportunities and ideas!
 
 **Here are some of my recent projects**
 - **[Parkinson's Disease Detection via Speech Analysis](https://github.com/aysh34/Parkinsons-Disease-Detection)**  

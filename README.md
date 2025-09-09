@@ -18,7 +18,11 @@ I am a Computer Science undergraduate with interests in Machine Learning. I enjo
 
 **GitHub Activity:**
 <div align="center">
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=aysh34&show_icons=true&theme=yeblu&hide_border=true"/>
-<img width=400 src="https://github-readme-streak-stats-eight.vercel.app/?user=aysh34&theme=yeblu&hide_border=true"/>
+  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=yeblu" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=aysh34&theme=yeblu&hide_border=true"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aysh34&theme=yeblu" />
+
 </div>
+
 </details>

@@ -14,7 +14,7 @@ I am a Computer Science undergraduate with interests in Machine Learning. I enjo
 
 **Technical Skills:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Flask, Streamlit, SQL, Git, Docker, Matplotlib, Plotly
 
-**Research Interests:** Natural Language Processing, Computer Vision, Healthcare AI
+**Research Interests:** Deep Learning, Reinforcement Learning, Computer Vision, Healthcare AI
 
 **GitHub Activity:**
 <div align="center">

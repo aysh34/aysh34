@@ -17,7 +17,6 @@ Here are some of my recent projects
 
 **Research Interests:** Deep Learning, Reinforcement Learning, Computer Vision, Healthcare AI
 
-**GitHub Activity:**
 <div align="center">
   
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=yeblu" />

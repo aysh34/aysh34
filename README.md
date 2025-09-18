@@ -2,16 +2,14 @@
 <h1> <strong>Hi, I'm Ayesha Saleem</strong> </h1> 
 </div> 
 
-I am an undergraduate Computer Science student at **Emerson University**. I am also a **Kaggle Expert**, actively applying my technical skills and dedication to solving data driven challenges. My passion lies in **Machine Learning** and **Deep Learning**, particularly in how they can address real world problems and open new directions in AI research.  
-
-My goal is to contribute to **responsible and ethical AI** that benefits society. I am always excited to collaborate on research, applied ML, and innovative AI projects. Feel free to reach out via [email](mailto:ayeshasaleem853@gmail.com). I’d love to connect and discuss new opportunities and ideas.  
+I am an undergraduate Computer Science student at **Emerson University**. I am also a **Kaggle Expert**, actively applying my technical skills and dedication to solving data driven tasks. My passion lies in **Machine Learning** and **Deep Learning**, particularly in how they can address real world problems and open new directions in research. Feel free to reach out via [email](mailto:ayeshasaleem853@gmail.com). I’d love to connect and discuss new opportunities and ideas.  
 
 
 <details>
 <summary>More About Me</summary>
 <br>
 
-**Technical Skills:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Flask, Streamlit, SQL, Git, Docker, Matplotlib, Plotly
+**Technical Skills:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Flask, SQL, Git, Docker, Matplotlib
 
 **Research Interests:** Deep Learning, Reinforcement Learning, Computer Vision, Healthcare AI
 

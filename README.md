@@ -20,7 +20,4 @@ My experience spans both academic coursework and practical competitions, giving 
 - [Parkinson's Disease Detection via Speech Analysis](https://github.com/aysh34/Parkinsons-Disease-Detection) </br>Applies machine learning to acoustic features from voice recordings for early, non-invasive detection of Parkinson's disease.
 - [Breast Cancer Detection Using Machine Learning (OncoPredict-AI)](https://github.com/aysh34/OncoPredict-AI) </br>High-accuracy ensemble models for tumor classification on Wisconsin dataset.
 
-  </br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysh34&theme=yeblu" />
-
 </details>

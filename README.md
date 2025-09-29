@@ -14,9 +14,5 @@ I'm always eager to connect with others who share similar interests in ML/DL. Fe
 
 **Technical Skills:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Flask, SQL, Git, Docker, Matplotlib
 
-**Recent Projects:**
-- [Psycholinguistic and Emotion-Centric Analysis of Mental Health Text](https://github.com/aysh34/Psycholinguistic-Patterns-and-Emotional-Markers-in-Mental-Health) </br>Analyzes linguistic and emotional markers in mental health discourse using NLP to uncover discriminative patterns.  
-- [Parkinson's Disease Detection via Speech Analysis](https://github.com/aysh34/Parkinsons-Disease-Detection) </br>Applies machine learning to acoustic features from voice recordings for early, non-invasive detection of Parkinson's disease.
-- [Breast Cancer Detection Using Machine Learning (OncoPredict-AI)](https://github.com/aysh34/OncoPredict-AI) </br>High-accuracy ensemble models for tumor classification on Wisconsin dataset.
 
 </details>

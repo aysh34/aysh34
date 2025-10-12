@@ -1,18 +1,22 @@
+# Hi, I'm Ayesha Saleem
+
+CS undergrad at Emerson University, working on NLP and computer vision projects. I'm genuinely curious about how machine learning works under the hood. Most of my time goes into building projects, reading papers, and figuring out how to make things work better. I love the research process: taking an idea, testing it, breaking it, and learning from what went wrong.
+
+## What I'm Working On
+
+Right now, I'm diving deep into NLP and CV applications, experimenting with transfer learning, and exploring generative AI. When I commit to something, I see it through.
+
+## Projects & Skills
+
+I've built several projects applying ML and DL techniques to real problems. Check out my repositories to see what I've been working on. I work with Python, TensorFlow, PyTorch, Scikit-learn, and the usual data science tools.
+
+## Collaboration & Sharing
+
+I'm open to research opportunities and collaborations. I share what I learn through Kaggle (where I'm a Notebook Expert) and project documentation. I also enjoy problem-solving challenges, and recently won Harvard CS50 Puzzle Day 2025.
+
+
 <div align="center">
-<h1> <strong>Hi, I'm Ayesha Saleem</strong> </h1> 
-</div> 
 
-I'm passionate about machine learning and deep learning, with a particular focus on how these technologies can solve real world problems and open new research directions. As an undergraduate Computer Science student at Emerson University and a Kaggle Expert, I actively apply my technical skills to data-driven challenges.
+[email](mailto:ayeshasaleem853@gmail.com) / [github](https://github.com/aysh34) / [kaggle](https://www.kaggle.com/ayeshasal89) / [leetcode](https://leetcode.com/u/ayesha_saleem9/) / [linkedin](https://www.linkedin.com/in/ayesha-saleem6/)
 
-My experience spans both academic coursework and practical competitions, giving me insight into both theoretical foundations and applied problem-solving. I'm particularly drawn to research opportunities that push the boundaries of what's possible with machine learning. 
-I'm always eager to connect with others who share similar interests in ML/DL. Feel free to reach out via [email](mailto:ayeshasaleem853@gmail.com).
-
-
-<details>
-<summary>More About Me</summary>
-<br>
-
-**Technical Skills:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Flask, SQL, Git, Docker, Matplotlib
-
-
-</details>
+</div>

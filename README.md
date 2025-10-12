@@ -15,8 +15,4 @@ I've built several projects applying ML and DL techniques to real problems. Chec
 I'm open to research opportunities and collaborations. I share what I learn through Kaggle (where I'm a Notebook Expert) and project documentation. I also enjoy problem-solving challenges, and recently won Harvard CS50 Puzzle Day 2025.
 
 
-<div align="center">
-
 [email](mailto:ayeshasaleem853@gmail.com) / [github](https://github.com/aysh34) / [kaggle](https://www.kaggle.com/ayeshasal89) / [leetcode](https://leetcode.com/u/ayesha_saleem9/) / [linkedin](https://www.linkedin.com/in/ayesha-saleem6/)
-
-</div>

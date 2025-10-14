@@ -1,6 +1,6 @@
 # Hi, I'm Ayesha Saleem
 
-CS undergrad at Emerson University, working on NLP and computer vision projects. I'm genuinely curious about how machine learning works under the hood. Most of my time goes into building projects, reading papers, and figuring out how to make things work better. I love the research process: taking an idea, testing it, breaking it, and learning from what went wrong.
+CS undergrad at Emerson University, working on NLP and computer vision projects. I'm genuinely curious about how machine learning works under the hood. Most of my time goes into building projects, reading papers, and figuring out how to make things work better.
 
 ## What I'm Working On
 

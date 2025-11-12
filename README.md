@@ -1,22 +1,25 @@
-# **Hi, I'm Ayesha**
+# Hi, I’m Ayesha 👋
 
-CS undergrad at Emerson University, working on **Natural Language Processing** and **Computer Vision** projects. I'm genuinely curious about how machine learning works under the hood. Most of my time is spent building projects, reading research papers, and improving how things work. I publish notebooks on **Kaggle** and host projects on **GitHub**. I've built several projects applying **machine learning** and **deep learning** techniques to real problems.
+CS undergraduate at **Emerson University** focused on **Natural Language Processing** and **Computer Vision**. I enjoy building ML systems and exploring model behavior, not just to make models work, but to understand *why* they work.
 
+## 🏆 Achievements & Competitions
 
-## **Recent Highlights**
-
-- Took part in the **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)**, developing a data-driven **Earth observation model** using **satellite data, Pandas, and TensorFlow**.  
-- Participated in **Harvard CS50x Puzzle Day 2025** and achieved 1st place globally through strong logical reasoning and algorithmic problem-solving.  
-- Contributed to the **[Kaggle community](https://www.kaggle.com/ayeshasal89)** as an **Expert**, publishing 15+ machine learning notebooks with **Python, PyTorch, and scikit-learn**, ranking in the top 4% worldwide.  
-
-
-## **Tech Stack**
-
-PyTorch, TensorFlow, Scikit-learn, Keras, Pandas, NumPy, Matplotlib, OpenCV, Medical Imaging Processing, NLP, CV, Transfer Learning
+- Competed in the **[CALICO Informatics Competition Fall 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)**, solving algorithmic and logic-based problems and strengthening my approach to problem-solving under time constraints.
+- Built a data-driven **Earth observation model** for the **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)** using satellite data, Pandas, and TensorFlow.
+- Placed **1st globally** in **Harvard CS50x Puzzle Day 2025**, demonstrating strong logical reasoning and algorithmic skills.
+- Contributed as a **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** with 15+ notebooks on ML topics ranked in the **top 4%** globally.
 
 
-## **Looking For**
+## What I’m Looking For
 
-Open to research collaborations and project contributions in **Artificial Intelligence** and **Machine Learning**, particularly in **Natural Language Processing** and **Computer Vision**.  
+Open to research collaborations, internships, or project contributions in **Machine Learning, NLP, and Computer Vision**. I enjoy projects that require both rigorous experimentation and interpretable results.
 
-Feel free to reach out at [ayeshasaleem853@gmail.com](mailto:ayeshasaleem853@gmail.com).  
+## Contact
+
+- Email: ayeshasaleem853@gmail.com  
+- Kaggle: https://www.kaggle.com/ayeshasal89  
+- GitHub: https://github.com/aysh34
+
+### Fun Fact
+
+I love exploring how mathematical intuition translates into model behavior, the bridge between **theory and implementation**.

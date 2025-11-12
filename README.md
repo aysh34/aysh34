@@ -17,8 +17,6 @@ Open to research collaborations, internships, or project contributions in **Mach
 ## Contact
 
 - Email: ayeshasaleem853@gmail.com  
-- Kaggle: https://www.kaggle.com/ayeshasal89  
-- GitHub: https://github.com/aysh34
 
 ### Fun Fact
 

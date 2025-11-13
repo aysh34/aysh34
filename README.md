@@ -4,9 +4,9 @@ CS undergraduate at **Emerson University** focused on **Natural Language Process
 
 ## 🏆 Achievements & Competitions
 
-- Competed in the **[CALICO Informatics Competition Fall 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)**, solving algorithmic and logic-based problems and strengthening my approach to problem-solving under time constraints.
+- Ranked 46th in Pakistan and 225th globally in the **[CALICO Informatics Competition Fall 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)**, solving algorithmic and logic-based problems and strengthening my approach to problem-solving under time constraints.
 - Built a data-driven **Earth observation model** for the **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)** using satellite data, Pandas, and TensorFlow.
-- Placed **1st globally** in **Harvard CS50x Puzzle Day 2025**, demonstrating strong logical reasoning and algorithmic skills.
+- Placed **1st globally** in **[Harvard CS50x Puzzle Day 2025](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)**, demonstrating strong logical reasoning and algorithmic skills.
 - Contributed as a **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** with 15+ notebooks on ML topics ranked in the **top 4%** globally.
 
 

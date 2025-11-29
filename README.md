@@ -1,20 +1,41 @@
 # Hi, I’m Ayesha
 
-I am a Computer Science undergraduate at **Emerson University**, focused on **Natural Language Processing** and **Computer Vision**. I build and study machine learning models to understand how and why they work, not just to improve their performance.
+I’m a computer science undergrad at **Emerson University**, passionate about **NLP** and **Computer Vision**. I build and explore machine learning models, diving into how they work under the hood and where language and vision intersect in AI.  
 
 ## Highlights
 
-- Recognized as a **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** with 15+ published machine learning notebooks, ranked among the **top 4%** of contributors worldwide.
-- Awarded a merit-based undergraduate scholarship (Honhaar) at Emerson University for sustained academic excellence, maintaining a 3.88/4.0 CGPA in the Computer Science program.
-- Developed a data-driven **Earth Observation Model** for the **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)**, integrating satellite data with machine learning pipelines.  
-- Participated in the **[CALICO Informatics Competition 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** hosted by UC Berkeley, solving logic-based challenges under strict time constraints.  
-- Secured **1st position globally** in **[Harvard CS50x Puzzle Day 2025](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)**, showcasing logical reasoning and problem-solving skills.  
-- Solved 220+ Data Structures & Algorithms problems on **[LeetCode](https://leetcode.com/u/ayesha_saleem9/)**.
-  
+- 🏅 **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** – Published 15+ ML notebooks, ranked in the top 4% globally  
+- 🌍 Developed an **Earth Observation ML Model** for **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)**  
+- 🏆 Competed in **[CALICO Informatics Competition 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** at UC Berkeley  
+- 🥇 **1st place globally** in **[Harvard CS50x Puzzle Day 2025](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)**  
+- 💻 Solved **220+ DSA problems** on **[LeetCode](https://leetcode.com/u/ayesha_saleem9/)**  
+- 🎖️ Awarded the merit-based **Undergraduate Scholarship** at Emerson University for maintaining a **3.88/4.0 CGPA**
+
+## Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-004B87?style=for-the-badge&logo=seaborn&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ## Contact
 
-I am seeking opportunities for **research collaboration or project work** in **Machine Learning, Natural Language Processing, and Computer Vision**, particularly those emphasizing methodological rigor and interpretability. You can reach me at **ayeshasaleem853@gmail.com**.
+I’m looking for **research or project opportunities** in **Machine Learning, NLP, and Computer Vision**.  
+📧 Email: **ayeshasaleem853@gmail.com**
 
-<br>
-
-**Fun Fact:** I enjoy exploring how mathematical intuition translates into model behavior, the bridge between **theory and implementation**.
+**Fun Fact:** I enjoy exploring how mathematical intuition shapes model behavior, the bridge between **theory and implementation**.

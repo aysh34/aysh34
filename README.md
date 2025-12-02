@@ -39,4 +39,4 @@ I’m a computer science undergrad at **Emerson University**, passionate about *
 I’m looking for **research or project opportunities** in **Machine Learning, NLP, and Computer Vision**.  
 📧 Email: **ayeshasaleem853@gmail.com**
 
-**Fun Fact:** I enjoy exploring how mathematical intuition shapes model behavior, the bridge between **theory and implementation**.
+**Fun Fact:** I tend to listen more than I talk, and that carries into my work. I like paying attention to the details.

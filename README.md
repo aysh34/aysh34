@@ -5,11 +5,12 @@ I’m a computer science undergrad at **Emerson University**, passionate about *
 ## Highlights
 
 - 🏅 **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** – Published 15+ ML notebooks, ranked in the top 4% globally  
-- 🌍 Developed an **Earth Observation ML Model** for **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)**  
+- 🌍 Developed an **Earth Observation ML Model** for **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)**
+- 🧠 Active contributor on **[Lablab.ai](https://lablab.ai/u/@aysh34/cmab655lw006ydz0sl682rh98)** in AI-focused hackathons and community projects, building real world AI applications and collaborating with global AI enthusiasts  
 - 🏆 Competed in **[CALICO Informatics Competition 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** at UC Berkeley  
 - 🥇 **1st place globally** in **[Harvard CS50x Puzzle Day 2025](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)**  
 - 💻 Solved **220+ DSA problems** on **[LeetCode](https://leetcode.com/u/ayesha_saleem9/)**  
-- 🎖️ Awarded the merit-based **Undergraduate Scholarship** at Emerson University for maintaining a **3.88/4.0 CGPA**
+- 🎖️ Awarded a **merit-based** undergraduate scholarship (Honhaar) at Emerson University for academic excellence, maintaining a **3.88/4.0** CGPA.
 
 ## Languages & Tools
 

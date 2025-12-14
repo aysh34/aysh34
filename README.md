@@ -1,18 +1,27 @@
-# Hi, I’m Ayesha
+# Hi, I'm Ayesha 👋
 
-I’m a computer science undergrad at **Emerson University**, passionate about **NLP** and **Computer Vision**. I build and explore machine learning models, diving into how they work under the hood and where language and vision intersect in AI.  
+I'm a **Computer Science undergraduate** at **Emerson University** and a **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** (top 4% globally). I'm passionate about **Natural Language Processing** and **Computer Vision**, exploring how machines understand language and perceive the world.
 
-## Highlights
+I love experimenting with ML models, understanding how they work under the hood, and discovering new possibilities at the intersection of language and vision in AI.
 
-- 🏅 **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** – Published 15+ ML notebooks, ranked in the top 4% globally  
-- 🌍 Developed an **Earth Observation ML Model** for **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)**
-- 🧠 Active contributor on **[Lablab.ai](https://lablab.ai/u/@aysh34/cmab655lw006ydz0sl682rh98)** in AI-focused hackathons and community projects, building real world AI applications and collaborating with global AI enthusiasts  
-- 🏆 Competed in **[CALICO Informatics Competition 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** at UC Berkeley  
-- 🥇 **1st place globally** in **[Harvard CS50x Puzzle Day 2025](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)**  
-- 💻 Solved **220+ DSA problems** on **[LeetCode](https://leetcode.com/u/ayesha_saleem9/)**  
-- 🎖️ Awarded a **merit-based** undergraduate scholarship (Honhaar) at Emerson University for academic excellence, maintaining a **3.88/4.0** CGPA.
+# 🌟 Highlights
 
-## Languages & Tools
+### Academic Excellence
+- 🎓 **Merit-Based Scholarship Recipient** – Awarded Honhaar Scholarship at Emerson University for outstanding academic achievement, maintaining a **3.88/4.0 CGPA** in Computer Science
+
+### Competitive Programming & Problem Solving
+- 🥇 **[1st Place Global Winner](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)** – Harvard CS50x Puzzle Day 2025
+- 🏆 **[CALICO Informatics Competition 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** – Competitor at UC Berkeley
+- 💻 **[LeetCode Problem Solver](https://leetcode.com/u/ayesha_saleem9/)** – Solved 220+ data structures and algorithms problems
+
+### Machine Learning & Data Science
+- 🏅 **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** – Top 4% globally with 15+ published ML notebooks
+- 🌍 **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)** – Developed Earth Observation ML Model for environmental monitoring
+
+### AI Community & Hackathons
+- 🧠 **Active AI Community Contributor** – Regular participant on **[Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765545167840)** and **[Lablab.ai](https://lablab.ai/u/@aysh34/cmab655lw006ydz0sl682rh98)**, building production-ready AI applications and collaborating with global developers
+
+## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -34,9 +43,11 @@ I’m a computer science undergrad at **Emerson University**, passionate about *
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Contact
+## 📫 Contact
 
-I’m looking for **research or project opportunities** in **Machine Learning, NLP, and Computer Vision**.  
-📧 Email: **ayeshasaleem853@gmail.com**
+I'm looking for **research or project opportunities** in **Machine Learning, NLP, and Computer Vision**.
 
-**Fun Fact:** I tend to listen more than I talk, and that carries into my work. I like paying attention to the details.
+📧 **Email:** [ayeshasaleem853@gmail.com](mailto:ayeshasaleem853@gmail.com)  
+🏅 **Kaggle:** [ayeshasal89](https://www.kaggle.com/ayeshasal89)  
+
+**💡 Fun Fact:** I tend to listen more than I talk, and that carries into my work. I like paying attention to the details.

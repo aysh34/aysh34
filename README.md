@@ -37,7 +37,5 @@ I love experimenting with ML models, understanding how they work under the hood,
 I'm looking for **research or project opportunities** in **Machine Learning, NLP, and Computer Vision**.
 
 📧 **Email:** [ayeshasaleem853@gmail.com](mailto:ayeshasaleem853@gmail.com)  
-🏅 **Kaggle:** [ayeshasal89](https://www.kaggle.com/ayeshasal89)  
-
 
 **💡 Fun Fact:** I tend to listen more than I talk, and that carries into my work. I like paying attention to the details.

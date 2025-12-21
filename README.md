@@ -19,7 +19,7 @@ I love experimenting with ML models, understanding how they work under the hood,
 
 - 🏅 **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/2360077601091785)** – Competed in Meta's international programming competition, tackling complex algorithmic challenges
   
-- 🏆 **[CALICO Informatics Competition 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** – Participated in UC Berkeley's competitive programming contest
+- 🏆 **[CALICO Informatics Competition 2024 and 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** – Participated in UC Berkeley's competitive programming contest
 
 - 💻 **[LeetCode Problem Solver](https://leetcode.com/u/ayesha_saleem9/)** – Actively solving data structures and algorithms problems across all difficulty levels
 

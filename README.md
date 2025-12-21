@@ -11,7 +11,7 @@ I love experimenting with ML models, understanding how they work under the hood,
 # 🌟 Highlights
 
 ### Academic Excellence
-- 🎓 **Merit-Based Scholarship Recipient** – Awarded Honhaar Scholarship at Emerson University for outstanding academic achievement, maintaining a **3.88/4.0 CGPA** in Computer Science
+- 🎓 **Undergrad Merit-Based Scholarship Recipient** – Awarded Honhaar Scholarship at Emerson University for outstanding academic achievement, maintaining a **3.88/4.0 CGPA** in Computer Science
 
 ### Competitive Programming & Problem Solving
 

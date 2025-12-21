@@ -14,9 +14,14 @@ I love experimenting with ML models, understanding how they work under the hood,
 - 🎓 **Merit-Based Scholarship Recipient** – Awarded Honhaar Scholarship at Emerson University for outstanding academic achievement, maintaining a **3.88/4.0 CGPA** in Computer Science
 
 ### Competitive Programming & Problem Solving
-- 🥇 **[1st Place Global Winner](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)** – Harvard CS50x Puzzle Day 2025
-- 🏆 **[CALICO Informatics Competition 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** – Competitor at UC Berkeley
-- 💻 **[LeetCode Problem Solver](https://leetcode.com/u/ayesha_saleem9/)** – Solved 220+ data structures and algorithms problems
+
+- 🥇 **[1st Place Global Winner](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)** – Ranked first globally among thousands of participants in Harvard's CS50x puzzle competition
+
+- 🏅 **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/2360077601091785)** – Competed in Meta's international programming competition, tackling complex algorithmic challenges
+  
+- 🏆 **[CALICO Informatics Competition 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** – Participated in UC Berkeley's competitive programming contest
+
+- 💻 **[LeetCode Problem Solver](https://leetcode.com/u/ayesha_saleem9/)** – Actively solving data structures and algorithms problems across all difficulty levels
 
 ### Machine Learning & Data Science
 - 🏅 **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** – Top 4% globally with 15+ published ML notebooks

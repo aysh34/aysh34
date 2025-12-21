@@ -3,7 +3,7 @@
   Hi, I'm Ayesha!
 </h1>
 
-I'm a **Computer Science undergraduate** at **Emerson University** and a **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)**. I'm passionate about **Natural Language Processing** and **Computer Vision**, exploring how machines understand language and perceive the world.
+I'm a **Computer Science undergraduate** at **Emerson University** and a **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)**. I am passionate about Data Science, Deep Learning, and AI-powered solutions. 
 
 I love experimenting with ML models, understanding how they work under the hood, and discovering new possibilities at the intersection of language and vision in AI.
 

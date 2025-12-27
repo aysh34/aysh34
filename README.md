@@ -7,6 +7,7 @@ I'm a **Computer Science undergraduate** at **Emerson University** and a **[Kagg
 
 I love experimenting with ML models, understanding how they work under the hood, and discovering new possibilities at the intersection of language and vision in AI.
 
+🔗 **[Learn more about my journey](https://aysh34.github.io/My-Story/)**
 
 # 🌟 Highlights
 

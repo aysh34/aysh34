@@ -16,7 +16,7 @@ I love experimenting with ML models, understanding how they work under the hood,
 
 ### Competitive Programming & Problem Solving
 
-- 🥇 **[Harvard CS50x puzzle competition](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)** – Ranked first globally among thousands of participants in Harvard's CS50x puzzle competition
+- 🥇 **[Harvard CS50x puzzle Day 2025](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)** – Ranked first globally among thousands of participants in Harvard's CS50x puzzle competition
 
 - 🏅 **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/2360077601091785)** – Competed in Meta's international programming competition, tackling complex algorithmic challenges
   

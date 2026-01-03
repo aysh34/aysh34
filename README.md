@@ -3,18 +3,22 @@
   Hi, I'm Ayesha!
 </h1>
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Expert%20%7C%20Top%204%25-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/ayeshasal89)
+[![LeetCode](https://img.shields.io/badge/LeetCode-DSA-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/ayesha_saleem9/)
+[![Email](https://img.shields.io/badge/Email-ayeshasaleem853%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayeshasaleem853@gmail.com)
+[![Read My Story](https://img.shields.io/badge/📖-Read%20My%20Story-00D9FF?style=flat)](https://aysh34.github.io/My-Story/)
+
 I'm a **Computer Science undergraduate** at **Emerson University** and a **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)**. I am passionate about Data Science, Deep Learning, and AI-powered solutions. 
 
 I love experimenting with ML models, understanding how they work under the hood, and discovering new possibilities at the intersection of language and vision in AI.
 
-🔗 **[Learn more about my journey](https://aysh34.github.io/My-Story/)**
 
-# 🌟 Highlights
+# 🌟 Achievements & Recognition
 
-### Academic Excellence
+
 - 🎓 **Undergrad Merit-Based Scholarship Recipient** – Awarded Honhaar Scholarship at Emerson University for outstanding academic achievement, maintaining a **3.88/4.0 CGPA** in Computer Science
 
-### Competitive Programming & Problem Solving
+- 🏅 **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** – Top 4% globally with 10+ published ML notebooks
 
 - 🥇 **[Harvard CS50x puzzle Day 2025](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)** – Ranked first globally among thousands of participants in Harvard's CS50x puzzle competition
 
@@ -24,12 +28,9 @@ I love experimenting with ML models, understanding how they work under the hood,
 
 - 💻 **[LeetCode Problem Solver](https://leetcode.com/u/ayesha_saleem9/)** – Actively solving data structures and algorithms problems across all difficulty levels
 
-### Machine Learning & Data Science
-- 🏅 **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** – Top 4% globally with 15+ published ML notebooks
 - 🌍 **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)** – Developed Earth Observation ML Model for environmental monitoring
 
-### AI Community & Hackathons
-- 🧠 **Active AI Community Contributor** – Regular participant on **[Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765545167840)** and **[Lablab.ai](https://lablab.ai/u/@aysh34/cmab655lw006ydz0sl682rh98)**, building production-ready AI applications and collaborating with global developers
+- 🌐 **Active AI Community Contributor** – Regular participant on **[Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765545167840)** and **[Lablab.ai](https://lablab.ai/u/@aysh34/cmab655lw006ydz0sl682rh98)**, building production-ready AI applications and collaborating with global developers
 
 
 
@@ -44,4 +45,4 @@ I'm looking for **research or project opportunities** in **Machine Learning, NLP
 
 📧 **Email:** [ayeshasaleem853@gmail.com](mailto:ayeshasaleem853@gmail.com)  
 
-**💡 Fun Fact:** I tend to listen more than I talk, and that carries into my work. I like paying attention to the details.
+💡 **Fun Fact:** I tend to listen more than I talk, and that carries into my work. I pay close attention to the details, whether debugging code or tuning hyperparameters.

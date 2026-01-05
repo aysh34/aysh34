@@ -12,7 +12,7 @@ I'm a **Computer Science undergraduate** at **Emerson University** and a **[Kagg
 I love experimenting with ML models, understanding how they work under the hood, and discovering new possibilities at the intersection of language and vision in AI.
 
 
-# 🌟 Achievements & Recognition
+# 🌟 Achievements
 
 
 - 🎓 **Undergrad Merit Scholarship Recipient** – Awarded Honhaar Scholarship at Emerson University for outstanding academic performance, maintaining a **3.88/4.0 CGPA** in Computer Science

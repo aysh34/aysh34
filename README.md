@@ -3,10 +3,6 @@
   Hi, I'm Ayesha!
 </h1>
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/ayeshasal89)
-[![Email](https://img.shields.io/badge/Email-ayeshasaleem853%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayeshasaleem853@gmail.com)
-<!--[![Read My Story](https://img.shields.io/badge/📖-Read%20My%20Story-00D9FF?style=flat)](https://aysh34.github.io/My-Story/)-->
-
 I'm a **Computer Science undergraduate** at **Emerson University** and a **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)**. I am passionate about Data Science, Deep Learning, and AI-powered solutions. 
 
 I love experimenting with ML models, understanding how they work under the hood, and discovering new possibilities at the intersection of language and vision in AI.

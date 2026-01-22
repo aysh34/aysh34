@@ -3,15 +3,13 @@
   Hi, I'm Ayesha!
 </h1>
 
-I'm a **Computer Science undergraduate** at **Emerson University** and a **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)**. I am passionate about Data Science, Deep Learning, and AI-powered solutions. 
-
+I am an undergraduate Computer Science student at Emerson University and a Kaggle Notebook Expert, passionate about Data Science, Deep Learning, and developing AI-driven solutions.
 I love experimenting with ML models, understanding how they work under the hood, and discovering new possibilities at the intersection of language and vision in AI.
 
+## Achievements
 
-# 🌟 Achievements
 
-
-- 🎓 **Undergrad Merit Scholarship Recipient** – Awarded Honhaar Scholarship at Emerson University for outstanding academic performance, maintaining a **3.88/4.0 CGPA** in Computer Science
+- 👩‍💻 **Undergrad Merit Scholarship Recipient** – Awarded Honhaar Scholarship at Emerson University for outstanding academic performance, maintaining a **3.88/4.0 CGPA** in Computer Science,	covering full undergraduate tuition
 
 - 🏅 **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** – Top 4% globally with 10+ published ML notebooks
 
@@ -29,15 +27,19 @@ I love experimenting with ML models, understanding how they work under the hood,
 
 
 
-## 🛠️ Languages & Tools
+## Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+- Data Science and Machine Learning: Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly, TensorFlow, PyTorch, Keras, OpenCV, Hugging Face, NLTK, Sentence Transformers 
+- Programming Languages: Java, Python, C++
+- Frameworks: Streamlit, Gradio, Flask 
+- Version Control: Git, GitHub 
+- Tools: VS Code, Google Colab, Anaconda, Jupyter Notebook
 
 
-## 📫 Contact
+## Contact
 
 I'm looking for **research or project opportunities** in **Machine Learning, NLP, and Computer Vision**.
 
-📧 **Email:** [ayeshasaleem853@gmail.com](mailto:ayeshasaleem853@gmail.com)  
+**Email:** [ayeshasaleem853@gmail.com](mailto:ayeshasaleem853@gmail.com)  
 
-💡 **Fun Fact:** I tend to listen more than I talk, and that carries into my work. I pay close attention to the details, whether debugging code or tuning hyperparameters.
+**Fun Fact:** I tend to listen more than I talk, and that carries into my work. I pay close attention to the details, whether debugging code or tuning hyperparameters.

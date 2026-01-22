@@ -9,21 +9,21 @@ I love experimenting with ML models, understanding how they work under the hood,
 ## Achievements
 
 
-- 👩‍💻 **Undergrad Merit Scholarship Recipient** – Awarded Honhaar Scholarship at Emerson University for outstanding academic performance, maintaining a **3.88/4.0 CGPA** in Computer Science, covering full undergraduate tuition fee
+- 👩‍💻 **Undergrad Merit Scholarship Recipient:** Awarded Honhaar Scholarship at Emerson University for outstanding academic performance, maintaining a **3.88/4.0 CGPA** in Computer Science, covering full undergraduate tuition fee
 
-- 🏅 **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** – Top 4% globally with 10+ published ML notebooks
+- 🏅 **[Kaggle Expert](https://www.kaggle.com/ayeshasal89):** Top 4% globally with 10+ published ML notebooks
 
-- 🥇 **[Harvard CS50x puzzle Day 2025](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png)** – Ranked first globally among thousands of participants in Harvard's CS50x puzzle competition
+- 🥇 **[Harvard CS50x puzzle Day 2025](https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png):** Ranked first globally among thousands of participants in Harvard's CS50x puzzle competition
 
-- 🏅 **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/2360077601091785)** – Competed in Meta's international programming competition, tackling complex algorithmic challenges
+- 🏅 **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/2360077601091785):** Competed in Meta's international programming competition, tackling complex algorithmic challenges
   
-- 🏆 **[CALICO Informatics Competition 2024 and 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** – Participated in UC Berkeley's competitive programming contest
+- 🏆 **[CALICO Informatics Competition 2024 and 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025):** Participated in UC Berkeley's competitive programming contest
 
-- 💻 **[LeetCode Problem Solver](https://leetcode.com/u/ayesha_saleem9/)** – Actively solving data structures and algorithms problems across all difficulty levels
+- 💻 **[LeetCode Problem Solver](https://leetcode.com/u/ayesha_saleem9/):** Actively solving data structures and algorithms problems across all difficulty levels
 
-- 🌍 **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)** – Developed Earth Observation ML Model for environmental monitoring
+- 🌍 **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge):** Developed Earth Observation ML Model for environmental monitoring
 
-- 🌐 **Active AI Community Contributor** – Regular participant on **[Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765545167840)** and **[Lablab.ai](https://lablab.ai/u/@aysh34/cmab655lw006ydz0sl682rh98)**, building production-ready AI applications and collaborating with global developers
+- 🌐 **Active AI Community Contributor:** Regular participant on **[Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765545167840)** and **[Lablab.ai](https://lablab.ai/u/@aysh34/cmab655lw006ydz0sl682rh98)**, building production-ready AI applications and collaborating with global developers
 
 
 

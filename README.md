@@ -9,7 +9,7 @@ I love experimenting with ML models, understanding how they work under the hood,
 ## Achievements
 
 
-- 👩‍💻 **Undergrad Merit Scholarship Recipient** – Awarded Honhaar Scholarship at Emerson University for outstanding academic performance, maintaining a **3.88/4.0 CGPA** in Computer Science,	covering full undergraduate tuition
+- 👩‍💻 **Undergrad Merit Scholarship Recipient** – Awarded Honhaar Scholarship at Emerson University for outstanding academic performance, maintaining a **3.88/4.0 CGPA** in Computer Science, covering full undergraduate tuition fee
 
 - 🏅 **[Kaggle Expert](https://www.kaggle.com/ayeshasal89)** – Top 4% globally with 10+ published ML notebooks
 

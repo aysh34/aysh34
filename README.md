@@ -31,7 +31,7 @@ I love experimenting with ML models, understanding how they work under the hood,
 
 - Data Science and Machine Learning: Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly, TensorFlow, PyTorch, Keras, OpenCV, Hugging Face, NLTK, Sentence Transformers 
 - Programming Languages: Java, Python, C++
-- Frameworks: Streamlit, Gradio, Flask 
+- Frameworks: Streamlit, Gradio, Flask, LangChain, RAG
 - Version Control: Git, GitHub 
 - Tools: VS Code, Google Colab, Anaconda, Jupyter Notebook
 

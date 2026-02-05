@@ -23,7 +23,7 @@ I love experimenting with ML models, understanding how they work under the hood,
 
 - 🌍 **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge):** Developed Earth Observation ML Model for environmental monitoring
 
-- 🌐 **Active AI Community Contributor:** Regular participant on **[Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765545167840)** and **[Lablab.ai](https://lablab.ai/u/@aysh34/cmab655lw006ydz0sl682rh98)**, building production-ready AI applications and collaborating with global developers
+- 🌐 **Active AI Community Contributor:** Regular participant on **[Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765545167840)** and **[Lablab.ai](https://lablab.ai/u/@aysh34/cmab655lw006ydz0sl682rh98)**, building AI applications and collaborating with global developers
 
 
 

@@ -13,9 +13,9 @@ I tend to listen more than I talk. That carries into my work, close attention to
 | 🎓 **[Merit Scholar 2025–2027](https://eum.edu.pk/department-of-computer-science-technologies/)** | Honhaar Scholarship · Full undergraduate tuition |
 | 🌍 **[NASA Space Apps Challenge 2025](https://github.com/aysh34/2025-NASA-Space-Apps-Challenge)** | Earth Observation ML model for environmental monitoring |
 | 💼 **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/2360077601091785)** | International competitive programming competition |
-| 🐻 **[CALICO — UC Berkeley 2024 & 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** | Competitive informatics, two consecutive years |
+| 🐻 **[CALICO UC Berkeley 2024 & 2025](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025)** | Competitive informatics, two consecutive years |
 | ⚡ **[LeetCode](https://leetcode.com/u/ayesha_saleem9/)** | Active DSA problem solver across all difficulty levels |
-| 🌐 **[Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765545167840) · [Lablab.ai](https://lablab.ai/u/@aysh34/cmab655lw006ydz0sl682rh98)** | AI hackathons · global developer community |
+| 🌐 **[Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765545167840) · [Lablab.ai](https://lablab.ai/u/@aysh34/cmab655lw006ydz0sl682rh98)** | Building and shipping AI applications with developers across the globe
 
 ## Work & Interests
 

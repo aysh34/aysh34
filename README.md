@@ -23,7 +23,7 @@ The Corpus Research Center is Pakistan's first dedicated corpus linguistics rese
   </tr>
    <tr style="border: none;">
     <td style="border: none; padding: 6px 4px; vertical-align: top; width: 30%;">🥇 <a href="https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png"><strong>Harvard CS50x Puzzle Day 2025</strong></a></td>
-    <td style="border: none; padding: 6px 4px; vertical-align: top;">Solved all 9/9 puzzles with team "Binge Thinker" among international competitors · Ranked #1 globally among thousands of participants</td>
+    <td style="border: none; padding: 6px 4px; vertical-align: top;">Solved all 9/9 puzzles with team "Binge Thinker" among international competitors · Top Rank globally among thousands of participants</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 6px 4px; vertical-align: top;">🏅 <a href="https://www.kaggle.com/ayeshasal89"><strong>Kaggle</strong></a></td>
@@ -53,7 +53,7 @@ The Corpus Research Center is Pakistan's first dedicated corpus linguistics rese
 
 ## Research & Technical Interests
 
-**Machine Learning** · **Natural Language Processing** · **Computer Vision** · **Representation Learning**
+Machine Learning, Natural Language Processing, Computer Vision, Representation Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />

@@ -19,7 +19,7 @@ The Corpus Research Center is Pakistan's first dedicated corpus linguistics rese
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; padding: 6px 4px; vertical-align: top;">🎓 <a href="https://eum.edu.pk/department-of-computer-science-technologies/"><strong>Honhaar Scholarship</strong></a></td>
-    <td style="border: none; padding: 6px 4px; vertical-align: top;">Chief Minister's Honhaar Merit Scholar (2025–2027) · Full undergraduate tuition · Awarded exclusively due to the highest CGPA (3.88/4) in my batch</td>
+    <td style="border: none; padding: 6px 4px; vertical-align: top;">Chief Minister's Honhaar Merit Scholar (2025–2027) · Full undergraduate tuition · Awarded exclusively due to the highest CGPA (3.91/4) in my batch</td>
   </tr>
    <tr style="border: none;">
     <td style="border: none; padding: 6px 4px; vertical-align: top; width: 30%;">🥇 <a href="https://github.com/aysh34/aysh34/blob/main/assets/CS50x%20Puzzle%20Day%202025.png"><strong>Harvard CS50x Puzzle Day 2025</strong></a></td>

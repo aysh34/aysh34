@@ -27,7 +27,7 @@ The Corpus Research Center is Pakistan's first dedicated corpus linguistics rese
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 6px 4px; vertical-align: top;">🏅 <a href="https://www.kaggle.com/ayeshasal89"><strong>Kaggle</strong></a></td>
-    <td style="border: none; padding: 6px 4px; vertical-align: top;">Kaggle Expert · Top 4% worldwide · 15+ published educational notebooks on transformers, XGBoost, and medical image analysis</td>
+    <td style="border: none; padding: 6px 4px; vertical-align: top;">Kaggle Expert · Top 3% worldwide · Published notebooks in the domains of CV, NLP and deep learning </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 6px 4px; vertical-align: top;">🌍 <a href="https://github.com/aysh34/2025-NASA-Space-Apps-Challenge"><strong>NASA Space Apps Challenge 2025</strong></a></td>
@@ -61,7 +61,7 @@ Machine Learning, Natural Language Processing, Computer Vision, Representation L
 
 ## Let's Connect
 
-I'm open to **Research Assistant and Teaching Assistant opportunities** in Machine Learning, NLP, and Computer Vision. Feel free to reach out!
+I am actively seeking Research opportunities in Machine Learning, NLP, and Computer Vision, and am also open to project collaborations. Please feel free to connect with me.
 
 📧 **Email:** ayeshasaleem853@gmail.com
 

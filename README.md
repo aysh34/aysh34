@@ -6,8 +6,9 @@
   <img src="https://img.shields.io/badge/CV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
-🎓 **3rd-year Computer Science student** at Emerson University  
-🔬 **Research Intern** at [Corpus Research Center, Minhaj University Lahore](https://crc.mul.edu.pk/)  
+🎓 **3rd-year Computer Science student** at Emerson University                                                           
+🌟 **Section Leader at Stanford University Code in Place 2026**                                                                         
+🔬 **Research Intern** at [Corpus Research Center, Minhaj University Lahore](https://crc.mul.edu.pk/)                                      
 🤖 Building at the intersection of **language and vision in AI**
 
 I am particularly interested in problems that require models to understand context, such as in multimodal systems, retrieval-augmented generation, and representation learning. I enjoy reading research papers, replicating their results, and developing effective solutions. Furthermore, I am passionate about sharing knowledge and mentoring my peers.

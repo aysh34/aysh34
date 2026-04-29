@@ -7,13 +7,18 @@
   <img src="https://img.shields.io/badge/CV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
-## About
 
-I’m a Computer Science undergraduate at Emerson University, interested in machine learning, and how people actually use technology in the real world. I spend most of my time reading papers, building models, and figuring out why things work the way they do. I also enjoy mentoring, solving problems on LeetCode</a>, and participating in hackathons. Outside of that, I explore ideas around AI systems that combine language and vision, and experiment with new project directions.
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
+## Hi there!  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+</br>
+
+I’m currently an undergraduate student in Computer Science at Emerson University, with a keen interest in machine learning and the practical applications of technology in everyday life. In my free time, I dive into research papers, develop models, and explore the underlying principles of how things function. I also enjoy watching Shark Tank and participating in hackathons on weekends. I’m always eager to collaborate on projects and brainstorm innovative ideas. Don’t hesitate to reach out and connect!
 
 ## Research Experience
 
-I'm a **Research Intern** at **[Corpus Research Center, Minhaj University Lahore](https://crc.mul.edu.pk/)** *Pakistan's first dedicated corpus linguistics center*
+I'm a **Research Intern** at **[Corpus Research Center, Minhaj University Lahore](https://crc.mul.edu.pk/)** — *Pakistan's first dedicated corpus linguistics center*
 
 - Working on pragmatic trigger classification in Urdu–English code-switching on Pakistani Twitter  
 - Analyzing code-mixed language through a computational sociolinguistics perspective  

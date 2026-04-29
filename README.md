@@ -44,10 +44,6 @@ I'm a **Research Intern** at **[Corpus Research Center, Minhaj University Lahore
 
 ## Technical Skills
 
-**Frameworks:** PyTorch, TensorFlow, Scikit-learn  
-**Libraries:** Transformers, OpenCV, NumPy, Pandas  
-**Tools:** Git, Jupyter, FAISS  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
 </p>
@@ -68,7 +64,7 @@ I'm a **Research Intern** at **[Corpus Research Center, Minhaj University Lahore
   <a href="https://www.linkedin.com/in/ayesha-saleem">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   
-  <a href="https://twitter.com/aysh34">
+  <a href="https://twitter.com/ayeshasaleem85">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /> </a>
   
 <p align="center">

@@ -14,7 +14,7 @@
 
 </br>
 
-I’m currently an undergraduate student in Computer Science at Emerson University, with a keen interest in machine learning and the practical applications of technology in everyday life. In my free time, I dive into research papers, develop models, and explore the underlying principles of how things function. I also enjoy watching Shark Tank and participating in hackathons on weekends. I’m always eager to collaborate on projects and brainstorm innovative ideas. Don’t hesitate to reach out and connect!
+I’m an undergrad Computer Science student at Emerson University, with a strong passion for **machine learning** and **healthcare AI**. In my free time, I read research papers, watch Shark Tank, and explore new tools/frameworks. I also participate in online hackathons on weekends. I’m always eager to collaborate on projects and brainstorm innovative ideas. Don’t hesitate to reach out and connect!
 
 ## Research Experience
 

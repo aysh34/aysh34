@@ -32,7 +32,7 @@ I'm a **Research Intern** at **[Corpus Research Center, Minhaj University Lahore
 
 ## Achievements
 
-- <a href="https://www.facebook.com/share/p/18YVs2n6wm/"><strong>**Section Leader**</strong></a> at Stanford University Code in Place 2026, where I am teaching a cohort of students in a 2-month Python programming course.
+- <a href="https://www.facebook.com/share/p/18YVs2n6wm/"><strong>**Section Leader**</strong></a> at Stanford University Code in Place 2026, where I am teaching a cohort of international students in a 2-month Python programming course.
 - <a href="https://cs50.harvard.edu/certificates/69cddd6f-cd9e-45a0-9e26-34fb645380c3"><strong>Harvard CS50x Puzzle Day 2026</strong></a>, Solved 10/10 challenges  
 - <a href="https://eum.edu.pk/department-of-computer-science-technologies/"><strong>Honhaar Merit Scholarship</strong></a>, Undergrad Merit Scholar (CGPA: 3.91/4)  
 - <a href="https://certificates.cs50.io/5ae6b9a5-ff61-40bc-8e97-7f000e28966c.pdf?size=A4"><strong>Harvard CS50x Puzzle Day 2025</strong></a>, Solved 9/9 challenges; ranked globally  
@@ -40,7 +40,7 @@ I'm a **Research Intern** at **[Corpus Research Center, Minhaj University Lahore
 - <a href="https://github.com/aysh34/2025-NASA-Space-Apps-Challenge"><strong>NASA Space Apps Challenge 2025</strong></a>, ML-based Earth observation and exoplanet detection  
 - <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/2360077601091785"><strong>Meta Hacker Cup 2025</strong></a>, Qualified for Round 1  
 - <a href="https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025"><strong>UC Berkeley CALICO</strong></a>, Informatics competition participant (2024)  
-- <a href="https://leetcode.com/u/ayesha_saleem9/"><strong>LeetCode</strong></a>, Active problem solving
+- <a href="https://leetcode.com/u/ayesha_saleem9/"><strong>LeetCode</strong></a>, 220+ problems solved 
 
 ## Technical Skills
 
@@ -77,6 +77,7 @@ I'm a **Research Intern** at **[Corpus Research Center, Minhaj University Lahore
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=aysh34&theme=tokyonight&no-frame=true&no-bg=true" width="48%" /> -->
   </p>
 
-💌 Have a question? Feel free to email me at ayeshasaleem853@gmail.com
-  
+💌 Have a question? Feel free to email me at:  
+[ayeshasaleem853@gmail.com](mailto:ayeshasaleem853@gmail.com)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />

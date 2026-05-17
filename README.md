@@ -32,7 +32,7 @@ I'm a **Research Intern** at **[Corpus Research Center, Minhaj University Lahore
 
 ## Achievements
 
-- <a href="https://www.facebook.com/share/p/18YVs2n6wm/"><strong>**Section Leader**</strong></a> at Stanford University Code in Place 2026, where I am teaching a cohort of international students in a 2-month Python programming course.
+- <a href="https://github.com/aysh34/Code-in-Place-2026"><strong>**Section Leader**</strong></a> at Stanford University Code in Place 2026, where I am teaching a cohort of international students in a 2-month Python programming course.
 - <a href="https://cs50.harvard.edu/certificates/69cddd6f-cd9e-45a0-9e26-34fb645380c3"><strong>Harvard CS50x Puzzle Day 2026</strong></a>, Solved 10/10 challenges  
 - <a href="https://eum.edu.pk/department-of-computer-science-technologies/"><strong>Honhaar Merit Scholarship</strong></a>, Undergrad Merit Scholar (CGPA: 3.91/4)  
 - <a href="https://certificates.cs50.io/5ae6b9a5-ff61-40bc-8e97-7f000e28966c.pdf?size=A4"><strong>Harvard CS50x Puzzle Day 2025</strong></a>, Solved 9/9 challenges; ranked globally  

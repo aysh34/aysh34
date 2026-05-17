@@ -50,8 +50,8 @@ I'm a **Research Intern** at **[Corpus Research Center, Minhaj University Lahore
 
 ## Leadership & Volunteering
 
-- **Section Leader** - Stanford University Code in Place 2026
-- **Hackathons participant globally**: Kaggle, lablab.ai, Devpost
+- **[Section Leader](https://github.com/aysh34/Code-in-Place-2026)** - Stanford University Code in Place 2026
+- **[Hackathons participant globally](https://lablab.ai/ai-hackathons)** - Kaggle, lablab.ai, Devpost
 
 ## Get In Touch
 

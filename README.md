@@ -19,8 +19,6 @@ CS undergraduate at **Emerson University Multan** | Research Intern at **Corpus 
 
 I work at the intersection of **AI/ML, CV, NLP, and healthcare AI**. Outside of research, I compete in international hackathons, solve problems on LeetCode, and read ML papers for fun.
 
-> *Currently open to research collaborations and ML engineering internships.*
-
 
 ## 🏆 Achievements
 

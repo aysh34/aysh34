@@ -21,23 +21,23 @@
   <a href="https://www.linkedin.com/in/ayesha-saleem6/">LinkedIn</a> 
 </p>
 
-## 👤 About Me
+## About Me
 
 Hi everyone! I'm Ayesha, and I'm currently studying Computer Science at Emerson University in Multan. I'm also doing a Research Internship at the Corpus Research Center at Minhaj University Lahore. I'm super passionate about AI/ML, NLP, and computer vision, especially how we can use them to help in healthcare and for languages that don't have many resources. When I'm not busy creating cool models, I love participating in hackathons with incredibly talented people from all over the globe, or just chilling with a good movie and some chocolate biscuits.
 
-## 📚 Education
+## Education
 
 - **[Bachelor of Science in Computer Science](https://eum.edu.pk/department-of-computer-science-technologies/)**  
 Emerson University Multan 
-  > CGPA: 3.91/4.0 · *Honors:* 'Chief Minister's Honhaar Scholarship' (Merit-based undergrad scholarship covering full tuition fee) 
+  CGPA: 3.92/4.0 · *Honors:* 'Chief Minister's Honhaar Scholarship' (National undergrad merit scholarship covering full tuition fee) 
 
-- **F.Sc. (Pre-Medical)**  
-  > Score: 1009/1100 (91.7%) · *Honors:* 'eYouth Initiative Laptop Award' by the Chief Minister of the state
+- **Intermediate/F.Sc. (Pre-Medical)**  
+  Score: 1009/1100 (91.7%) · *Honors:* 'PEEF Merit Scholarship' (National merit scholarship in recognition of academic achievements)*
 
 - **Matriculation (Science)**  
-  > Score: 1055/1100 (95.9%) · *Honors:* 'PEEF Merit Scholarship' (Awarded in recognition of academic achievement in Secondary examination)
+  Score: 1055/1100 (95.9%) · Honors:* 'eYouth Initiative Laptop Award' by the Chief Minister of the state
 
-## 🏆 Achievements
+## Achievements
 
 - **[Chief Minister's Honhaar Scholarship](https://eum.edu.pk/department-of-computer-science-technologies/)** – Awarded National undergrad merit scholarship 
 - **[Stanford Code in Place 2026](https://digitalcredential.stanford.edu/check/4350D865C7D75590766C6BB96BCDA0FFDF1C808ED7E71561BCA5E86252E39FB2bWZhb01RbHZQLzN3UnErZGp5dGhCTE42Rnh3N2N4L200UXNua2NYZitlQ2FhMDdY)** – Section Leader · certified by Stanford Engineering · June 2026
@@ -48,14 +48,14 @@ Emerson University Multan
 - **[LeetCode 100 Days Badge 2024](https://leetcode.com/u/ayesha_saleem9/)** – Top 4.2% of all LeetCoders 
 
 
-## 🔬 Research
+## Research
 
 > [**Research Intern**](https://www.facebook.com/share/p/1FvdkWtuQv/) · Feb 2026 – Present
 
 - Researching **pragmatic triggers in Urdu–English code-switching** tweets using a sequential mixed-methods design
 - Contributing to the Social Media Corpus of Pakistan and NLP tooling for Urdu and regional languages
 
-## 🎯 Leadership & Teaching
+## Leadership & Teaching
 
 - **[Stanford Code in Place 2026 — Section Leader](https://digitalcredential.stanford.edu/check/4350D865C7D75590766C6BB96BCDA0FFDF1C808ED7E71561BCA5E86252E39FB2bWZhb01RbHZQLzN3UnErZGp5dGhCTE42Rnh3N2N4L200UXNua2NYZitlQ2FhMDdY)**  
 Certified by Stanford Engineering — *Jun 2026*
@@ -64,7 +64,7 @@ Led weekly discussion sections, guided beginners through Python fundamentals, an
 - **[Harvard CS50x Puzzle Day 2026](https://cs50.harvard.edu/certificates/69cddd6f-cd9e-45a0-9e26-34fb645380c3)**  
 Led a team of 3 members · Solved 10/10 challenges  
 
-## 🎓 Certifications & Credentials
+## Certifications & Credentials
 
 | | |
 |:---:|:---:|
@@ -87,11 +87,9 @@ Led a team of 3 members · Solved 10/10 challenges
 | **Livestream by Google DeepMind** | **Kaggle Recognition** · Google 5-Day Gen AI Intensive Livestream 2025 |
 
 
-## 📬 Let's Connect
+## Connect with me
 
-I'm always happy to chat about research, team up on ML/NLP projects, or even just get a great paper recommendation!
+I'm always happy to chat about research, team up on ML/NLP projects, or even get a great paper recommendation!
 
   <a href="https://www.linkedin.com/in/ayesha-saleem6/">LinkedIn</a> •
   <a href="mailto:ayeshasaleem853@gmail.com">Email</a> •
-  <a href="https://www.kaggle.com/ayeshasal89">Kaggle</a>
-

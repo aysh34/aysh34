@@ -32,7 +32,7 @@ Emerson University Multan
   CGPA: 3.92/4.0 · *Honors:* 'Chief Minister's Honhaar Scholarship' (National undergrad merit scholarship covering full tuition fee) 
 
 - **Intermediate/F.Sc. (Pre-Medical)**  
-  Score: 1009/1100 (91.7%) · *Honors:* 'PEEF Merit Scholarship' (National merit scholarship in recognition of academic achievements)*
+  Score: 1009/1100 (91.7%) · *Honors:* 'PEEF Merit Scholarship' (National merit scholarship in recognition of academic achievements)
 
 - **Matriculation (Science)**  
   Score: 1055/1100 (95.9%) · Honors:* 'eYouth Initiative Laptop Award' by the Chief Minister of the state

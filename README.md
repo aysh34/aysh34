@@ -92,4 +92,15 @@ Led a team of 3 members · Solved 10/10 challenges
 I'm always happy to chat about research, team up on ML/NLP projects, or even get a great paper recommendation!
 
   <a href="https://www.linkedin.com/in/ayesha-saleem6/">LinkedIn</a> •
-  <a href="mailto:ayeshasaleem853@gmail.com">Email</a> •
+  <a href="mailto:ayeshasaleem853@gmail.com">Email</a>
+
+
+
+<div align='center'>
+
+  </br> 
+  </br> 
+  
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=graywhite&quoteCategory=success)
+  
+</div>

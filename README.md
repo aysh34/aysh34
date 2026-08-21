@@ -23,7 +23,7 @@
 
 ## About Me
 
-Hi everyone! I'm Ayesha, and I'm currently studying Computer Science at Emerson University in Multan. I'm also doing a Research Internship at the Corpus Research Center at Minhaj University Lahore. I'm super passionate about AI/ML, NLP, and computer vision, especially how we can use them to help in healthcare and for languages that don't have many resources. When I'm not busy creating cool models, I love participating in hackathons with incredibly talented people from all over the globe, or just chilling with a good movie and some chocolate biscuits.
+Hi everyone! I'm Ayesha, and I'm currently studying Computer Science at Emerson University in Multan. I'm also doing a Research Internship at the Corpus Research Center at Minhaj University Lahore. I'm super passionate about AI/ML, NLP, and computer vision, especially how we can use them to help in healthcare and for languages that don't have many resources. When I'm not busy creating models, I love participating in hackathons with incredibly talented people from all over the globe, or just chilling with a good movie.
 
 ## Education
 

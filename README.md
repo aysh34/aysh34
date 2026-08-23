@@ -23,19 +23,24 @@
 
 ## About Me
 
-Hi everyone! I'm Ayesha, and I'm currently studying Computer Science at Emerson University in Multan. I'm also doing a Research Internship at the Corpus Research Center at Minhaj University Lahore. I'm super passionate about AI/ML, NLP, and computer vision, especially how we can use them to help in healthcare and for languages that don't have many resources. When I'm not busy creating models, I love participating in hackathons with incredibly talented people from all over the globe, or just chilling with a good movie.
+Hi, I'm Ayesha Saleem, a final-year Computer Science student at Emerson University Multan, with a CGPA of 3.92/4.0.
+
+I work at the intersection of AI/ML, NLP, and Computer Vision, with a particular interest in low-resource languages and healthcare AI. 
+Outside of research and code, I enjoy competing in international hackathons with people from all over the world. I'm also a movie person when I finally get a break.
+
+I'm currently a Research Intern at the Corpus Research Center, Minhaj University Lahore, and I'm actively seeking funded MS/PhD positions for Fall 2027.
 
 ## Education
 
-- **[Bachelor of Science in Computer Science](https://eum.edu.pk/department-of-computer-science-technologies/)**  
-Emerson University Multan 
-  CGPA: 3.92/4.0 · *Honors:* 'Chief Minister's Honhaar Scholarship' (National undergrad merit scholarship covering full tuition fee) 
+- **[Bachelor of Science in Computer Science](https://eum.edu.pk/department-of-computer-science-technologies/)**   
+Emerson University Multan
+CGPA: **3.92**/4.0 · *Honors:* 'Honhaar Scholarship' (National undergraduate merit scholarship by the Government of Pakistan, covering 100% of the tuition fee)
 
-- **Intermediate/F.Sc. (Pre-Medical)**  
-  Score: 1009/1100 (91.7%) · *Honors:* 'PEEF Merit Scholarship' (National merit scholarship in recognition of academic achievements)
+- **Intermediate/F.Sc.**  
+  Score: 1009/1100 (91.7%) · *Honors:* 'PEEF Merit Scholarship' (National merit scholarship by the Chief Minister of Pakistan)
 
-- **Matriculation (Science)**  
-  Score: 1055/1100 (95.9%) · Honors:* 'eYouth Initiative Laptop Award' by the Chief Minister of the state
+- **Matriculation (Science)**     
+  Score: 1055/1100 (95.9%) · *Honors:* Received the 'eYouth Initiative Laptop Award' from the Prime Minister of Pakistan
 
 ## Achievements
 

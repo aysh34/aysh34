@@ -34,13 +34,17 @@ I'm currently a Research Intern at the Corpus Research Center, Minhaj University
 
 - **[Bachelor of Science in Computer Science](https://eum.edu.pk/department-of-computer-science-technologies/)**   
 Emerson University Multan
-CGPA: **3.92**/4.0 · *Honors:* 'Honhaar Scholarship' (National undergraduate merit scholarship by the Government of Pakistan, covering 100% of the tuition fee)
+CGPA: **3.92**/4.0
+- *Honors:* 'Honhaar Scholarship' (National undergraduate merit scholarship by the Government of Pakistan, covering 100% of the tuition fee)
 
+<!--
 - **Intermediate/F.Sc.**  
   Score: 1009/1100 (91.7%) · *Honors:* 'PEEF Merit Scholarship' (National merit scholarship by the Chief Minister of Pakistan)
 
 - **Matriculation (Science)**     
   Score: 1055/1100 (95.9%) · *Honors:* Received the 'eYouth Initiative Laptop Award' from the Prime Minister of Pakistan
+
+-->
 
 ## Achievements
 
@@ -69,7 +73,8 @@ Led weekly discussion sections, guided beginners through Python fundamentals, an
 - **[Harvard CS50x Puzzle Day 2026](https://cs50.harvard.edu/certificates/69cddd6f-cd9e-45a0-9e26-34fb645380c3)**  
 Led a team of 3 members · Solved 10/10 challenges  
 
-## Certifications & Credentials
+
+<!-- ## Certifications & Credentials
 
 | | |
 |:---:|:---:|
@@ -91,6 +96,7 @@ Led a team of 3 members · Solved 10/10 challenges
 | <a href="https://www.kaggle.com/ayeshasal89"><img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/live_stream_kaggle_question.png" width="380" alt="Question featured live — answered by Kieran Milan, Google DeepMind"/></a> | <img src="https://raw.githubusercontent.com/aysh34/aysh34/main/assets/kaggle_bottle2.jpg" width="380" alt="Kaggle recognition — Google 5-Day Gen AI Intensive"/> |
 | **Livestream by Google DeepMind** | **Kaggle Recognition** · Google 5-Day Gen AI Intensive Livestream 2025 |
 
+-->
 
 ## Connect with me
 

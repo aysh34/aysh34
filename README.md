@@ -15,15 +15,17 @@
 -->
 
 <h1 align="center">Ayesha Saleem</h1>
+
+<!---
 <p align="center">
   <a href="mailto:ayeshasaleem853@gmail.com">Email</a> /
   <a href="https://www.kaggle.com/ayeshasal89">Kaggle</a> / 
   <a href="https://www.linkedin.com/in/ayesha-saleem6/">LinkedIn</a> 
 </p>
+-->
 
-## About Me
 
-Hi, I'm Ayesha Saleem, a final-year Computer Science student at Emerson University Multan, with a CGPA of 3.92/4.0.
+Hi, I'm Ayesha, a final-year Computer Science student at Emerson University Multan, with a CGPA of 3.92/4.0.
 
 I work at the intersection of AI/ML, NLP, and Computer Vision, with a particular interest in low-resource languages and healthcare AI. 
 Outside of research and code, I enjoy competing in international hackathons with people from all over the world. I'm also a movie person when I finally get a break.

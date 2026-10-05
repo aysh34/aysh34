@@ -30,7 +30,7 @@ Hi, I'm Ayesha, a final-year Computer Science student at Emerson University Mult
 I work at the intersection of AI/ML, NLP, and Computer Vision, with a particular interest in low-resource languages and healthcare AI. 
 Outside of research and code, I enjoy competing in international hackathons with people from all over the world. I'm also a movie person when I finally get a break.
 
-I'm currently a Research Intern at the Corpus Research Center, Minhaj University Lahore, and I'm actively seeking funded MS/PhD positions for Fall 2027.
+I'm currently a Research Intern at the Corpus Research Center, Minhaj University Lahore, and I'm actively seeking graduate opportunities (MS/PhD positions) for Fall 2027.
 
 ## Education
 
